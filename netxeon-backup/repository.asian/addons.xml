@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="metadata.asiandb.com"
+       name="AsianDB"
+       version="1.0.3"
+       provider-name="FIXME">
+  <requires>
+    <import addon="xbmc.metadata" version="1.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.movies"
+             language="en"
+             library="asiandb.xml"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">AsianDB Movie Scraper</summary>
+    <summary lang="hu">AsianDB filmadat leolvasó</summary>
+    <summary lang="kr">AsianDB 영화 스크래퍼</summary>
+    <summary lang="pl">Scraper filmów AsianDB</summary>
+    <summary lang="pt">Scraper de filmes AsianDB</summary>
+    <description lang="en">Download Movie information from www.asiandb.com</description>
+    <description lang="hu">Film információk letöltése a www.asiandb.com webhelyről</description>
+    <description lang="kr">www.asiandb.com 에서 영화 정보 다운로드</description>
+    <description lang="pl">Pobieraj informacje o filmach z www.asiandb.com</description>
+    <description lang="pt">Descarregar informação de filmes de www.asiandb.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="metadata.common.musicbrainz.org"
+       name="MusicBrainz Scraper Library"
+        version="2.0.4"
+       provider-name="XBMC Foundation">
+  <requires>
+    <import addon="xbmc.metadata" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.library"
+             library="musicbrainz.xml"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="bg">Библиотека за сваляне на музикална инф. от MusicBrainz</summary>
+    <summary lang="en">MusicBrainz Music Scraper Library</summary>
+    <summary lang="de">Musik-Scraper für musicbrainz.org</summary>
+    <summary lang="es">Scraper de música de MusicBrainz</summary>
+    <summary lang="fi">MusicBrainz musiikkitietojen lataajan kirjasto</summary>
+    <summary lang="fr">Scraper MusicBrainz pour la musique</summary>
+    <summary lang="hu">MusicBrainz zenei adat leolvasó</summary>
+    <summary lang="nl">MusicBrainz-scraperfuncties</summary>
+    <summary lang="pl">Scraper muzyki MusicBrainz</summary>
+    <summary lang="pt">Scraper de música MusicBrainz</summary>
+    <summary lang="ro">Bibliotecă catalog de muzică MusicBrainz</summary>
+    <summary lang="ru">Музыкальная Информация MusicBrainz</summary>
+    <summary lang="se">Skrapa för musicbrainz.org</summary>
+    <summary lang="zh">MusicBrainz音乐刮削器代码库</summary>
+    <description lang="bg">Извлича инф. за музикални файлове от www.musicbrainz.org</description>
+    <description lang="en">Download Music information from www.musicbrainz.org</description>
+    <description lang="de">Downloade Musik Informationen von www.musicbrainz.org</description>
+    <description lang="es">Descarga información musical de www.musicbrainz.org</description>
+    <description lang="fi">Lataa musiikkitietoja osoitteesta www.musicbrainz.org</description>
+    <description lang="fr">Télécharger les infos musicales depuis www.musicbrainz.org</description>
+    <description lang="hu">Zene információk letöltése a www.musicbrainz.org webhelyről</description>
+    <description lang="nl">Muziekinformatie ophalen van www.musicbrainz.org</description>
+    <description lang="pl">Pobieraj informacje o muzyce z www.musicbrainz.org</description>
+    <description lang="pt">Descarregar informação de música de www.musicbrainz.org</description>
+    <description lang="ro">Descărcați informații muzică de pe www.musicbrainz.org</description>
+    <description lang="ru">Загружать информацию о Музыке с www.musicbrainz.org</description>
+    <description lang="se">Ladda ner musikinformation från www.musicbrainz.org</description>
+    <description lang="zh">从www.musicbrainz.org下载音乐信息</description>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.hongkongradio" name="Hong Kong Radio" version="0.2.0" provider-name="QuincyCheng">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Hong Kong Radio</summary>
+		<summary lang="zh">香港收音機</summary>
+        <language>en zh</language>
+        <description lang="en">Hong Kong Radio, including channels from RTHK and Commercial Radio</description>
+		<description lang="zh">香港收音機, 包括來自香港電台及商業電台頻道</description>
+    <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.audio.sgradio"
+       name="sg!Radio"
+       version="1.0.0"
+       provider-name="Sean, GadgetReactor.com">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>audio</provides>
+	</extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">Singapore Radio</summary>
+    <description lang="en">Listen Online to Singapore Radio Channels. Class 95, Kiss 92, FM 987, Yes 933, Warna, Ria, and more.
+	</description>
+    <platform>all</platform>
+	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <website>http://www.gadgetreactor.com/portfolio/sgradio/</website>
+    <email></email>
+    <source>http://github.com/gadgetreactor/plugin.video.sgtv</source>
+	</extension>
+</addon>
+
+<addon id="plugin.video.allinone" version="7.0.6" name="Entertainment [COLOR dodgerblue][B]HUB[/B][/COLOR]" provider-name="@TheYid009">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.urlresolver"  version="2.0.9"/>
+        <import addon="script.module.simplejson" version="3.3.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>All in one [COLOR lime]SUPER ADDON[/COLOR] for all you movies tv shows sports and music lovers free on demand streaming 720p 1080p HD SD MP4 MKV AVI AND NOW with 1000s 0f live streams</summary>
+        <description>Play a wide selection of scene release movies and Tv shows from OneClickWatch Viooz MyVideoLinks and loads more in this [COLOR lime]SUPER ADDON[/COLOR] 1000's and 1000's of movies and tv shows all free.... best hosts are putlocker vidto billionuploads vidbull 180upload movreel vidxden vidbux and many many more...NOW WITH RADIO STREAMING (UK, US, Jam)..... AND NOW with 1000s 0f live streams</description>
+        <platform>all</platform>
+	 <website>http://www.xbmchub.com/</website>
+        <forum>http://www.tvaddons.ag/forums/forums/146-THEYID-REPO</forum>
+	 <email>Twitter @TheYid009</email>
+        <disclaimer lang="en">[COLOR red][B][I] @TheYid009 [/B][/I][/COLOR] [COLOR dodgerblue][B]xbmchub.com[/B][/COLOR]</disclaimer>
+    </extension>
+</addon>
+
+<addon id="plugin.video.anime44"
+       name="Anime44"
+       version="0.0.2"
+       provider-name="TheHighway">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.elementtree" version="1.2.7"/>
+    <import addon="script.module.cryptopy" version="1.2.6"/>
+    <import addon="script.module.simplejson"    version="2.0.10" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="anime44.py">
+	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Anime44 video plugin</summary>
+    <description lang="en">Videos from anime44.com</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/highway99s-xbmc-repo/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <broken>Merged with others.  Can be found in TheAnimeHighway and TheBinaryHighway.</broken>
+  </extension>
+</addon>
+
+<addon id="plugin.video.animefate"
+       name="A[COLOR firebrick][I]nime[/I][/COLOR] F[COLOR mediumpurple]ate[/COLOR]"
+       version="0.1.0"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver"  />
+  	<import addon="script.module.metahandler"  />
+  	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aAnimeFATE.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Addon for AnimeFATE suggested by darkorical via IRC Chat.</summary>
+  	<description>Video Addon for AnimeFATE.com.  Graphics by Marquerite and TheHighway.</description>
+  	<disclaimer>By using this, you take reponsibility for anything that happens.  Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://forums.tvaddons.ag/threads/18927-AnimeFate</forum>
+    <website>http://www.tvaddons.ag/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.animeftw"
+       name="AnimeFTW.tv"
+       version="1.7.0"
+       provider-name="maruchan">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.0.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>29000</minversion>
+    <summary>Watch high-quality, streaming anime from AnimeFTW.tv!</summary>
+    <description>AnimeFTW.tv provides high-quality, streaming anime using both DivX and H264 video codecs.  With over 251 series and 882 GB of video available, AnimeFTW aims to provide the best collection of anime series, OVAs, and movies to its users.
+    </description>
+    <disclaimer>You must have an account at www.animeftw.tv and be logged in for this addon to function!  Only the first two episodes are available to free members!</disclaimer>
+  </extension>
+</addon>
+
+<addon id="repository.netxeon" name="Netxeon Addons" version="1.0.6" provider-name="xk">
+	<extension point="xbmc.addon.repository" name="Netxeon Addons">
+		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/netxeon/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/netxeon/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/netxeon</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>XBMC Addons for Adults Only</summary>
+		<description>This repository contains addons that are for adults only. You may only view the contents of this repository if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content.</description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.hello.world" name="Hello World" version="1.0.0" provider-name="zag">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Popup Hello World</summary>
+		<description lang="en">Example Script to show hello world</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
+		<source>https://github.com/zag2me/script.hello.world</source>
+		<website>Kodi.tv</website>
+		<email>zag@kodi.org</email>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+		</assets>
+		<news>Updated the addon to use new addon.xml metadata</news>
+	</extension>
+</addon>
+
+<addon id="script.navi-x"
+       name="Navi-X"
+       version="3.8.2"
+       provider-name="Team Navi-X and XBMCHUB.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="repository.xbmchub" optional="true" />
+    <import addon="script.module.urlresolver"  />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py" >
+    <provides>executable video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary>Media Browser Addon for XBMC.</summary>
+    <description>Navi-X is the oldest and most trusted add-on for XBMC, used by millions of people worldwide. You'll find everything from live television to your favourite movies and television shows, easily accessible.</description>
+    <disclaimer>http://www.navixtreme.com/terms/</disclaimer>
+    <forum>http://www.xbmchub.com/forums/forums/38-NAVI-X-MEDIA-BROWSER</forum>
+    <website>http://www.navixtreme.com/</website>
+    <source></source>
+    <email></email>
+  </extension>
+</addon>
+</addons>

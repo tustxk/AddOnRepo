@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.netxeon" name="Netxeon Addons" version="1.0.6" provider-name="xk">
-	<extension point="xbmc.addon.repository" name="Netxeon Addons">
-		<info compressed="false">http://raw.github.com/xbmc-adult/xbmc-adult/ghmaster/addons.xml</info>
-		<checksum>http://raw.github.com/xbmc-adult/xbmc-adult/ghmaster/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/xbmc-adult/xbmc-adult/ghmaster</datadir>
+<addon id="repository.xbmcadult" name="XBMC-Adult Addons" version="1.0.6" provider-name="xbmc-adult">
+	<extension point="xbmc.addon.repository" name="XBMC Adult Addons">
+		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/netxeon/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/netxeon/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tustxk/AddOnRepo/tree/master/netxeon</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>XBMC Addons for Adults Only</summary>

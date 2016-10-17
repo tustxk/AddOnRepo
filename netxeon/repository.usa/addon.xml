@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.asian" name="asian Addons" version="1.0.6" provider-name="xk">
+<addon id="repository.usa" name="usa Addons" version="1.0.6" provider-name="xk">
 	<extension point="xbmc.addon.repository">
-		<info compressed="false">https://github.com/tustxk/AddOnRepo/blob/master/repository/repository.asian/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/repository/repository.asian/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/repository/repository.asian</datadir>
+		<info compressed="false">https://github.com/tustxk/AddOnRepo/blob/master/repository/repository.usa/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/repository/repository.usa/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/repository/repository.usa</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>XBMC Addons for Adults Only</summary>

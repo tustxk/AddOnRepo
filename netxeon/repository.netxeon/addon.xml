@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.netxeon" name="Netxeon Addons" version="1.0.6" provider-name="xk">
+<addon id="repository.netxeon" name="Netxeon Addons" version="1.0.0" provider-name="netxeon">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/netxeon/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/netxeon/addons.xml.md5</checksum>

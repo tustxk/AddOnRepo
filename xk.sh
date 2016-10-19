@@ -34,3 +34,6 @@ function release(){
 CUR_DIR=`pwd`
 read_dir $CUR_DIR
 release $CUR_DIR
+git add -A
+git commit -m 'test'
+git push origin master

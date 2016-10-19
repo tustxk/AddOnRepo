@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Asian" name="Asian Addons" version="1.0.2" provider-name="netxeon">
+<addon id="repository.Asian" name="Asian Addons" version="1.0.3" provider-name="netxeon">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/addons.xml.md5</checksum>

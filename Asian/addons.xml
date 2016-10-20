@@ -36,7 +36,7 @@
 			<fanart>resources/fanart.jpg</fanart>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
-		<news>Updated the addon  to use new addon.xml metadata</news>
+		<news>Updated the addon to use new addon.xml metadata</news>
 	</extension>
 </addon>
 

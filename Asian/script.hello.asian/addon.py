@@ -4,7 +4,7 @@ import xbmcgui
 addon       = xbmcaddon.Addon()
 addonname   = addon.getAddonInfo('name')
  
-line1 = "Hello M World!"
+line1 = "HelloM World!"
 line2 = "We can write anything we want here"
 line3 = "Using Python"
  

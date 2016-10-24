@@ -48,6 +48,7 @@ def main():
   try:
     # write data to the file
     open( "repoMap.xml", "w" ).write( repoMap_xml.encode( "UTF-8" ) )
+    print "repoMap.xml generated!!!"
   except Exception, e:
     # oops
     print "An error occurred saving %s file!\n%s" % ( RepoMap.xml, e, )

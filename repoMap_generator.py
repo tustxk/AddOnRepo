@@ -1,9 +1,7 @@
-# Script to generate the zip files required for <datadir zip="true"> in the
-# addon.xml of a repository
+# Script to generate the xml files for repo
 
 import os
 import xml.etree.ElementTree
-from zipfile import ZipFile
 
 def get_repo_value(repo_dir, key):
   repo_file = os.path.join(repo_dir, 'addons.xml') 
@@ -23,7 +21,7 @@ def main():
   # addon list
   dirs = (os.listdir('.'))
   # final addons text
-  repoMap_xml = u"<Root>\n"
+  repoMap_xml = u"<repos>\n"
   # loop thru and add each addons addon.xml file
   for repo_dir in dirs:
     try:
@@ -36,16 +34,16 @@ def main():
         # skip download directory
         continue
       repo_xml=""
-      repo_xml += "<Repo name="+get_repo_value(repo_dir, "name")+"\n"
+      repo_xml += "<repo name="+get_repo_value(repo_dir, "name")+"\n"
       repo_xml += "      id="+get_repo_value(repo_dir, "id")+"\n"
       repo_xml += "      version="+get_repo_value(repo_dir, "version")+"\n"
       repo_xml += "      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/" + get_repo_value(repo_dir, "name") + "/" + get_repo_value(repo_dir, "id") + "/" + get_repo_value(repo_dir, "id") + "-" + get_repo_value(repo_dir, "version") + ".zip" + "/>\n"
-      repoMap_xml += repo_xml.rstrip() + u"\n\n"
+      repoMap_xml += repo_xml.rstrip() + u"\n"
     except Exception, e:
       # missing or poorly formatted addon.xml
       print "Failed to add xml"
   # clean and add closing tag
-  repoMap_xml = repoMap_xml.strip() + u"\n</Root>\n"
+  repoMap_xml = repoMap_xml.strip() + u"\n</repos>\n"
   # save file
   try:
     # write data to the file

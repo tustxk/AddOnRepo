@@ -37,3 +37,5 @@ release $CUR_DIR
 git add -A
 git commit -m 'test'
 git push origin master
+
+python repoMap_generator.py 

@@ -1,0 +1,21 @@
+<Root>
+<Repo name=Asian Addons
+      id=repository.Asian
+      version=1.0.0
+      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian Addons/repository.Asian/repository.Asian-1.0.0.zip/>
+
+<Repo name=AU Addons
+      id=repository.AU
+      version=1.0.0
+      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/AU Addons/repository.AU/repository.AU-1.0.0.zip/>
+
+<Repo name=Asian Addons
+      id=repository.Asian
+      version=1.2.0
+      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian Addons/repository.Asian/repository.Asian-1.2.0.zip/>
+
+<Repo name=Netxeon Addons
+      id=repository.netxeon
+      version=1.0.0
+      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Netxeon Addons/repository.netxeon/repository.netxeon-1.0.0.zip/>
+</Root>

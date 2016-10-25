@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <!-- RTMP Host -->
+    <category label="10075">
+        <setting id="rtmp_host" type="text" label="Al Jazeera" default="http://europarse.real.com/hurl/gratishurl.ram?pid=eu_aljazeera&file=al_jazeera_en_lo.rm" />
+    </category>
+</settings>
+--		        <setting id="rtmp_host" type="text" label="2001" default=""" />

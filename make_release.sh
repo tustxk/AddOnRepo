@@ -34,8 +34,8 @@ function release(){
 CUR_DIR=`pwd`
 read_dir $CUR_DIR
 release $CUR_DIR
+python repoMap_generator.py 
 git add -A
 git commit -m 'test'
 git push origin master
 
-python repoMap_generator.py 

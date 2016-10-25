@@ -96,6 +96,37 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.bloomberg" name="Bloomberg" version="1.0.5" provider-name="bog.gob">
+  <requires>
+    <import addon="xbmc.python" version="1.0" />
+    <import addon="script.module.cryptopy" version="1.2.6" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata" library="default.py">
+    <summary>Videos from www.bloomberg.com</summary>
+    <description></description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.c31" name="Channel 31" version="1.0.5" provider-name="bog.gob">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata" library="default.py">
+    <summary>Channel 31</summary>
+    <description></description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="repository.Australian" name="Australian" version="1.0.0" provider-name="netxeon-country">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Australian/addons.xml</info>

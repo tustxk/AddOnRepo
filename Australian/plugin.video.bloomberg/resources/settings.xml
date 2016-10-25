@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="rtmpdump" type="text" label="rtmp dump executable" default="C:/apps/rtmpdump-2.4/rtmpdump.exe" />
+	<setting id="path" 	   type="text" label="output path" default="c:/temp/" />	
+</settings>

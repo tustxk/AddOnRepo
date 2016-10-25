@@ -1,0 +1,4 @@
+[B] Vesion 1.0.5[/B]
+-Updated to deal with new site layout
+[B]Version 1.0.1[/B]
+- Initial version of Addon

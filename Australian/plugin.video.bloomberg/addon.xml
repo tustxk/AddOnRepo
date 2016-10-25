@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon id="plugin.video.bloomberg" name="Bloomberg" version="1.0.5" provider-name="bog.gob">
+  <requires>
+    <import addon="xbmc.python" version="1.0" />
+    <import addon="script.module.cryptopy" version="1.2.6" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata" library="default.py">
+    <summary>Videos from www.bloomberg.com</summary>
+    <description></description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>

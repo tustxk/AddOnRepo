@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon id="plugin.video.c31" name="Channel 31" version="1.0.5" provider-name="bog.gob">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata" library="default.py">
+    <summary>Channel 31</summary>
+    <description></description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>

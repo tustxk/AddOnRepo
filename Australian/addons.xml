@@ -112,6 +112,43 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.c31" name="Channel 31" version="1.0.5" provider-name="bog.gob">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata" library="default.py">
+    <summary>Channel 31</summary>
+    <description></description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson"/>
+    <import addon="script.module.beautifulsoup"/>
+    <import addon="script.module.catchuptv.brightcove"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>31542</minversion>
+    <summary>Watch videos from Ninemsn's Jump In</summary>
+    <description>Watch videos from Ninemsn's Jump In</description>
+    <disclaimer>You must be within Australia to use watch these videos.</disclaimer>
+    <email>adman.com@gmail.com</email>
+    <source>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.nine.git</source>
+    <website>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.nine</website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.live.au.abc_news24" name="ABC News 24" version="0.1.1" provider-name="adammw111">
     <requires>
         <import addon="xbmc.python" version="1.0"/>

@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="metadata.asiandb.com"
+       name="AsianDB"
+       version="1.0.3"
+       provider-name="FIXME">
+  <requires>
+    <import addon="xbmc.metadata" version="1.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.movies"
+             language="en"
+             library="asiandb.xml"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">AsianDB Movie Scraper</summary>
+    <summary lang="hu">AsianDB filmadat leolvasó</summary>
+    <summary lang="kr">AsianDB 영화 스크래퍼</summary>
+    <summary lang="pl">Scraper filmów AsianDB</summary>
+    <summary lang="pt">Scraper de filmes AsianDB</summary>
+    <description lang="en">Download Movie information from www.asiandb.com</description>
+    <description lang="hu">Film információk letöltése a www.asiandb.com webhelyről</description>
+    <description lang="kr">www.asiandb.com 에서 영화 정보 다운로드</description>
+    <description lang="pl">Pobieraj informacje o filmach z www.asiandb.com</description>
+    <description lang="pt">Descarregar informação de filmes de www.asiandb.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="repository.Asian" name="Asian" version="1.2.0" provider-name="netxeon">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/addons.xml</info>
@@ -14,107 +39,30 @@
 	</extension>
 </addon>
 
-<addon id="script.hello.asian" name="Hello Asian" version="1.0.1" provider-name="zag">
-	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
-	</requires>
-	<extension point="xbmc.python.script" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Popup Hello World</summary>
-		<description lang="en">Example Script to show hello world</description>
-		<license>GNU General Public License, v2</license>
-		<language></language>
-		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/zag2me/script.hello.world</source>
-		<website>Kodi.tv</website>
-		<email>zag@kodi.org</email>
-		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
-		</assets>
-		<news>Updated the addon  t use new addon.xml mtadata</news>
-	</extension>
-</addon>
-
-<addon id="script.hello1.asian" name="Hello1 Asian" version="1.0.1" provider-name="zag">
-	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
-	</requires>
-	<extension point="xbmc.python.script" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Popup Hello World</summary>
-		<description lang="en">Example Script to show hello world</description>
-		<license>GNU General Public License, v2</license>
-		<language></language>
-		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/zag2me/script.hello.world</source>
-		<website>Kodi.tv</website>
-		<email>zag@kodi.org</email>
-		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
-		</assets>
-		<news>Updated the addon to use new addon.xml metadata</news>
-	</extension>
-</addon>
-
-<addon id="script.hello2.asian" name="Hello2 Asian" version="1.0.1" provider-name="zag">
-	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
-	</requires>
-	<extension point="xbmc.python.script" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Popup Hello World</summary>
-		<description lang="en">Example Script to show hello world</description>
-		<license>GNU General Public License, v2</license>
-		<language></language>
-		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/zag2me/script.hello.world</source>
-		<website>Kodi.tv</website>
-		<email>zag@kodi.org</email>
-		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
-		</assets>
-		<news>Updated the addon to use new addon.xml metadata</news>
-	</extension>
-</addon>
-
-<addon id="script.hello3.asian" name="Helloi3 Asian" version="1.0.1" provider-name="zag">
-	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
-	</requires>
-	<extension point="xbmc.python.script" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Popup Hello World</summary>
-		<description lang="en">Example Script to show hello world</description>
-		<license>GNU General Public License, v2</license>
-		<language></language>
-		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/zag2me/script.hello.world</source>
-		<website>Kodi.tv</website>
-		<email>zag@kodi.org</email>
-		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
-		</assets>
-		<news>Updated the addon to use new addon.xml metadata</news>
-	</extension>
+<addon id="script.navi-x"
+       name="Navi-X"
+       version="3.8.2"
+       provider-name="Team Navi-X and XBMCHUB.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="repository.xbmchub" optional="true" />
+    <import addon="script.module.urlresolver"  />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py" >
+    <provides>executable video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary>Media Browser Addon for XBMC.</summary>
+    <description>Navi-X is the oldest and most trusted add-on for XBMC, used by millions of people worldwide. You'll find everything from live television to your favourite movies and television shows, easily accessible.</description>
+    <disclaimer>http://www.navixtreme.com/terms/</disclaimer>
+    <forum>http://www.xbmchub.com/forums/forums/38-NAVI-X-MEDIA-BROWSER</forum>
+    <website>http://www.navixtreme.com/</website>
+    <source></source>
+    <email></email>
+  </extension>
 </addon>
 </addons>

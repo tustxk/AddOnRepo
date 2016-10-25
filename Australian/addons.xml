@@ -71,6 +71,20 @@
   </statfeed>
 </addon>
 
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource" provides="video">
+    <provides>video</provides>
+  </extension>
+  <extension library="default.py" point="xbmc.addon.metadata">
+    <summary>ABC iView add-on by Andy Botting</summary>
+    <description>iView offers full-length programs as seen on ABC TV, and iView originals ranging from arts to anime. Programs are added every day; most programs are available for 14 days. You must be located in Australia to access content. NOTE: This will count towards your Internet usage quota.</description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.abcradionational" name="RNTV - Radio National TV" version="1.0.5" provider-name="Damon Toumbourou">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -96,37 +110,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.bloomberg" name="Bloomberg" version="1.0.5" provider-name="bog.gob">
-  <requires>
-    <import addon="xbmc.python" version="1.0" />
-    <import addon="script.module.cryptopy" version="1.2.6" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata" library="default.py">
-    <summary>Videos from www.bloomberg.com</summary>
-    <description></description>
-    <provides>video</provides>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.live.au.abc_news24" name="ABC News 24" version="0.1.1" provider-name="adammw111">
-    <requires>
-        <import addon="xbmc.python" version="1.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <minversion>31542</minversion>
-        <summary>ABC News 24 Live Stream Plugin for XBMC</summary>
-        <disclaimer>You must be within Australia to stream News 24.[CR]The ABC and ABC News24 Logos and other works are copyright of their respective owners.</disclaimer>
-    </extension>
-</addon>
-
 <addon id="repository.Australian" name="Australian" version="1.0.0" provider-name="netxeon-country">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Australian/addons.xml</info>
@@ -138,42 +121,6 @@
 		<description>There is no description.</description>
 		<disclaimer>The owners and submitters to tis repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
 		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="service.repo.check"
-       name="repocheck"
-       version="0.1"
-       provider-name="BIT">
-  <requires>
-    <import addon="xbmc.python" version="2.0"/>
-  </requires>
-  <extension point="xbmc.service"
-            library="default.py" start="startup">
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="weather.ozweather" name="Oz Weather" version="0.7.8" provider-name="Bossanova808">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.pil" version="1.1.7"/>
-    <import addon="script.module.parsedom" version="1.2.0"/>
-	</requires>
-	<extension point="xbmc.python.weather" library="default.py"/>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Weather forecasting and radar images for Australia using Bureau of Meteorology data</summary>
-		<description lang="en">Weather forecast data scraped from the Australian Bureau of Meteorology via WeatherZone - www.bom.gov.au and www.weatherzone.com.au.  For full features (e.g. radar) make sure you install the skin file you can find in the addon directory.  Contributed files for other skins welcome.</description>
-		<disclaimer lang="en">Use of this addon implies you agree to the following terms and conditions - http://reg.bom.gov.au/other/copyright.shtml and http://reg.bom.gov.au/other/disclaimer.shtml</disclaimer>
-		<platform>all</platform>
-		<language>en</language>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<forum>http://forum.xbmc.org/showthread.php?tid=116905</forum>
-		<website>http://wiki.xbmc.org/index.php?title=Add-on:Oz_Weather</website>
-		<email></email>
-		<source>https://github.com/bossanova808/weather.ozweather</source>
 	</extension>
 </addon>
 </addons>

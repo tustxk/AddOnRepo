@@ -37,7 +37,7 @@ def main():
       repo_xml += "<repo name="+get_repo_value(repo_dir, "name")+"\n"
       repo_xml += "      id="+get_repo_value(repo_dir, "id")+"\n"
       repo_xml += "      version="+get_repo_value(repo_dir, "version")+"\n"
-      repo_xml += "      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/" + get_repo_value(repo_dir, "name") + "/" + get_repo_value(repo_dir, "id") + "/" + get_repo_value(repo_dir, "id") + "-" + get_repo_value(repo_dir, "version") + ".zip" + "/>\n"
+      repo_xml += "      path=\"https://raw.githubusercontent.com/tustxk/AddOnRepo/master/" + get_repo_value(repo_dir, "name") + "/" + get_repo_value(repo_dir, "id") + "/" + get_repo_value(repo_dir, "id") + "-" + get_repo_value(repo_dir, "version") + ".zip" + "\"" + "/>\n"
       repoMap_xml += repo_xml.rstrip() + u"\n"
     except Exception, e:
       # missing or poorly formatted addon.xml

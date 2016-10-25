@@ -273,22 +273,6 @@
   </extension>
 </addon>
 
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.module.requests"/>
-  </requires>
-  <extension point="xbmc.python.module" library="." />
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary>Rollbar Issue Reporter</summary>
-    <description>Rollbar Issue Reporter</description>
-    <disclaimer></disclaimer>
-    <license>MIT License</license>
-    <website>https://github.com/xbmc-catchuptv-au/script.module.rollbar</website>
-    <source>https://github.com/xbmc-catchuptv-au/script.module.rollbar.git</source>
-  </extension>
-</addon>
-
 <addon id="service.repo.check"
        name="repocheck"
        version="0.1"

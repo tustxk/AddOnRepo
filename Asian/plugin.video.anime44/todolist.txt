@@ -1,0 +1,54 @@
+=======
+Working:
+=======
+
+1.) Anime Listings:
+	for shows - index - alphabetical - anime - video sources
+	for movies - index - alphabetical - anime - video sources  		*(bad news is Videofun.me seems to be used for a LOT of the anime movies ive looked through so far. Like 3 videofun links all for the same movie and no other type.)
+	For shows/movies - genre - list - anime - voice sources
+	for Ongoing Anime, New Series, Surprise Me
+
+2.) video source location setup:
+	Videoweed		*(Special Thanks to o9r1sh of plugin.video.gogoanime for working stream url parse information.)
+	Video44			*(Special Thanks to o9r1sh of plugin.video.gogoanime for working stream url parse information.)
+	dailymotion.com
+
+
+=======
+Ongoing:
+=======
+
+1.) Art				*(Special Thanks to authors of 1channel[glossyblack],gogoanime, and a few other unknown/forgotten sources)
+	Unsure how long these graphics will last or when they might get replaced/updated. I currently claim no rights to any of the current graphics personally.
+
+
+
+==========
+TO-DO List:
+==========
+
+1.) Anime Listings:
+	by Genre, Popular, New, Recent, Ongoing, Completed for shows
+	by Genre, Popular, New, Recent for movies
+
+2.) Latest Episodes, Search, Stuff on Front Page
+
+#...
+
+11.) video source location setup:
+	yourupload.com
+	videofun.me	(many movies have only videofun.me links)
+	video.google.com
+
+12.) Go over images.
+
+13.) Clean up extra files.
+
+14.) Write lisense file and give credit where due.
+
+15.) Setup any settings.
+
+last.) Clean up extra code and imports.
+
+
+

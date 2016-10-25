@@ -2,9 +2,9 @@
 <repo name=AU
       id=repository.AU
       version=1.0.0
-      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/AU/repository.AU/repository.AU-1.0.0.zip/>
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/AU/repository.AU/repository.AU-1.0.0.zip"/>
 <repo name=Asian
       id=repository.Asian
       version=1.2.0
-      path=https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/repository.Asian/repository.Asian-1.2.0.zip/>
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/repository.Asian/repository.Asian-1.2.0.zip"/>
 </repos>

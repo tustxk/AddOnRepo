@@ -255,6 +255,40 @@
    </extension>
 </addon>
 
+<addon id="script.module.requests"
+       name="requests"
+       version="1.1.0"
+       provider-name="kennethreitz">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Python HTTP for Humans</summary>
+    <description>Packed for XBMC from https://github.com/kennethreitz/requests</description>
+    <license>Apache</license>
+    <platform>all</platform>
+    <source>https://github.com/beenje/script.module.requests</source>
+  </extension>
+</addon>
+
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.module" library="." />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Rollbar Issue Reporter</summary>
+    <description>Rollbar Issue Reporter</description>
+    <disclaimer></disclaimer>
+    <license>MIT License</license>
+    <website>https://github.com/xbmc-catchuptv-au/script.module.rollbar</website>
+    <source>https://github.com/xbmc-catchuptv-au/script.module.rollbar.git</source>
+  </extension>
+</addon>
+
 <addon id="service.repo.check"
        name="repocheck"
        version="0.1"

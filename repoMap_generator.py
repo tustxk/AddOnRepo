@@ -12,7 +12,7 @@ def get_repo_value(repo_dir, key):
       repoID = addon.get('id')
       if 'repository' in repoID:
         return addon.get(key)
-        break
+    #    break
   except Exception as e:
     print 'Failed to open %s' % repo_file
     print e.message

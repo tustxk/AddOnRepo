@@ -35,6 +35,14 @@ CUR_DIR=`pwd`
 read_dir $CUR_DIR
 release $CUR_DIR
 python repoMap_generator.py 
+if [ $? -ne 0 ]
+then
+        echo -e "\033[31m  fail to generate repoMap!!! \033[0m"
+        exit
+else
+        echo -e "\033[32m repoMap generate successfully \033[0m"
+fi
+
 git add -A
 git commit -m 'test'
 git push origin master

@@ -11,4 +11,8 @@
       id="repository.Asian"
       version="1.0.0"
       path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/repository.Asian/repository.Asian-1.0.0.zip"/>
+<repo name="Brazilian"
+      id="repository.Brazilian"
+      version="1.0.0"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Brazilian/repository.Brazilian/repository.Brazilian-1.0.0.zip"/>
 </repos>

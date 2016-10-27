@@ -38,33 +38,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.catchuptv.au.ten" name="TENplay" provider-name="adammw111" version="0.5.11">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.simplejson"/>
-        <import addon="script.module.beautifulsoup"/>
-        <import addon="script.module.rollbar"/>
-        <!--
-        We use our own copy until https://github.com/jbeluch/python-brightcove/pull/2 is merged
-        <import addon="script.module.brightcove"/>
-        -->
-        <import addon="script.module.xbmcswift2" version="2.4.0"/>
-    </requires>
-    <extension library="default.py" point="xbmc.python.pluginsource">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <minversion>31542</minversion>
-        <summary>TENplay</summary>
-        <description>Watch latest episodes, sneak peeks, exclusive internet extras and other videos from Network Ten.</description>
-        <disclaimer>You must be within Australia to use watch these videos.[CR]The TENplay, TEN, ONE and ELEVEN logo and trade marks are registered trademarks of Network Ten Pty Limited.</disclaimer>
-        <email>adman.com@gmail.com</email>
-        <source>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.ten.git</source>
-        <website>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.ten</website>
-    </extension>
-</addon>
-
 <addon id="repository.addon.recommend" name="Addon_Recommend" version="0.0.1" provider-name="CrazyAddon">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0" />
@@ -85,7 +58,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.kkk" name="kkk" version="1.0.0" provider-name="netxeon-country">
+<addon id="repository.kkk" name="kkk" version="1.0.1" provider-name="netxeon-country">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/kkk/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/kkk/addons.xml.md5</checksum>

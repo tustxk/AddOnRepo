@@ -12,7 +12,7 @@ function read_dir(){
         if [ -d $1"/"$file ]
         then
 	    del_zip $1"/"$file
-            read_dir $1"/"$file
+            #read_dir $1"/"$file
         fi
     done
 }

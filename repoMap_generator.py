@@ -9,13 +9,15 @@ def get_repo_value(repo_dir, key):
   try:
     tree = xml.etree.ElementTree.parse(repo_file)
     root = tree.getroot()
+    returnValue = ''
     for addon in root.findall('addon'):
       repoProviderName = addon.get('provider-name')
+      returnValue = addon.get(key)
       if 'netxeon-contry' == repoProviderName:
         break
       if 'netxeon-function' == repoProviderName:
         break
-    return addon.get(key)
+    return returnValue
   except Exception as e:
     print 'Failed to open %s' % repo_file
     print e.message

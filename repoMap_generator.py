@@ -9,8 +9,8 @@ def get_repo_value(repo_dir, key):
     tree = xml.etree.ElementTree.parse(repo_file)
     root = tree.getroot()
     for addon in root.findall('addon'):
-      repoID = addon.get('id')
-      if 'repository' in repoID:
+      repoProviderName = addon.get('provider-name')
+      if 'netxeon' in repoProviderName:
         return addon.get(key)
     #    break
   except Exception as e:

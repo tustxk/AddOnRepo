@@ -7,8 +7,4 @@
       id="repository.Australian"
       version="1.0.0"
       path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Australian/repository.Australian/repository.Australian-1.0.0.zip"/>
-<repo name="Asian"
-      id="repository.Asian"
-      version="1.0.0"
-      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/repository.Asian/repository.Asian-1.0.0.zip"/>
 </repos>

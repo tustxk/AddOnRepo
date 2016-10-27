@@ -7,6 +7,10 @@
       id="repository.Australian"
       version="1.0.0"
       path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Australian/repository.Australian/repository.Australian-1.0.0.zip"/>
+<repo name="Canadian"
+      id="repository.Canadian"
+      version="1.0.0"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Canadian/repository.Canadian/repository.Canadian-1.0.0.zip"/>
 <repo name="Asian"
       id="repository.Asian"
       version="1.0.0"

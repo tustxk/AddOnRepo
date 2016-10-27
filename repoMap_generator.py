@@ -13,7 +13,7 @@ def get_repo_value(repo_dir, key):
     for addon in root.findall('addon'):
       repoProviderName = addon.get('provider-name')
       returnValue = addon.get(key)
-      if 'netxeon-contry' == repoProviderName:
+      if 'netxeon-country' == repoProviderName:
         break
     print repoProviderName
     return returnValue

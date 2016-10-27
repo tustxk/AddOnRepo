@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.addon.recommend" name="Addon Recommend" version="1.0.0" provider-name="netxeon-country">
+<addon id="repository.kkk" name="kkk" version="1.0.0" provider-name="netxeon-country">
 	<extension point="xbmc.addon.repository">
-		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/update/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/update/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/update</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/kkk/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/kkk/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/kkk</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>XBMC Addons for kkk Only</summary>

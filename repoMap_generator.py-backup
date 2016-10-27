@@ -10,11 +10,8 @@ def get_repo_value(repo_dir, key):
     root = tree.getroot()
     for addon in root.findall('addon'):
       repoProviderName = addon.get('provider-name')
-      if 'netxeon-contry' == repoProviderName:
-        break
-      if 'netxeon-function' == repoProviderName:
-        break
-    return addon.get(key)
+      if 'netxeon' in repoProviderName:
+        return addon.get(key)
   except Exception as e:
     print 'Failed to open %s' % repo_file
     print e.message

@@ -1,6 +1,14 @@
 <repos>
-<repo name="Australian"
-      id="repository.Australian"
+<repo name="kkk"
+      id="repository.kkk"
       version="1.0.0"
-      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Australian/repository.Australian/repository.Australian-1.0.0.zip"/>
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/kkk/repository.kkk/repository.kkk-1.0.0.zip"/>
+<repo name="Oz Weather"
+      id="weather.ozweather"
+      version="0.7.8"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Oz Weather/weather.ozweather/weather.ozweather-0.7.8.zip"/>
+<repo name="repocheck"
+      id="service.repo.check"
+      version="0.1"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/repocheck/service.repo.check/service.repo.check-0.1.zip"/>
 </repos>

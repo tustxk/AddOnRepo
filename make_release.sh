@@ -42,7 +42,6 @@ then
 else
         echo -e "\033[32m repoMap generate successfully \033[0m"
 fi
-
 git add -A
 git commit -m 'test'
 git push origin master

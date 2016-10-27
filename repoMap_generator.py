@@ -10,6 +10,9 @@ def get_repo_value(repo_dir, key):
     root = tree.getroot()
     for addon in root.findall('addon'):
       repoProviderName = addon.get('provider-name')
+      print repoProviderName
+      print key
+      print addon.get(key)
       if 'netxeon' in repoProviderName:
         return addon.get(key)
     #    break

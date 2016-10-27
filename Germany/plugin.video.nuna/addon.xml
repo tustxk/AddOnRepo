@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.nuna" name="Nuna.tv" version="0.2.1" provider-name="membrane">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+	<broken>Broken</broken>
+        <platform>all</platform>
+        <summary lang="de">Nuna.tv</summary>
+        <summary lang="en">Nuna.tv</summary>
+        <description lang="de">Nuna.tv</description>
+        <description lang="en">Nuna.tv</description>
+    </extension>
+</addon>

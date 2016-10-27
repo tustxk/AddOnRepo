@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.allocine"
+       name="Allociné"
+       version="2.3.1"
+       provider-name="jbinard">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="allocine.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Plugin vidéo d'émissions, de bandes annonces et d'horaires de cinéma</summary>
+    <description>Plugin vidéo Allociné
+[B]Contenu:[/B]
+ - [B]Émissions TV[/B] - Retrouver l'intégralité des émissions d'Allociné.
+ - [B]Bandes Annonces[/B] - Bandes annonces des films en salle ou à venir.
+ - [B]Séries[/B] - Bandes annonces et extraits d'épisode de série.
+ - [B]Interviews[/B] - Interviews de star.
+ - [B]Horaires en salles[/B] - Liste des séances de cinéma pour les films en salle.
+[CR]
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>

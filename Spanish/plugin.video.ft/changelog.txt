@@ -1,0 +1,11 @@
+v1.2
+- Importante mejora en el funcionamiento de las búsquedas.
+- Agregado servidor Sockshare.
+- Ahora cada servidor tiene un color diferente en los resultados.
+
+v1.1
+- Agregado servidor MOVSHARE.
+- Ahora cada enlace pone a qué servidor pertenece.
+
+v1.0
+Versión inicial

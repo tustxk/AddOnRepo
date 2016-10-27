@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon
+  id="plugin.video.MyDooTv"
+  version="1.1.7"
+  name="MyDooTv"
+  provider-name="Dknight">
+  <requires>
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>MyDooTv</summary>
+    <description>Watch MyDooTv Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.seesantv"
+  version="1.0.1"
+  name="seesantv"
+  provider-name="Dknight">
+  <requires>
+        <import addon="xbmc.python" version="2.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>SeeSanTv</summary>
+    <description>Watch SeeSanTv Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.Thai" name="Thai" version="1.0.0" provider-name="netxeon-country">
+	<extension point="xbmc.addon.repository">
+		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Thai/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Thai/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Thai</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>XBMC Addons for Thai Only</summary>
+		<description>There is no description.</description>
+		<disclaimer>The owners and submitters to tis repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.module.simplejson"
+       name="simplejson"
+       version="3.3.0"
+       provider-name="Martijn">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Simple, fast, extensible JSON encoder/decoder for Python</summary>
+    <description lang="en">Simple, fast, extensible JSON encoder/decoder for Python</description>
+    <disclaimer lang="en">Code taken from https://pypi.python.org/pypi/simplejson/</disclaimer>
+    <license>MIT License, Academic Free License v. 2.1</license>
+    <website>https://pypi.python.org/pypi/simplejson/</website>
+    <source>https://pypi.python.org/pypi/simplejson/</source>
+  </extension>
+</addon>
+
+<addon id="script.module.t0mm0.common"
+	     name="t0mm0's common stuff"
+	     version="2.1.1"
+	     provider-name="t0mm0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+  </extension>
+</addon>
+</addons>

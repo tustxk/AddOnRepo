@@ -1,0 +1,28 @@
+[B]Version 0.98[/B]
+- using now urlResolver
+- changed to new domain name burning-seri.es
+- 17.07.2012
+
+[B]Version 0.95[/B]
+- using now urlResolver
+- 13.05.2012
+
+[B]Version 0.92[/B]
+- regex fixed
+- 03.05.2012
+
+[B]Version 0.90[/B]
+- after relaunch of bs.to reactivating addon
+- 12.04.2012
+
+[B]Version 0.88[/B]
+- fixed JS-cookie security changes
+- 31.12.2011
+
+[B]Version 0.85[/B]
+- Initial open testable version for Dharma
+- by now streams from megavideo, videoBB, rapidvideo, putlocker functional
+- thx to bitbit@userscripts.org 4 megavideo decrypt
+- thx to xstream code hints
+- thx to nixa 4 putlocker cookie-hint
+- 20.10.2011

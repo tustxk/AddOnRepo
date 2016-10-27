@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.ittv" name="ITTV" version="1.0.1" provider-name="membrane">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="de">ITTV</summary>
+        <summary lang="en">ITTV</summary>
+        <description lang="de">ITTV</description>
+        <description lang="en">ITTV</description>
+    </extension>
+</addon>

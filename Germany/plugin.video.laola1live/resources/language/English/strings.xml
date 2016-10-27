@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Setting section strings -->
+	<string id="31000">General</string>
+	<string id="31001">Player</string>
+	
+	<!-- Plugin settings strings -->
+	<string id="31010">Thumbnail setting</string>
+	<string id="31011">Normal</string>
+	<string id="31012">High quality</string>
+	<string id="31013">Use as background</string>
+	
+	<string id="31020">Video quality</string>
+	<string id="31021">Low</string>
+	<string id="31022">Mid</string>
+	<string id="31023">High</string>
+	
+	
+	<string id="31100">Back button hidden</string>
+	<string id="31101">Debug</string>
+
+	<string id="30200">General</string>
+	<string id="30201">Player</string>
+	
+	<string id="30204">Location</string>
+	<string id="30205">International</string>
+	<string id="30206">Germany</string>
+	<string id="30207">Austria</string>
+	<string id="30208">int</string>
+	<string id="30209">de</string>
+	<string id="30210">at</string>
+
+
+	<string id="30211">Language</string>
+	<string id="30212">English</string>
+	<string id="30213">German</string>
+	<string id="30214">en</string>
+	<string id="30215">de</string>
+
+	
+	<!-- Add-on strings -->
+	<string id="32000">Next Page</string>
+	<string id="32001">Live</string>
+	<string id="32002">This stream starts at</string>
+	<string id="32003">[COLOR red]LIVE[/COLOR]</string>
+	<string id="32004">Latest videos</string>
+	
+	
+	<string id="32010">Resolving</string>	
+	<string id="32011">Resolving URL</string>
+	<string id="32012">Resolving Player</string>
+	<string id="32013">Resolving Playlist</string>
+	<string id="32014">Fetching Video</string>
+	<string id="32015">Starting Video</string>
+	<string id="32016">Match has not started</string>
+	
+	
+	<!-- Old strings, may be in use -->
+	<string id="30001">Next Page</string>
+
+	<string id="30002">Commercial</string>
+
+	<string id="30003">Livestream has not started</string>
+	<string id="30004">This stream starts at</string>
+	<string id="30005">at</string>
+	<string id="30006">CET</string>
+
+	<string id="30007">Dear LAOLA1-User</string>
+	<string id="30008">This stream has already finished.</string>
+
+	<string id="30009">This stream is not avaiable</string>
+	<string id="30010">in your country.</string>
+	
+	<string id="30011">Upcoming Livestreams</string>
+	<string id="30012">Search</string>
+	
+	<string id="30013">Please set your Country</string>
+	<string id="30014">in the Settings</string>
+
+	
+	<!-- Plugin settings strings -->
+
+
+
+
+	<string id="30216">Debug</string>
+
+	<string id="30218">Commercials</string>
+
+	<string id="30221">Force autoplay (experimental)</string>
+
+	<string id="30240">Enable HQ thumbnail</string>
+
+	<string id="30243">Use thumbnail as backdrop</string>
+	
+	<string id="30244">Use autoresume function (experimental)</string>
+
+	<string id="30245">Use replay function (experimental)</string>
+	<string id="30246">Replay time in seconds</string>
+	
+	<string id="30247">Videoplayer</string>
+	<string id="30248">Auto</string>
+	<string id="30249">MPlayer</string>
+	<string id="30250">DVDPlayer</string>
+	
+
+	
+	<string id="30308">en</string><!-- DO NOT CHANGE -->
+	<string id="30309">int</string><!-- DO NOT CHANGE -->
+	<!-- messages -->
+</strings>

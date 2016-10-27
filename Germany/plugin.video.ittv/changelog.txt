@@ -1,0 +1,8 @@
+1.0.1
+- Fix for Gotham
+1.0.0
+- Open Bugs fixed
+- Livestreams disabled
+0.0.1
+- Initial release
+

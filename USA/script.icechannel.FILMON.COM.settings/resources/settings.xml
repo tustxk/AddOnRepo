@@ -1,0 +1,5 @@
+<settings>
+<category label="Account">
+<setting id="user" type="text" label="Email" default="" />
+<setting id="pwd" type="text" option="hidden" label="Password" default="" /></category>
+</settings>

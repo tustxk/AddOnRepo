@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+
+    <string id="30001">Sort channels by</string>
+    <string id="30002">Content</string>
+    <string id="30003">Country</string>
+    <string id="30004">Language</string>
+    <string id="30006">Update channels list</string>
+    <string id="30007">Show broken video streams</string>
+    <string id="30008">Show video sources list</string>
+    <string id="30009">Preferred Definition</string>
+    <string id="30010">Low</string>
+    <string id="30011">High</string>
+    <string id="30012">Show video streams using external libRTMP</string>
+    <string id="30013">Show EPG info</string>
+    <string id="30014">Sort categories by</string>
+    <string id="30015">Number of programs to display</string>
+    <string id="30016">Updating channels list...</string>
+    <string id="30017">Downloading data. Please wait...</string>
+    <string id="30018">Data updated</string>
+    <string id="30019">Timeout error</string>
+    <string id="30020">I/O Error</string>
+    <string id="30021">Show discontinu channels</string>
+    <string id="30022">Show event channels</string>
+    <string id="30023">Quality</string>
+    <string id="30024">Format</string>
+    <string id="30026">Display only french channels</string>
+    <string id="30027">Display broken channels</string>
+    <string id="30028">Display empty categories</string>
+
+    <string id="30200">TV Programs</string>
+    <string id="30201">Channel Description</string>
+    <string id="30202">Channels</string>
+    <string id="30203">EPG</string>
+    <string id="30204">Filters</string>
+    <string id="30205">Advanced</string>
+
+</strings>
+

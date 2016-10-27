@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+
+    <string id="30001">Afficher les chaînes par</string>
+    <string id="30002">contenu</string>
+    <string id="30003">pays</string>
+    <string id="30004">langue</string>
+    <string id="30006">Forcer la MAJ des chaînes</string>
+    <string id="30007">Afficher les flux vidéo cassés</string>
+    <string id="30008">Détail des flux vidéos des chaînes</string>
+    <string id="30013">Afficher les infos EPG</string>
+    <string id="30014">Trier le sous-menu par</string>
+    <string id="30015">Nombre de programmes à afficher</string>
+    <string id="30016">Mise à jour de la liste des chaînes...</string>
+    <string id="30017">Téléchargement en cours. Patientez...</string>
+    <string id="30018">Données mises à jour</string>
+    <string id="30019">Erreur de connection</string>
+    <string id="30020">Erreur d'écriture</string>
+    <string id="30023">Qualité</string>
+    <string id="30024">Format</string>
+    <string id="30026">Chaînes uniquement en français</string>
+    <string id="30027">Afficher les chaînes cassées</string>
+    <string id="30028">Afficher les catégories vides</string>
+
+    <string id="30200">Programmes Télé</string>
+    <string id="30201">Description Chaîne</string>
+    <string id="30202">Chaînes</string>
+    <string id="30203">EPG</string>
+    <string id="30204">Affichage</string>
+    <string id="30205">Avancé</string>
+
+</strings>
+

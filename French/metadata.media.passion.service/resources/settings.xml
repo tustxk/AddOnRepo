@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- $ID  : id of current addon 'metadata.cine.passion.service' -->
+<!-- $CWD : current working home dir of addon -->
+<!-- $ADDON[addonId strId] : retrieve language string id of addonId-->
+<!-- More : https://github.com/xbmc/xbmc/tree/master/xbmc/addons/GUIDialogAddonSettings.cpp -->
+
+<!-- runService : RunScript($ID[,Action,AddonId,OPT1,OPT2]) -->
+<settings>
+  <category label="$LOCALIZE[128]">
+    <setting type="lsep" label="$LOCALIZE[24018]"/>
+    <setting id="notify" type="bool" label="33010" default="true" />
+    <setting id="updatetime" type="enum" label="33011" lvalues="24021|33013|33014|33015|33016|33017|33018" default="6" />
+
+    <setting type="lsep" label="33019"/>
+    <!-- Note : cette fonction desactive le setting mpaa de metadata.cine.passion-xbmc.org -->
+    <setting id="country" type="action" label="33020" action="RunScript($ID,togglesettings,$ID,enablempaa,country)" option="close" default="$LOCALIZE[24021]" />
+
+    <setting type="lsep" label="33007"/>
+    <setting id="usercredits" type="action" label="33005" action="RunScript($ID,updatecredits,$ID,false,true)" default="$ADDON[metadata.cine.passion.service 33006]" />
+    <setting type="action" label="33009" action="RunScript($ID,webbrowser,$ID,http://passion-xbmc.org/treasury/)" default="" />
+
+    <setting type="lsep" label="33021"/>
+    <setting id="delcookies" type="bool" label="33022" default="false" />
+  </category>
+
+  <category label="$LOCALIZE[21412]">
+    <setting type="lsep" label="33001"/>
+    <setting type="action" label="33025" action="RunScript($ID,opensettings,metadata.cine.passion-xbmc.org)" option="close" default="" />
+  </category>
+
+  <category label="33250">
+    <setting type="lsep" label="33251"/>
+    <setting type="action" label="33252" action="RunScript($ID,webbrowser,$ID,http://passion-xbmc.org/scraper-cine-passion-support-francais/)" default="" />
+
+    <setting type="lsep" label="33253"/>
+    <setting type="action" label="33254" action="RunScript($ID,webbrowser,$ID,http://passion-xbmc.org/scraper/index2.php?Page=Home)" default="" />
+  </category>
+</settings>

@@ -1,0 +1,65 @@
+2.3.1 (2014-08-28)
+Update by Fanck
+- fix a case in which a video end up not being a video in video trailers...
+
+2.3.0 (2014-05-06)
+Update by Temhil
+- Compatible with Gotham
+
+2.2.0 (2014-02-12)
+Upgrade by jbinard
+- Add theaters and showtime list for movies
+
+2.1.0 (2013-11-11)
+Takeover by Louis
+ - Fixed urls : use the new signature process for api calls
+ - Updated partner key and secret key
+ - Changed user agent to be the same as the android app (stealth mode on :p)
+ - Added category to order movies by number of theaters
+ - Added movies info such as year, duration, rating, plot, genre...
+ - New addon icon
+ - Sharper pictures for shows
+
+
+2.0 beta 6
+Fixed pacaking issue
+
+2.0 beta 5
+Updated Key
+
+2.0 beta 4
+Also imported relativedate.py from dateutil, which was not by default
+
+2.0 beta 3
+ - Movies:
+	 - Rewrite of options to fit the plugin needs
+	 - Allow to fetch 3, 6, 12 months or list all movies
+	 - Allow to skip re-release of old movies
+	 - Can display original title instead of french one
+	 - Skip movies without videos
+ - Shows:
+	 - Fix back 'tueursenseries' token since it seems they fixed it
+ - General:
+	 - Removed a big part of code that wasn't needed
+	 - Code refactoring
+	 - Finally got it to get requested quality at best, else get the nearest below
+ _ Interviews and Tv Shows:
+	 - Now based on v3 API
+
+2.0 beta 2
+ - Use of v3 of Allocine API for the movies. Basic fetch, no options.
+ - Fix 'tueursenseries' which became 'tueursenserie' (not matching termlist results...)
+
+2.0 beta 1
+Total revamp (some might say takeover ;) of the script. Special thanks to Panorappix for his work.
+ - Use of v3 of Allocine API for the shows. It now can fetch all existing and oncoming shows.
+
+1.6.1
+ - fixed: TV show title
+ - fixed: date de sortie
+
+1.6.0
+ - update to eden
+ - fixed BA by thegnorf
+ - moved cache to profile
+ - renamed addon to proper name plugin.video.bande-annonce.allocine

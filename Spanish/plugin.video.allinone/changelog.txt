@@ -1,0 +1,337 @@
+[B]Version 7.0.6[/B]
+- New index search
+
+[B]Version 7.0.5[/B]
+- some fixes 
+- if movie has no links or links are broken please use context menu [COLOR blue][B]E[/B][/COLOR]ntertainment [COLOR green]Search[/COLOR]
+
+[B]Version 7.0.4[/B]
+- fixed myvideovinks
+- added XYZ to movies with Direct Links
+- [COLOR blueviolet](D)[/COLOR] = Direct Links
+
+[B]Version 7.0.2[/B]
+- fixed myvideovinks in search
+- added playmoviez to search
+
+[B]Version 7.0.1[/B]
+- happy birthday Entertainment HUB
+- and what better way to celebrate it other then fixing myvideovinks the most pain in the ass site lol
+
+[B]Version 7.0.0[/B]
+- More Classic family movies
+- Search Classic family movies
+
+[B]Version 6.1.5[/B]
+- code clean up
+- added myvideolinks latest animaion movies to kids space
+
+[B]Version 6.1.4[/B]
+- updated Entertainment HUB News in News and help
+
+[B]Version 6.1.2[/B]
+- more stuff added to kids space section 
+- Classic family movies
+- Big movie list
+- some new icons
+
+[B]Version 6.1.1[/B]
+- more stuff added to kids space section 
+- added monster high movies
+- barbie movies 
+- princsee movies
+- family movies 
+
+[B]Version 6.1.0[/B]
+- kids space section added to main menu (more to come)
+- latest kids movies
+- disney movies
+- disney channel movies
+
+[B]Version 6.0.5[/B]
+- re-added WatchFullEpisodes to tv section and search
+- added OnTopRadio to radio section 
+- fixed TvHq movies 
+- added onlinefreecinema with direct single link movies (testing)
+
+[B]Version 6.0.4[/B]
+- temp fix for myvideolinks changes to the site
+
+[B]Version 6.0.2[/B]
+- added watchseriesus to tv search
+- added episodes-tv to tv shows
+- removed WatchFullEpisodes
+- fixed V-vid links not working in myvideolinks
+- fixed watchwrestling
+
+[B]Version 6.0.1[/B]
+- streaming section back by popular demand but still not being updated
+
+[B]Version 6.0.0[/B]
+- Added pullVideos, WatchFullEpisodes, cartoonHD, to tv shows. flixanity to movies
+- fixed myvideolinks
+- new E icon
+
+[B]Version 5.2.4[/B]
+- fixes 
+
+[B]Version 5.2.2[/B]
+- Kodi Helix 14 ready all thanks go out to Poegloom for the fix 
+
+[B]Version 5.2.1[/B]
+- moved oneclickwatch to the bottem of the searches lists
+
+[B]Version 5.2.0[/B]
+- added clicknwatchonline.com to movies and tv shows and searches
+
+[B]Version 5.1.8[/B]
+- fixed myvideolinks.eu movies
+
+[B]Version 5.1.7[/B]
+- fixed myvideolinks.eu tv shows
+
+[B]Version 5.1.6[/B]
+- added moviedetector in movie search great for 1080p and removed fullxtreme.net to many rar
+
+[B]Version 5.1.5[/B]
+- added fullxtreme.net in movies good for 1080p
+
+[B]Version 5.1.4[/B]
+- added more sites to search & index search
+
+[B]Version 5.1.2[/B]
+- code clean up & fixes
+
+[B]Version 5.1.1[/B]
+- code clean up & some fixes
+
+[B]Version 5.1.0[/B]
+- code clean up
+
+[B]Version 5.0.9[/B]
+- added 
+* watchwrestling archives & moved to top of list
+- fixed 
+* wrestlingrulez now showing all parts & hosts
+- addon clean up
+
+
+[B]Version 5.0.8[/B]
+[COLOR cornflowerblue]- fixed [/COLOR]
+* MyVideoLinks.eu 
+[COLOR cornflowerblue]- added [/COLOR]
+* new fanart
+[COLOR cornflowerblue]- still working on [/COLOR]
+* TVHQ
+* ultra-vid
+
+B]Version 5.0.7[/B]
+- added 
+* Flixanity/Cartoon HD movies (not very good but will do for now)
+* watchwrestling (in sports)
+
+[B]Version 5.0.6[/B]
+- Flixanity has changed its name to Cartoon HD
+
+[B]Version 5.0.5[/B]
+- small fix
+
+[B]Version 5.0.4[/B]
+- removed watch the tapes
+- added AwesomeDL
+- added radio back to main screen
+- added pure music 247 to radio
+- fixed uwatchfree.net
+
+[B]Version 5.0.2[/B]
+- code clean up 
+
+[B]Version 5.0.1[/B]
+- added 
+- undergroundflix to tv shows & movies 
+- Central Radio UK to Radio 
+- code clean up 
+- removed sites not working 
+
+
+[B]Version 5.0.0[/B]
+- fixed :
+- wrestling rulez 
+- searches : removed sites that have been taken down 
+
+[B]Version 4.1.6[/B]
+- fix
+
+[B]Version 4.1.5[/B]
+- fixed searches : removed sites that have been taken down
+
+[B]Version 4.1.4[/B]
+- small fix 
+
+[B]Version 4.1.2[/B]
+- small fix 
+
+[B]Version 4.1.1[/B]
+- new layout for streams
+
+[B]Version 4.1.0[/B]
+- added watchfullepisode to tv show search
+
+[B]Version 4.0.9[/B]
+- removed tfpdl
+
+[B]Version 4.0.8[/B]
+- added channel cut back
+
+[B]Version 4.0.7[/B]
+- added filetube to search
+
+[B]Version 4.0.6[/B]
+- small changes
+
+[B]Version 4.0.5[/B]
+- new help box
+
+[B]Version 4.0.4[/B]
+- loads of code cleaning
+- uwatchfree category added in inter.. zone
+
+[B]Version 4.0.2[/B]
+- code clean up and some fixes
+
+[B]Version 4.0.1[/B]
+- added wwe/mma index search
+- added uwatchfree to hd zone and inter.. zone
+
+[B]Version 4.0.0[/B]
+- added Release 1-Click to search
+- added wrestling rulez to sports *****(BETA/TESTING)******
+- new index new released movie search
+- big code clean up
+
+[B]Version 2.2.9[/B]
+- added 1-linkmovies to search
+- code clean up
+
+[B]Version 2.2.8[/B]
+- more work done on searches
+- new help section
+
+[B]Version 2.2.7[/B]
+- more work done on searches
+
+[B]Version 2.2.5[/B]
+- new index searches
+- removed couch tuner
+
+[B]Version 2.2.2[/B]
+- fixes and addon clean up
+
+[B]Version 2.2.1[/B]
+- small fixes
+
+[B]Version 2.2.0[/B]
+- small fixes
+- (BETA) MEGA Search and Entertainment search
+
+[B]Version 2.1.0[/B]
+- small fixes
+- (BETA) MEGA Search = searches oneclickwatch watchthetapes binblix and tfpdl all at once..... (TESTING)
+- radio is now inside music
+
+[B]Version 2.0.2[/B]
+- small fixes
+
+[B]Version 2.0.1[/B]
+- small fixes
+
+[B]Version 2.0.0[/B]
+- added mmashare.com 
+- new icon
+
+[B]Version 1.4.1[/B]
+- added tfpdl.com (1080p tv movies) 
+
+[B]Version 1.4.0[/B]
+- added MY Streams
+
+[B]Version 1.2.8[/B]
+- added binflix (1080p tv shows & movies) 
+
+[B]Version 1.2.7[/B]
+- small fixes
+
+[B]Version 1.2.6[/B]
+- fixed myvideolinks.eu 
+
+[B]Version 1.2.5[/B]
+- small fixes 
+
+[B]Version 1.2.4[/B]
+- small fixes 
+
+[B]Version 1.2.1[/B]
+- added
+* some live streams
+* channel AKA
+* clubland tv
+
+[B]Version 1.2.0[/B]
+- small fixes 
+* one click watch search
+* TV HQ and added nextpage to tv shows
+- added
+* couch tuner in tv shows
+* some live streams
+* channel AKA
+* clubland tv
+
+[B]Version 1.1.5[/B]
+- small fixes
+
+[B]Version 1.1.4[/B]
+- small fix
+
+[B]Version 1.1.2[/B]
+- added searches
+- fixed primeflicks tv shows
+
+[B]Version 1.1.1[/B]
+- small fix
+
+[B]Version 1.1.0[/B]
+- added TV HQ & myvideolinks.eu is back
+
+[B]Version 1.0.9[/B]
+- small fix to flixanity movies
+
+[B]Version 1.0.8[/B]
+- free movies removied and prime flicks
+
+[B]Version 1.0.7[/B]
+- small fix to flixanity still needs a better fix when i get some time
+
+[B]Version 1.0.6[/B]
+- added tfpdl.com
+- added TwoDDL (HD)
+- added TheYid news
+
+[B]Version 1.0.5[/B]
+- added Notification
+- fixed watch the tapes
+
+[B]Version 1.0.4[/B]
+- added
+* tupeliculashd.com
+- removed
+* myvideolinks.eu 
+
+[B]Version 1.0.2[/B]
+- fixed channelcut 
+
+[B]Version 1.0.1[/B]
+- fixed my video links eu
+
+[B]Version 1.0.0[/B]
+- Full release of Entertainment [COLOR dodgerblue][B]HUB[/B][/COLOR] V-1.0.0
+

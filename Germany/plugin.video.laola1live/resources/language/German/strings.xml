@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Setting section strings -->
+	<string id="31000">Allgemein</string>
+	<string id="31001">Player</string>
+	
+	<!-- Plugin settings strings -->
+	<string id="31010">Voschaubildeinstellung</string>
+	<string id="31011">Normal</string>
+	<string id="31012">Hohe Qualität</string>
+	<string id="31013">Als Hintergrund benutzen</string>
+	
+	<string id="31020">Videoqualität</string>
+	<string id="31021">Niedrig</string>
+	<string id="31022">Mittel</string>
+	<string id="31023">Hoch</string>
+	
+	
+	<string id="31100">"Zurück" Schaltfläche versteckt</string>
+	<string id="31101">Debug</string>
+
+	<string id="30204">Standort</string>
+	<string id="30205">Deutschland</string>
+	<string id="30206">Österreich</string>
+	<string id="30207">Weltweit</string>
+	<string id="30208">de</string>
+	<string id="30209">at</string>
+	<string id="30210">int</string>
+
+
+	<string id="30211">Sprache</string>
+	<string id="30212">Deutsch</string>
+	<string id="30213">Englisch</string>
+	<string id="30214">de</string>
+	<string id="30215">en</string>
+
+	
+	<!-- Add-on strings -->
+	<string id="32000">Nächste Seite</string>
+	<string id="32001">Live</string>
+	<string id="32002">Dieser Stream beginnt</string>
+	<string id="32003">[COLOR red]LIVE[/COLOR]</string>
+	<string id="32004">Neuste Videos</string>
+	
+	
+	<string id="32010">Stream wird gestartet</string>	
+	<string id="32011">Lade Seite</string>
+	<string id="32012">Lade Player</string>
+	<string id="32013">Lade Playlist</string>
+	<string id="32014">Lade Video</string>
+	<string id="32015">Starte Video</string>
+	<string id="32016">Match hat noch nicht begonnen</string>
+	
+
+</strings>

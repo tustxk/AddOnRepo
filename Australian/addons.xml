@@ -71,6 +71,21 @@
   </statfeed>
 </addon>
 
+<addon id="plugin.video.abc_iview" name="ABC iView" provider-name="Andy Botting" version="1.6.4">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource" provides="video">
+    <provides>video</provides>
+  </extension>
+  <extension library="default.py" point="xbmc.addon.metadata">
+    <summary>ABC iView add-on by Andy Botting</summary>
+    <description>iView offers full-length programs as seen on ABC TV, and iView originals ranging from arts to anime. Programs are added every day; most programs are available for 14 days. You must be located in Australia to access content. NOTE: This will count towards your Internet usage quota.</description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.abcradionational" name="RNTV - Radio National TV" version="1.0.5" provider-name="Damon Toumbourou">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -127,6 +142,29 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.catchuptv.au.nine" name="Ninemsn Jump-In" provider-name="adammw111" version="0.0.3">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson"/>
+    <import addon="script.module.beautifulsoup"/>
+    <import addon="script.module.catchuptv.brightcove"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>31542</minversion>
+    <summary>Watch videos from Ninemsn's Jump In</summary>
+    <description>Watch videos from Ninemsn's Jump In</description>
+    <disclaimer>You must be within Australia to use watch these videos.</disclaimer>
+    <email>adman.com@gmail.com</email>
+    <source>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.nine.git</source>
+    <website>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.nine</website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.catchuptv.au.nten" name="Network Ten CatchUp TV" version="1.0.2" provider-name="boggob">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
@@ -156,6 +194,33 @@
         <summary>SBS CatchUp TV Video Player</summary>
         <description>Watch latest episodes, sneak peeks, exclusive internet extras and other videos from SBS Online.</description>
         <disclaimer>You must be within Australia to use watch these videos.[CR]"SBS", SBS Logos and other works are copyright of their respective owners.</disclaimer>
+    </extension>
+</addon>
+
+<addon id="plugin.video.catchuptv.au.ten" name="TENplay" provider-name="adammw111" version="0.5.11">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson"/>
+        <import addon="script.module.beautifulsoup"/>
+        <import addon="script.module.rollbar"/>
+        <!--
+        We use our own copy until https://github.com/jbeluch/python-brightcove/pull/2 is merged
+        <import addon="script.module.brightcove"/>
+        -->
+        <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <minversion>31542</minversion>
+        <summary>TENplay</summary>
+        <description>Watch latest episodes, sneak peeks, exclusive internet extras and other videos from Network Ten.</description>
+        <disclaimer>You must be within Australia to use watch these videos.[CR]The TENplay, TEN, ONE and ELEVEN logo and trade marks are registered trademarks of Network Ten Pty Limited.</disclaimer>
+        <email>adman.com@gmail.com</email>
+        <source>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.ten.git</source>
+        <website>https://github.com/xbmc-catchuptv-au/plugin.video.catchuptv.au.ten</website>
     </extension>
 </addon>
 
@@ -221,6 +286,22 @@
   </extension>
 </addon>
 
+<addon id="script.module.catchuptv.brightcove" name="Brightcove" provider-name="XBMC CatchUp TV AU" version="0.2.1">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension library="lib" point="xbmc.python.module"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Brightcove API Wrapper Module</summary>
+    <description>Brightcove API Wrapper Module</description>
+    <disclaimer/>
+    <license>GNU GPL</license>
+    <website>https://github.com/xbmc-catchuptv-au/script.module.catchuptv.brightcove</website>
+    <source>https://github.com/xbmc-catchuptv-au/script.module.catchuptv.brightcove.git</source>
+  </extension>
+</addon>
+
 <addon id="script.module.cryptopy"
        name="CryptoPy"
        version="1.2.6.2"
@@ -273,6 +354,23 @@
   </extension>
 </addon>
 
+<addon id="script.module.rollbar" name="Rollbar Issue Reporter" provider-name="xbmc-catchuptv-au" version="0.10.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.module" library="." />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Rollbar Issue Reporter</summary>
+    <description>Rollbar Issue Reporter</description>
+    <disclaimer></disclaimer>
+    <license>MIT License</license>
+    <website>https://github.com/xbmc-catchuptv-au/script.module.rollbar</website>
+    <source>https://github.com/xbmc-catchuptv-au/script.module.rollbar.git</source>
+  </extension>
+</addon>
+
 <addon id="script.module.simplejson"
        name="simplejson"
        version="3.3.0"
@@ -301,21 +399,6 @@
   <extension library="lib" point="xbmc.python.module" />
   <extension point="xbmc.addon.metadata">
     <language />
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="service.repo.check"
-       name="repocheck"
-       version="0.1"
-       provider-name="BIT">
-  <requires>
-    <import addon="xbmc.python" version="2.0"/>
-  </requires>
-  <extension point="xbmc.service"
-            library="default.py" start="startup">
-  </extension>
-  <extension point="xbmc.addon.metadata">
     <platform>all</platform>
   </extension>
 </addon>

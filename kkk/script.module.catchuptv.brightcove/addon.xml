@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><addon id="script.module.catchuptv.brightcove" name="Brightcove" provider-name="XBMC CatchUp TV AU" version="0.2.1">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension library="lib" point="xbmc.python.module"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Brightcove API Wrapper Module</summary>
+    <description>Brightcove API Wrapper Module</description>
+    <disclaimer/>
+    <license>GNU GPL</license>
+    <website>https://github.com/xbmc-catchuptv-au/script.module.catchuptv.brightcove</website>
+    <source>https://github.com/xbmc-catchuptv-au/script.module.catchuptv.brightcove.git</source>
+  </extension>
+</addon>

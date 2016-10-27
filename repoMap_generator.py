@@ -12,11 +12,11 @@ def get_repo_value(repo_dir, key):
     returnValue = ''
     for addon in root.findall('addon'):
       repoProviderName = addon.get('provider-name')
-      returnValue = addon.get(key)
       if 'netxeon-country' == repoProviderName:
         break
-    print repoProviderName
-    return returnValue
+      if 'netxeon-function' == repoProviderName:
+        break
+    return addon.get(key)
   except Exception as e:
     print 'Failed to open %s' % repo_file
     print e.message

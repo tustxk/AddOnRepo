@@ -15,8 +15,7 @@ def get_repo_value(repo_dir, key):
       returnValue = addon.get(key)
       if 'netxeon-contry' == repoProviderName:
         break
-      if 'netxeon-function' == repoProviderName:
-        break
+    print repoProviderName
     return returnValue
   except Exception as e:
     print 'Failed to open %s' % repo_file

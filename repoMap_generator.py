@@ -1,6 +1,7 @@
 # Script to generate the xml files for repo
 
 import os
+import sys
 import xml.etree.ElementTree
 
 def get_repo_value(repo_dir, key):
@@ -18,6 +19,7 @@ def get_repo_value(repo_dir, key):
   except Exception as e:
     print 'Failed to open %s' % repo_file
     print e.message
+    sys.exit(1)
 
 def main():
   # addon list
@@ -44,6 +46,7 @@ def main():
     except Exception, e:
       # missing or poorly formatted addon.xml
       print "Failed to add xml"
+      sys.exit(1)
   # clean and add closing tag
   repoMap_xml = repoMap_xml.strip() + u"\n</repos>\n"
   # save file
@@ -51,9 +54,11 @@ def main():
     # write data to the file
     open( "repoMap.xml", "w" ).write( repoMap_xml.encode( "UTF-8" ) )
     print "repoMap.xml generated!!!"
+    sys.exit(0)
   except Exception, e:
     # oops
-    print "An error occurred saving %s file!\n%s" % ( RepoMap.xml, e, )
+    print "An error occurred saving %s file!\n%s" % ( "RepoMap.xml", e, )
+    sys.exit(1)
 
 
 if __name__ == '__main__':

@@ -1,4 +1,8 @@
 <repos>
+<repo name="kkk"
+      id="repository.kkk"
+      version="1.0.0"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/kkk/repository.kkk/repository.kkk-1.0.0.zip"/>
 <repo name="Oz Weather"
       id="weather.ozweather"
       version="0.7.8"

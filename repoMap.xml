@@ -29,8 +29,8 @@
       path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Canadian/repository.Canadian/repository.Canadian-1.0.0.zip"/>
 <repo name="Asian"
       id="repository.Asian"
-      version="1.1.0"
-      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/repository.Asian/repository.Asian-1.1.0.zip"/>
+      version="1.0.0"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/repository.Asian/repository.Asian-1.0.0.zip"/>
 <repo name="Germany"
       id="repository.Germany"
       version="1.0.0"

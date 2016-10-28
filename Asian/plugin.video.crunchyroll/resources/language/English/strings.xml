@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Crunchyroll Login Info -->
+    <string id="20002">Username</string>
+    <string id="20003">Password</string>
+    <!-- Video Quality Selector -->
+    <string id="30001">Video quality:</string>
+    <string id="30002">360p (SD)</string>
+    <string id="30003">480p</string>
+    <string id="30004">720p (HD)</string>
+    <string id="30005">Ask</string>
+    <string id="30006">Highest available quality</string>
+	<!-- Image Quality Selector -->
+	<string id="40001">Thumbnail quality:</string>
+	<string id="40002">Low</string>
+	<string id="40003">Medium</string>
+	<string id="40004">High</string>
+	<!-- Interface Strings -->
+	<string id="50000">Anime</string>
+	<string id="50001">All Anime</string>
+	<string id="50002">Recently Added</string>
+	<string id="50003">Most Popular</string>
+	<string id="50004">Drama</string>
+</strings>

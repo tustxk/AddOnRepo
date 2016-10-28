@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <category label="30700">#Plugin
+   	<setting label="30704" type="bool"		id="enable-debug" 								default="false"/>
+   	<setting label="30705" type="bool"		id="show-debug" 									default="false"/>
+   	<setting label="30701" type="action" 	action="RunPlugin(plugin://plugin.video.theanimehighway/theanimehighway.py?mode=0&fav=download&name=TheAnimeHighway&url=https://github.com/HIGHWAY99/plugin.video.theanimehighway/archive/master.zip)"/>
+   	<setting label="30702" type="action" 	action="RunPlugin(plugin://plugin.video.theanimehighway/theanimehighway.py?mode=887&name=none&nm=none&tp=0&fav=clr&url=none&scr=none&fan=none)"/>
+   	<setting label="30703" type="bool"		id="enable-clearfavorites" 				default="true"/>
+   	<setting label="30707" type="action" 	action="RunPlugin(plugin://plugin.video.theanimehighway/theanimehighway.py?mode=887&name=none&nm=none&tp=0&fav=visitedclear&url=none&scr=none&fan=none)"/>
+   </category>
+   <category label="31100">#Menu
+   	<setting label="E-X-T-R-A-S" type="bool"		id="esite-extras"									default="true"/>
+   	<setting label="E-X-T-R-A-S 2" type="bool"		id="esite-extras2"									default="true"/>
+   	<setting label="31101" type="bool"		id="esite-1" 									default="true"/>
+   	<setting label="31102" type="bool"		id="esite-2" 									default="true"/>
+   	<setting label="31103" type="bool"		id="esite-3" 									default="true"/>
+   	<setting label="31104" type="bool"		id="esite-4" 									default="true"/>
+   	<setting label="31105" type="bool"		id="esite-5" 									default="true"/>
+   	<setting label="31106" type="bool"		id="esite-6" 									default="true"/>
+   	<setting label="31107" type="bool"		id="esite-7" 									default="true"/>
+   	<setting label="31108" type="bool"		id="esite-8" 									default="true"/>
+   	<setting label="31109" type="bool"		id="esite-9" 									default="true"/>
+   	<setting label="31110" type="bool"		id="esite-10"									default="true"/>
+   	<setting label="31111" type="bool"		id="esite-11"									default="true"/>
+   	<setting label="31112" type="bool"		id="esite-12"									default="true"/>
+   	<setting label="31113" type="bool"		id="esite-13"									default="true"/>
+   	<setting label="31114" type="bool"		id="esite-14"									default="true"/>
+   	<setting label="31115" type="bool"		id="esite-15"									default="true"/>
+   	<setting label="31116" type="bool"		id="esite-16"									default="true"/>
+   	<setting label="31117" type="bool"		id="esite-17"									default="true"/>
+   	<setting label="31118" type="bool"		id="esite-18"									default="true"/>
+   	<setting label="31119" type="bool"		id="esite-19"									default="true"/>
+   	<setting label="31120" type="bool"		id="esite-20"									default="true"/>
+   </category>
+   <category label="30600">#View Modes
+   	<setting label="View-Mode: Sites" type="number" 	id="viewmode-sites"							default="50"	/>
+   	<setting label="30601" type="number" 	id="viewmode-default"							default="50"	/>
+   	<setting label="30602" type="number" 	id="viewmode-movies"							default="515"	/>
+   	<setting label="30603" type="number" 	id="viewmode-shows"								default="515"	/>
+   	<setting label="30604" type="number" 	id="viewmode-episodes"						default="503"	/>
+   	<setting label="30605" type="number"	id="viewmode-sources"							default="50"	/>
+   	<setting label="30606" type="number"	id="viewmode-favs" 								default="504"	/>
+   </category>
+   <category label="30500">#MetaArt
+   	<setting label="30706" type="action" 	action="RunPlugin(plugin://plugin.video.theanimehighway/theanimehighway.py?mode=887&name=none&nm=none&tp=0&fav=metaclear&url=none&scr=none&fan=none)"/>
+   </category>
+   <category label="30800">#Downloads
+   	<setting label="30803" type="folder" 	id="folder-show" 									default="special://home/media/TV Shows" />
+   	<setting label="30804" type="folder" 	id="folder-movie"  								default="special://home/media/Movies" />
+   	<setting label="30805" type="bool" 		id="enable-downloading" 					default="true"/>
+   	<setting label="30806" type="bool" 		id="enable-showurl" 							default="true"/>
+   </category>
+    <category label="32001">#Account
+     <setting label="32011" type="text"   id="username" 										default=""/>
+     <setting label="32012" type="text"   id="password" option="hidden" 		default=""/>
+     <setting label="32013" type="bool" 	id="enable-accountinfo" 					default="false"/>
+    </category>
+</settings>

@@ -1,0 +1,1890 @@
+#######################
+#######################
+#######################
+#######################
+#######################
+#######################
+#######################
+
+
+
+#######################
+
+
+
+#######################
+
+
+
+#######################
+
+
+
+#######################
+
+
+
+#######################
+
+
+
+#######################
+
+
+
+#######################
+
+
+
+#######################
+
+
+
+#######################
+http://www.watchanimemovie.com/sub-dub/akira.html?url=http://stagevu.com/video/decfzlrxegls
+http://stagevu.com/video/decfzlrxegls
+	<div id="content">	<div id="toperror">Error: No video with the provided information exists</div>
+
+
+http://mp4upload.com/embed-nbc4xjvmpqxy.html
+'file': 'http://www4.mp4upload.com:182/d/tcx2drkfz3b4quuob6ubimcdcwe2uqztelqmc6nysm6lfbet6mm2p2vv/video.mp4',
+'image': 'http://www4.mp4upload.com/i/00003/nbc4xjvmpqxy.jpg',
+'link': 'http://www.mp4upload.com/nbc4xjvmpqxy',
+
+http://www4.mp4upload.com:182/d/tcx2drkfz3b4quuob6ubimcdcwe2uqztelqmc6nysm6lfbet6mm2p2vv/video.mp4
+http://www4.mp4upload.com:182/d/tcx2drkfz3b4quuob6ubimcdcwe2uqztelqmc6nysm6lfbet6mnezi23/video.mp4?start=0
+
+### image - banner/logo
+http://www.mp4upload.com/images/logo.png
+### image - fanart
+http://www.mp4upload.com/images/pic2.jpg
+
+
+
+
+http://www.zshare.net/videoplayer/player.php?SID=dl077*FID=84728575*FN=ark%202004.flv
+
+
+### other anime sites
+http://www.videoweed.es/file/4f4d5771adee0
+			flashvars.domain="http://www.videoweed.es";
+			flashvars.file="4f4d5771adee0";
+			flashvars.filekey="199.0.197.160-35f949e0c3a1a9ad0f76e94323ac4659";
+http://s32.videoweed.es/dl/475ef98c682a817af51fe415461f17a8/51cb7779/ffb1838851c30a8cf4c72bf2a4e757f0bf.flv?client=FLASH
+### watchmovieonline site
+http://www.videoweed.es/file/c2piwuc52mgvp
+http://s33.videoweed.es/dl/bfac3ad6672617a7df537345cde9cc36/51fc789a/ff7bbc3432b8fe81cc36ba564d099ca60f.flv?client=FLASH
+        if r:
+            domain, fileid, filekey = r.groups()
+            api_call = ('%s/api/player.api.php?user=undefined&codes=1&file=%s' +
+                        '&pass=undefined&key=%s') % (domain, fileid, filekey)
+        else:
+http://www.videoweed.es/api/player.api.php?user=undefined&codes=1&file=c2piwuc52mgvp&pass=undefined&key=199.0.197.160-47f12f32e459ad8f59efa356a01f68af
+url=http://s32.videoweed.es/dl/f326bbb9270cb5884b4529da5a2ada5c/51fc885a/ff7bbc3432b8fe81cc36ba564d099ca60f.flv&title=%26asdasdas&site_url=http://www.videoweed.es/file/c2piwuc52mgvp&seekparm=&enablelimit=0
+url=
+### downloadable
+http://s32.videoweed.es/dl/f326bbb9270cb5884b4529da5a2ada5c/51fc885a/ff7bbc3432b8fe81cc36ba564d099ca60f.flv
+&title=%26asdasdas&site_url=http://www.videoweed.es/file/c2piwuc52mgvp&seekparm=&enablelimit=0
+
+### googled
+http://thumbs.videoweed.es/thumbs/5b42d7283f13f36c8d6afd90912ec5b1-1.jpg
+### Black image when wrong
+http://thumbs.videoweed.es/thumbs/ff7bbc3432b8fe81cc36ba564d099ca60f-1.jpg
+
+http://www.videoweed.es/mobile/share.php?id=c2piwuc52mgvp
+http://www.videoweed.es/mobile/share.php?id=[file_id]
+http://thumbs.videoweed.es/thumbs/7bbc3432b8fe81cc36ba564d099ca60f-1.jpg
+http://thumbs.videoweed.es/thumbs/ff7bbc3432b8fe81cc36ba564d099ca60f-1.jpg
+
+
+
+http://www.watchanimemovie.com/sub-dub/baby-love.html?url=http://stagevu.com/video/dbwwzgqilkvo
+http://stagevu.com/embed?width=500&amp;height=430&amp;background=3c3c3c&amp;uid=dbwwzgqilkvo
+http://n202.stagevu.com/v/7b1c54fe6105039dd9c979874b26abaa/10265.avi
+http://stagevu.com/img/thumbnail/dbwwzgqilkvobig.jpg
+
+
+http://www.veoh.com/watch/v962546hjffhF4m
+
+
+
+     "short_url": "asfDhd",
+     "thumb_url": "http://videobam.com/thumbnail-2-asfDhd.jpg",
+     "stream_url": "http://videobam.com/videos/get_stream_url/asfDhd",
+     "thumbsheet_url": "http://videobam.com/thumbsheet-1-asfDhd.jpg",
+     "full_url": "http://videobam.com/asfDhd",
+
+     "short_url": "asfDhd",
+     "thumb_url": "http://videobam.com/thumbnail-2-asfDhd.jpg",
+     "stream_url": "http://videobam.com/videos/get_stream_url/asfDhd",
+     "thumbsheet_url": "http://videobam.com/thumbsheet-1-asfDhd.jpg",
+     "full_url": "http://videobam.com/asfDhd",
+
+
+http://auengine.com/embed.php?file=APdFVX0k
+<title>[Nubles]_Asura_[BD_720p_8bit_AAC][F871A13A]-muxed.mp4</title>
+http://s45.auengine.com/videos/APdFVX0k.mp4?st=5jgfNFHALyg1gIpmkpqMFg&e=1375544593
+								playlist:
+								[
+								{
+												url: 'http://s3.auengine.com/thumb/APdFVX0k_b.png',
+												scaling: 'fit'
+								},
+								{
+												url: 'http://s45.auengine.com%2Fvideos%2FAPdFVX0k.mp4%3Fst%3D5jgfNFHALyg1gIpmkpqMFg%26e%3D1375544593',
+												autoPlay: false,
+												scaling: 'fit',
+												autoBuffering: false,
+												provider: 'lighttpd'
+								}
+								]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######################
+http://dubbedanime.tv/genres/?genre=Ecchi
+http://dubbedanime.tv/dears-episode-13-english-dubbed/
+http://sv3.trollvid.net/embed.php?file=71a37b65&w=566&h=360&site=dubbedanime
+
+
+#######################
+http://www.thetvdb.com/index.php?seriesname=Irresponsible+Captain+Tylor&fieldlocation=2&language=7&genre=Animation&year=&network=&zap2it_id=&tvcom_id=&imdb_id=&order=translation&addedBy=&searching=Search&tab=advancedsearch
+
+http://www.thetvdb.com/?tab=seasonall&id=71279&lid=7
+
+<div class="section">
+	<table width="100%" border="0" cellspacing="0" cellpadding="2" align="center" id="listtable">
+		<tr>
+		<td class="head">Episode Number</td>
+			<td class="head">Episode Name</td>
+			<td class="head">Originally Aired</td>
+			<td class="head">Image</td>
+		</tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41175&amp;lid=7">1 x 1</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41175&amp;lid=7">The Mysterious Irresponsible Man.</a></td><td class="odd">1993-01-25</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41176&amp;lid=7">1 x 2</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41176&amp;lid=7">Hey, Ho! The Happy Pensioned Life!</a></td><td class="even">1993-02-01</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41177&amp;lid=7">1 x 3</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41177&amp;lid=7">The Ship Sets Sail, but Misgivings Remain.</a></td><td class="odd">1993-02-08</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41178&amp;lid=7">1 x 4</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41178&amp;lid=7">Enemy! Crisis! We Surremder!</a></td><td class="even">1993-02-15</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41179&amp;lid=7">1 x 5</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41179&amp;lid=7">Angel in White Begins With an H.</a></td><td class="odd">1993-02-22</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41180&amp;lid=7">1 x 6</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41180&amp;lid=7">The Tail of the Lizard's Tail.</a></td><td class="even">1993-03-01</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41181&amp;lid=7">1 x 7</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41181&amp;lid=7">A Gentleman's Word is His Bond.</a></td><td class="odd">1993-03-08</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41182&amp;lid=7">1 x 8</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41182&amp;lid=7">Life is Short, So Girls Should Kill.</a></td><td class="even">1993-03-15</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41183&amp;lid=7">1 x 9</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41183&amp;lid=7">When You Wish Upon a Flower.</a></td><td class="odd">1993-03-22</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41184&amp;lid=7">1 x 10</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41184&amp;lid=7">Mind's Eye, Half Blind, Headed For a Rough Ride.</a></td><td class="even">1993-03-29</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41185&amp;lid=7">1 x 11</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41185&amp;lid=7">In Demotion Does a Woman Bloom.</a></td><td class="odd">1993-04-05</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41186&amp;lid=7">1 x 12</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41186&amp;lid=7">The Day the Soyokaze Vanished.</a></td><td class="even">1993-04-12</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41187&amp;lid=7">1 x 13</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41187&amp;lid=7">Be Prepared, Be Smart, or Be Lucky.</a></td><td class="odd">1993-04-19</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41188&amp;lid=7">1 x 14</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41188&amp;lid=7">Equation of Kindness.</a></td><td class="even">1993-04-26</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41189&amp;lid=7">1 x 15</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41189&amp;lid=7">Shiny! Happy! (Deadly) Germs!</a></td><td class="odd">1993-05-03</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41190&amp;lid=7">1 x 16</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41190&amp;lid=7">Strange Love.</a></td><td class="even">1993-05-10</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41191&amp;lid=7">1 x 17</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41191&amp;lid=7">The Unjust Dessert.</a></td><td class="odd">1993-05-17</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41192&amp;lid=7">1 x 18</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41192&amp;lid=7">A Place for Confesions.</a></td><td class="even">1993-05-24</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41193&amp;lid=7">1 x 19</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41193&amp;lid=7">Sleeping Beauty.</a></td><td class="odd">1993-05-31</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41194&amp;lid=7">1 x 20</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41194&amp;lid=7">Well Handled Solutions.</a></td><td class="even">1993-06-07</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41195&amp;lid=7">1 x 21</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41195&amp;lid=7">Paco-Paco Junior.</a></td><td class="odd">1993-06-14</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41196&amp;lid=7">1 x 22</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41196&amp;lid=7">Force Of One.</a></td><td class="even">1993-06-21</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41197&amp;lid=7">1 x 23</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41197&amp;lid=7">The Longest Day In Space.</a></td><td class="odd">1993-06-28</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41198&amp;lid=7">1 x 24</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41198&amp;lid=7">Snap! Snap! Crackle! Snap!</a></td><td class="even">1993-07-05</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41199&amp;lid=7">1 x 25</a></td><td class="odd"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41199&amp;lid=7">My Way is the Hard Way.</a></td><td class="odd">1993-07-12</td><td class="odd"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41200&amp;lid=7">1 x 26</a></td><td class="even"><a href="/?tab=episode&seriesid=71279&seasonid=2004&id=41200&amp;lid=7">For His Was a Genius no Rule Could Contain.</a></td><td class="even">1993-07-19</td><td class="even"><img src="/images/checkmark.png" width=10 height=10> &nbsp;</td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217761">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217761">Tylor's War: Part 1</a></td><td class="special">1994-10-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217771">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217771">Tylor's War: Part 2</a></td><td class="special">1994-11-02</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217781">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217781">The Rules of Being 16</a></td><td class="special">1995-09-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217791">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217791">The Samurai's Narrow Escape</a></td><td class="special">1995-10-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217801">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217801">The High-Tech Opposition</a></td><td class="special">1995-12-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217811">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217811">White Christmas</a></td><td class="special">1995-12-25</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217871">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217871">If Only the Skies Would Clear: Part 1</a></td><td class="special">1996-03-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217881">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217881">If Only the Skies Would Clear: Part 2</a></td><td class="special">1996-04-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217911">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217911">From Here to Eternity: Part 1</a></td><td class="special">1996-07-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+<tr><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217921">Special</a></td><td class="special"><a href="/index.php?tab=episode&seriesid=71279&seasonid=18747&id=2217921">From Here to Eternity: Part 2 </a></td><td class="special">1996-08-01</td><td class="special"><img src="/images/checkmark.png" width=10 height=10></td></tr>
+	</table>
+</div>
+
+
+
+#######################
+http://thetvdb.com/api/GetSeries.php?seriesname=GANTZ&language=en
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+<Series>
+<seriesid>78916</seriesid>
+<language>en</language>
+<SeriesName>Gantz</SeriesName>
+<banner>graphical/78916-g3.jpg</banner>
+<Overview>Kurono Kei is a high school student who is fairly self-absorbed.  One day when he sees a man fall off a subway platform, he decides to just stand and watch.  His former classmate, Katou Masaru, gets down to help the man, however, and then asks for his help.  Reluctantly, he agrees to help.  During the rescue, they notice a train coming and after placing the man back on the platform, they have to run for their lives to try to make it past the platform.  This train, though, is an express and is not going to stop.  Just as they are hit, they are transported into a room of a high-rise apartment.  There is a black ball (the Gantz) in the middle of the room and other people surrounding the ball.  It turns out that all of these people were transported here when they died.  After a few moments a naked girl (Kishimoto Kei) is transported into the room in front of their eyes.  The ball plays some music and says (via words displayed upon it) that they are now at it's will, and they're lives are g</Overview>
+<FirstAired>2004-04-12</FirstAired>
+<Network>The Anime Network</Network>
+<IMDB_ID>tt0434685</IMDB_ID>
+<id>78916</id>
+</Series>
+</Data>
+
+
+http://thetvdb.com/api/GetSeries.php?seriesname=Witch
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+<Series>
+<seriesid>79154</seriesid>
+<language>en</language>
+<SeriesName>W.I.T.C.H.</SeriesName>
+<banner>graphical/29931-g.jpg</banner>
+<Overview>Take five contemporary girls just going into their teens. Give them super-powers over the four Elements ” super-powers that enable them to protect the universe¦ And what do you get?       W.I.T.C.H.       Will, Irma, Taranee, Cornelia and Hay Lin, chosen to be "Guardians of the Veil," the border between Good and Evil since time immemorial. W.I.T.C.H. is an action series combining epic adventure and comedy, magic and realism, through the adventures of five young heroines designated to maintain the natural order of the universe¦ at the same time as they cope with the daily trials and tribulations of teenage life.       Irma holds powers related to the element Water; Taranee, powers related to Fire; Cornelia, powers related to Earth, and Hay Lin, powers related to Air. The girls can now summon and use these Elements as they see fit. Will is the keeper of the Heart of Kandrakhar and the awesome catalyst who draws together all the group's energy and sets off their transformation¦ into Guardians. Together the five girls discover their mission is to protect the universe from evil and along the way "discover the magic and power of friendship".      W.I.T.C.H. is an acronym for the guardians names:   Will   Irma   Taranee   Cornelia   Hay Lin      Characters:      Will Vandom:   Astrological Sign: Capricorn   Will is 13 years old and just moved to a new town where she happens to have met Cornelia, Hay Lin, Taranee and Irma, as they became very best friends and discovered their powers together.       Irma Lair:    Astrological Sign: Pisces   12 year-old Irma holds the power of water; loves to listen to music while impersonating all famous people. Her favorite subject is art, and she loves to spend time in her bathtub.      Taranee Cook:   Astrological Sign: Aries   Taranee is 12 years old, she holds the power of fire; loves basketball, bugs, classical music and photography. Looks like she has a crush on a cute boy, Nigel.      Cornelia Hale:   Astrological Sign: Taurus   Cornelia is 13 years old, she holds the power of Earth; loves flowers, ice skating, and will shop-rain or shine!      Hay Lin:    Astrological Sign: Gemini   Hay Lin is 12 years old, holds the power of air and also loves her family dearly.             Theme Song Lyrics:      We are...    We are...    We are...    W.I.T.C.H.!       We are...    We are...    (W.I.T.C.H.)       There is a place where darkness reigns,    We got the power to fight back!    We save the day, united five as one!    We can become more than you know.    The Heart will lead the way to what we can control!       Water, Fire, Earth, and Air!    Guardians, Unite!       We are...    We are...    We are...    W.I.T.C.H.!       We are...    We are...    (W.I.T.C.H.)       We are...    We are...    We are...    W.I.T.C.H.!       We are...    We are...    (We are...    We are...    We are...)    (We are...    We are...    We are...)    W.I.T.C.H.</Overview>
+<FirstAired>2005-01-15</FirstAired>
+<Network>Toon Disney</Network>
+<IMDB_ID>tt0383718</IMDB_ID>
+<zap2it_id>SH706259</zap2it_id>
+<id>79154</id>
+</Series>
+<Series>
+<seriesid>75431</seriesid>
+<language>en</language>
+<SeriesName>The Worst Witch</SeriesName>
+<banner>graphical/75431-g.jpg</banner>
+<Overview>The Worst Witch is a famous show both in the United kingdom, Canada and USA.
+Mildred (Milly) Hubble started Cackle's Academy to start her new life as a witch. On the first day of school she arrived late to school, crashing into the school grounds, not a very good start to the first day of school at all! 
+From day one Miss Hardbroom (Played by Kate Duchene) absolutely hated Mildred and she wasn't the only one, Ethel and Drusilla made her life a living hell too.
+Luckily she made good friends, Enid, Ruby, Maud and Jadu.
+Even though her spells turn into a disaster and she can't fly her broomstick, she always saves the day! Characters Mildred - Main character -  Mildred doesn't came from a witch family like the other girls, but earns a scholarship to Cackle's Academy by writing a creative essay. She is a terrible witch, but a good friend to Enid, Maud, ruby and Jadu.
+Ethel Hallow &amp; Drusilla - Mildred's Nemesis's - Together, they make Mildred's life quite unpleasant throu</Overview>
+<FirstAired>1999-07-14</FirstAired>
+<Network>ITV1</Network>
+<IMDB_ID>tt0179061</IMDB_ID>
+<id>75431</id>
+</Series>
+<Series>
+<seriesid>262989</seriesid>
+<language>en</language>
+<SeriesName>Season Of The Witch</SeriesName>
+<Overview>A woman falls overboard during a rafting trip in Skagafjörður, hits her head on a rock and later dies without having gained consciousness. Her mother contacts Einar and tells him she was murdered. Einar finds this hard to believe but starts investigating anyway, more as as sop to the old lady, whom he likes, than on suspicion of finding anything suspicious. Shortly afterwards a charismatic young man disappears and Einar gets orders to write up a story about the investigation, while also covering a problem with politics and hooliganism in a village a few hour’s drive from Akureyri. His investigation leads to interesting facts about the young man, who was not all he seemed to be, and also about the dead woman’s husband. At the same time Einar finds himself embroiled in two separate family dramas with quite different outcomes.</Overview>
+<FirstAired>2011-04-20</FirstAired>
+<id>262989</id>
+</Series>
+<Series>
+<seriesid>75623</seriesid>
+<language>en</language>
+<SeriesName>Tucker's Witch</SeriesName>
+<Overview>Tuckers Witch was a comedy detective series starring Tim Matheson &amp; Catherine Hicks as Husband &amp; Wife detectives Rick &amp; Amanda Tucker.Rick &amp; Amanda own &amp; run a detective agency "Tucker &amp; Tucker Investigation Agency" Rick is an above average Detective,Amanda is a Witch ( whose powers are not-always-reliable )&amp; Dickens is Amanda's Himalayan cat.</Overview>
+<FirstAired>1982-10-01</FirstAired>
+<Network>CBS</Network>
+<id>75623</id>
+</Series>
+<Series>
+<seriesid>266182</seriesid>
+<language>en</language>
+<SeriesName>The Witch Trial</SeriesName>
+<AliasNames>Witch Trial</AliasNames>
+<Overview>Toru is a young part-timer who has no interest in social issues. He gets called in as a juror in the trial of a woman labeled as a "witch", charged with a murder over an enormous inheritance. Though it appears that she is definitely guilty, one by one the jurors begin casting their votes for "not guilty." From the shadows, there is a mysterious organization buying control of the jury. At the same time, strange events start happening around Toru. When another juror is threatened, Toru is determined to save her. However, Toru's girlfriend, a newspaper reporter, seems suspicious of their relationship. And so, Toru begins his lonely fight for the truth. </Overview>
+<FirstAired>2009-04-25</FirstAired>
+<Network>Fuji TV</Network>
+<IMDB_ID>tt1422340</IMDB_ID>
+<id>266182</id>
+</Series>
+<Series>
+<seriesid>259863</seriesid>
+<language>en</language>
+<SeriesName>Anime Mirai</SeriesName>
+<AliasNames>Aruvu Rezuru - Mechanized Fairies|Buta|Death Billiards|Dudu the Floatie|Grandfather's Lamp|Little Witch Academia|Minding My Own Business|One-Hit Bond|Ryo|Super Veggie Torracman|Wakate Animator Ikusei Project|Wardrobe Dwellers|Wasurenagumo|Young Animator Training Project</AliasNames>
+<banner>graphical/259863-g.jpg</banner>
+<Overview>Anime Mirai is a government funded project, aimed at training new animators on-the-job. Each episode is a stand alone story produced by a different animation studio.</Overview>
+<FirstAired>2011-03-06</FirstAired>
+<Network>MBS</Network>
+<id>259863</id>
+</Series>
+<Series>
+<seriesid>80082</seriesid>
+<language>en</language>
+<SeriesName>Magical Witch Punie-chan</SeriesName>
+<AliasNames>Dai Mahou Touge</AliasNames>
+<banner>graphical/80082-g2.jpg</banner>
+<Overview>Punie is next in line to become queen of Magical Land. However, she must spend a year on Earth before she can inherit the throne, so she transfers into a school in Japan. She's usually a sweet and gentle girl... that is unless someone does something to displease her, then she'll drop the act. She won't hesitate to whip out her magic stick and cheerfully rain bloody destruction down on the hapless fool, or barring that, simply use wrestling moves she calls "Submission" to punish them. Accompanied by her animal mascot Paya-tan, who makes regular attempts on her life (still bitter about being defeated and then forcibly recruited from Waku Waku Mascot Village), and forced to fend off random attacks by various people from her Kingdom who all have different reasons for wanting her dead, she must complete this year of training on Earth without fail.</Overview>
+<FirstAired>2006-03-20</FirstAired>
+<id>80082</id>
+</Series>
+<Series>
+<seriesid>79109</seriesid>
+<language>en</language>
+<SeriesName>Nurse Witch Komugi</SeriesName>
+<AliasNames>Nurse Witch Komugi-chan Magikarte</AliasNames>
+<banner>graphical/30802-g.jpg</banner>
+<Overview>Welcome to the Nurse Witch Komugi guide at TV Tome.      This show is a spinoff of the series "SoulTaker". It centers around Komugi, a 17 year old cos-play idol who protects the world as Magical Nurse Komugi from the king of viruses, Ungraar, who is embedded within Komugi's best friend, Koyori, who occasionally transforms into Magical Maid Koyori.    This is a funny show that can be seen on the anime network.</Overview>
+<FirstAired>2004-09-01</FirstAired>
+<id>79109</id>
+</Series>
+</Data>
+
+#######################
+
+			### vid_id
+			### http://video.rutube.ru/64a7da0f3b1158b4830401f3ddfea34c
+			### 'http://img-'.rand(1, 4).'.rutube.ru/thumbs/'.substr($videoId, 0, 2).'/'.substr($videoId, 2, 2).'/'.$videoId.'-1.jpg'
+			### http://video.rutube.ru/43398d4a0260c6fa0634de666e6d670e
+			### http://img-1.rutube.ru/thumbs/43/39/43398d4a0260c6fa0634de666e6d670e-1.jpg
+			### 'http://img-1.rutube.ru/thumbs/'+vid_id[0:2]+'/'+vid_id[2:2]+'/'+vid_id+'-1.jpg'
+			### http://video-12-7.rutube.ru/hdsv2/0GSkNrgI-Ur-hHv9nMTrHw/1374435821/n2vol1/43398d4a0260c6fa0634de666e6d670e.mp4Seg1-Frag1
+			### http://video.rutube.ru/9137763f009758d936911a936bed9d28
+			### http://video-1-28.rutube.ru/hdsv2/6ZlOmWZaDryFeZzdLL43-Q/1374435996/n2vol1/9137763f009758d936911a936bed9d28.mp4Seg1-Frag1
+			### http://rutube.ru/player.swf?hash=9137763f009758d936911a936bed9d28&&referer=
+			### http://rutube.ru/tracks/1960121.html?v=2f2743ca8db69b2fd6a44d7a9fb4d98c
+			### [rutube=470x353]http://rutube.ru/tracks/1960121.html?v=2f2743ca8db69b2fd6a44d7a9fb4d98c[/rutube]
+			### http://rutube.ru/tracks/5323925.html
+			### http://rutube.ru/video/20a0d69821576eac3b2389b001c6d243/
+			### http://rutube.ru/embed/5923000
+			### http://tub.rutube.ru/thumbs-wide/c2/20/c22031eefba1c0e2b1be934c96a05b6e-1.jpg
+			### http://rutube.ru/video/private/66be4438b1ab4b4b4209af9b5f9e51ef/?p=F9VycsMEW-hkoY0lrCNh0g==
+			### http://rutube.ru/video/embed/5923000
+			### http://rutube.ru/tracks/5923000.html
+			### http://pic.rutube.ru/user/d0/c2/d0c29457128545563f25d71a2b9f6e1b.jpg
+			### http://rutube.ru/video/category/5/
+			### http://rutube.ru/api/metainfo/video/66be4438b1ab4b4b4209af9b5f9e51ef/videoperson
+			### http://rutube.ru/api/metainfo/video/66be4438b1ab4b4b4209af9b5f9e51ef/videogenre
+			### http://rutube.ru/api/video/5923000
+			### http://www.dailymotion.com/services/oembed?format=xml&url=
+			### "http://rutube.ru/cgi-bin/xmlapi.cgi?rt_mode=movie&rt_movie_id=".$this->video_id."&utf=1"
+			### http://rutube.ru/api/video/20a0d69821576eac3b2389b001c6d243/?format=xml
+			### http://video.rutube.ru/b824e5c3eb59b0fc2a15e823e27600a9
+			### http://rutube.ru/info/to_developers/
+			### 
+			### 
+			### 
+			### 
+			### 
+			### 
+			### 
+			### 
+			### 
+			### 
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<root><description>a</description><title>Zero F 01 nif</title><is_hidden>False</is_hidden>
+<created_ts>2012-02-16 17:38:24</created_ts><html>&lt;iframe width="720" height="405" 
+src="http://rutube.ru/video/embed/5323925" frameborder="0" webkitAllowFullScreen mozallowfullscreen 
+allowfullscreen&gt;&lt;/iframe&gt;</html><id>20a0d69821576eac3b2389b001c6d243</id>
+<thumbnail_url>http://tub.rutube.ru/thumbs-wide/10/65/1065d9a4f8fe3262dcdf29b26b5c8483-1.jpg</thumbnail_url>
+<for_registered>False</for_registered><for_linked>False</for_linked>
+<video_url>http://rutube.ru/video/20a0d69821576eac3b2389b001c6d243/</video_url>
+<duration>1440</duration><has_high_quality>False</has_high_quality><hits>11431</hits><is_adult>False</is_adult><is_deleted>False</is_deleted><last_update_ts>2013-02-08 07:01:59</last_update_ts><embed_url>http://rutube.ru/video/embed/5323925</embed_url><source_url>http://rutube.ru/tracks/5323925.html</source_url><is_external>False</is_external><author><avatar_url>/static/img/_thumb_default_06.png</avatar_url><id>17358</id><name>rutube_account_17358</name></author><category><id>41</id><category_url>http://rutube.ru/video/category/41/</category_url><name>Аниме</name></category><picture_url></picture_url><rutube_poster></rutube_poster><is_official>False</is_official><restrictions></restrictions><show></show><persons>http://rutube.ru/api/metainfo/video/20a0d69821576eac3b2389b001c6d243/videoperson</persons><genres>http://rutube.ru/api/metainfo/video/20a0d69821576eac3b2389b001c6d243/videogenre</genres><music></music></root>
+
+
+
+import re,util
+__name__ = 'rutube'
+def supports(url):
+        return not _regex(url) == None
+
+# returns the steam url
+def url(url):
+        m = _regex(url)
+        if m:
+                data = util.request('http://rutube.ru/trackinfo/'+m.group('id')+'.xml')
+                n = re.search('<m3u8>([^<]+)',data,re.IGNORECASE | re.DOTALL)
+                if not n == None:
+                        return [n.group(1).strip()]
+
+def resolve(u):
+        stream = url(u)
+        if stream:
+                return [{'name':__name__,'quality':'640p','url':stream[0],'surl':u}]
+def _regex(url):
+        return re.search('rutube\.ru/(video/embed|embed)/(?P<id>[^$]+)',url,re.IGNORECASE | re.DOTALL)
+
+
+
+
+
+class c_video_provider_rutube extends a_video_provider {
+
+    function get_url_watch(){
+        return 'http://rutube.ru/video/'.$this->video_id.'.html';
+    }
+
+    protected function _url_xml(){
+      return "http://rutube.ru/cgi-bin/xmlapi.cgi?rt_mode=movie&rt_movie_id=".$this->video_id."&utf=1";
+    }
+
+    function get_embed(){
+        $result=false;
+        $xml = $this->read_remote_xml($this->_url_xml());
+        if ($xml) {
+            $result = (string) $xml->html;
+        }
+        return $result;
+    }
+
+    function get_url_img_preview(){
+        $result=false;
+        $xml = $this->read_remote_xml($this->_url_xml());
+        if ($xml) {
+            $result=array();
+            $result['small'] = (string) $xml->thumbnail_url;
+            $result['medium'] = (string) $xml->thumbnail_url;
+            $result['large'] = (string) $xml->thumbnail_url;
+        }
+        return $result;
+    }
+
+    function get_info(){
+      $result=false;
+      $xml = $this->read_remote_xml($this->_url_xml());
+        if ($xml) {
+          $result = array();
+            $result['title'] = (string) $xml->title;
+            $result['description'] = strip_tags((string) $xml->description);
+            $result['duration']=(int) $xml->duration;
+        }
+        return $result;
+    }
+
+    function get_regexps(){
+        $start="(?:\/|\s|^)(?:www\.)?";
+        $result=array();
+        $result[]=$start."rutube.ru\/video\/([A-Za-z0-9_-]+)\/";
+        $result[]=$start."rutube.ru\/video\/([A-Za-z0-9_-]+)";
+        return $result;
+    }
+}
+
+#######################
+http://i48.vbox7.com/player/ext.swf?vid=291300b10d
+http://media31.vbox7.com/s/29/291300b10d.flv
+http://i48.vbox7.com/player/ext_v7.swf?vid=291300b10d
+http://media31.vbox7.com/s/29/291300b10d.flv
+
+
+
+http://media29.vbox7.com/s/04/04d4d01c09.flv
+http://i48.vbox7.com/player/ext.swf?vid=04d4d01c09
+http://i48.vbox7.com/p/291300b10d5.jpg
+http://www.vbox7.com/play:291300b10d
+http://i48.vbox7.com/player/ext_v7.swf?vid=291300b10d&autoplay=1
+https://i48.vbox7.com/player/ext_v7.swf?vid=291300b10d&autoplay=1
+http://i49.vbox7.com/o/291/291300b10d0.jpg
+
+<div id="tabcontent_post_Video Mirror 3" class="tab_content" style="">
+<object rel="media:video" xmlns:media="http://search.yahoo.com/searchmonkey/media/" 
+xmlns:dc="http://purl.org/dc/terms/" resource="http://i48.vbox7.com/player/ext.swf?vid=04d4d01c09" 
+id="video" type="application/x-shockwave-flash" data="http://i48.vbox7.com/player/ext.swf?vid=04d4d01c09" 
+height="470" width="520"><param name="movie" value="http://i48.vbox7.com/player/ext.swf?vid=04d4d01c09"><param 
+name="quality" value="high"><param name="scale" value="noorder"><param name="wmode" value="opaque">
+<param name="allowscriptaccess" value="never"><param name="allownetworking" value="internal">
+<param name="allowfullscreen" value="true"><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer">
+<a dwhelper-display="" style="" dwhelper-border="" rel="media:thumbnail" href="http://sitemap.watchdub.com/thumb.JPG"></a></object></div>
+
+	<?php
+error_reporting(E_ALL ^ E_WARNING ^ E_NOTICE);
+if($_POST['submit'] and strlen($_POST['url'])>0){
+   $file = $_POST['url'];
+   $number = explode(":", $file);
+   $i = substr($number[2],0 ,2);
+   if(fopen("http://media.vbox7.com/s/$i/$number[2].flv","r"))
+   {
+      $url = "http://media.vbox7.com/s/$i/$number[2].flv";
+   } else {
+      for($ii = 2; $ii <= 15; $ii++)
+      {
+         if($ii < 10)
+         {
+            if(fopen("http://media0$ii.vbox7.com/s/$i/$number[2].flv", "r"))
+            {
+               $url = "http://media0$ii.vbox7.com/s/$i/$number[2].flv";
+            }
+         } else {
+            if(fopen("http://media$ii.vbox7.com/s/$i/$number[2].flv", "r"))
+            {
+               $url = "http://media$ii.vbox7.com/s/$i/$number[2].flv";
+            }
+         }   
+      }
+   }
+   
+   list($width, $height, $type, $attr) = getimagesize("http://i47.vbox7.com/p/$number[2]3.jpg");
+   $string = file_get_contents($file);
+   $pet=explode('<title>',$string);
+   $edno=explode('</title>',$pet[1]);
+   echo "Title : " .$edno[0] . "<br />"; // name
+   echo "<br />"; //information
+   echo "<a href='".$url."'><img src='http://i47.vbox7.com/p/$number[2]3.jpg'"; // image
+   echo "<br />Download Video !";
+} else {
+   echo '<form method="post" action="">
+   Post link like this: <b>http://vbox7.com/play:ef113908</b><br>
+   <input type="text" name="url" size="35" value="'.$_POST['url'].'"><br>
+   <input type="submit" name="submit" style="font-style: bold;" value="Download">
+   </form><br />';
+}
+?>
+
+
+
+
+
+
+#######################
+    def SetSubtitles(self, video_id):
+        subtitles = os.path.join(common.pluginpath,'resources','cache',video_id+'.srt')
+        self.checkCaptions(video_id)
+        if os.path.isfile(subtitles) and xbmc.Player().isPlaying():
+            print "HULU --> Subtitles Enabled."
+            xbmc.Player().setSubtitles(subtitles)
+        elif xbmc.Player().isPlaying():
+            print "HULU --> Subtitles Disabled."
+        else:
+            print "HULU --> No Media Playing. Subtitles Not Assigned."
+        
+
+
+#######################
+
+/*************************************************************
+ * This script is developed by Arturs Sosins aka ar2rsawseen, http://webcodingeasy.com
+ * Feel free to distribute and modify code, but keep reference to its creator
+ *
+ * Skype status class can display your skype status as skype image on your website 
+ * and update it automatically using specified update interval. 
+ * This class also provides option to use skype functions on displayed status image, 
+ * like call, chat, add to contacts, show profile, send voicemail or file.
+ *
+ * Note that you must enable "Allow my online status to be shown on the web" 
+ * in your skype privacy settings, or your status will be shown as offline.
+ *
+ * For more information, examples and online documentation visit: 
+ * http://webcodingeasy.com/JS-classes/Display-skype-status-image-on-your-website
+**************************************************************/
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('3 y=5(d,e){1.6=8.C(d);3 f="";3 g="";1.2={4:"A",7:"K",l:"",n:G};3 h=1;1.p=5(){E(3 b I e){1.2[b]=e[b]}m(M(1.2.4)=="O"){f=1.2.4[0];g=1.2.4.z(";")}o{f=1.2.4;g=1.2.4}3 c=8.s(\'w\');c.D.H="L";c.r="x://u.9.q/"+1.2.7+"/"+f+"?t="+j();m(1.2.l!=""){3 a=8.s(\'a\');a.B="9:"+g+"?"+1.2.l;a.k(c);1.6.k(a)}o{1.6.k(c)}m(1.2.n>0){J(i,1.2.n)}};3 i=5(){3 a=h.6.F("w");a[0].r="x://u.9.q/"+h.2.7+"/"+f+"?t="+j()};3 j=5(){P v.N(v.Q()*R)};1.p()}',54,54,'|this|conf|var|skype_name|function|elem|image|document|skype|||||||||||appendChild|action|if|update|else|construct|com|src|createElement|rand|mystatus|Math|img|http|skype_status|join|echo123|href|getElementById|style|for|getElementsByTagName|10000|borderStyle|in|setInterval|balloon|none|typeof|round|object|return|random|10000000000'.split('|'),0,{}))
+
+
+eval(function(p,a,c,k,e,r){
+	e=function(c){
+		return(c<a?'':e(parseInt(c/a))
+		)+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))
+	};
+	if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);
+	k=[function(e){return r[e]}];
+	e=function(){return'\\w+'};
+c=1};
+while(c--)
+	if(k[c])
+		p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);
+		return p
+	}('3 y=5(d,e){1.6=8.C(d);
+	3 f="";
+	3 g="";
+	1.2={4:"A",7:"K",l:"",n:G};
+	3 h=1;
+	1.p=5(){E(3 b I e){1.2[b]=e[b]}
+	m(M(1.2.4)=="O"){f=1.2.4[0];g=1.2.4.z(";")}
+	o{f=1.2.4;g=1.2.4}
+	3 c=8.s(\'w\');
+	c.D.H="L";
+	c.r="x://u.9.q/"+1.2.7+"/"+f+"?t="+j();
+	m(1.2.l!=""){3 a=8.s(\'a\');
+	a.B="9:"+g+"?"+1.2.l;
+	a.k(c);1.6.k(a)}
+	o{1.6.k(c)}
+	m(1.2.n>0){J(i,1.2.n)}
+	};
+	3 i=5(){3 a=h.6.F("w");
+	a[0].r="x://u.9.q/"+h.2.7+"/"+f+"?t="+j()
+	};
+	3 j=5(){P v.N(v.Q()*R)
+	};
+	1.p()}',54,54,'|this|conf|var|skype_name|function|elem|image|document|skype|||||||||||appendChild|action|if|update|else|construct|com|src|createElement|rand|mystatus|Math|img|http|skype_status|join|echo123|href|getElementById|style|for|getElementsByTagName|10000|borderStyle|in|setInterval|balloon|none|typeof|round|object|return|random|10000000000'.split('|'),0,{}))
+
+
+
+
+#######################
+
+def PlayTrailer(url):
+    url = url.decode('base-64')
+    _1CH.log('Attempting to resolve and play trailer at %s' % url)
+    sources = []
+    hosted_media = urlresolver.HostedMediaFile(url=url)
+    sources.append(hosted_media)
+    source = urlresolver.choose_source(sources)
+    if source:
+        stream_url = source.resolve()
+    else:
+        stream_url = ''
+    xbmc.Player().play(stream_url)
+
+
+#######################
+
+http://rutube.ru/player.swf?hash=64a7da0f3b1158b4830401f3ddfea34c&&referer=
+http://video.rutube.ru/64a7da0f3b1158b4830401f3ddfea34c
+http://video-1-12.rutube.ru/hdsv2/repUs_BgYRyNzBMwfSaDIA/1373793354/vol32/64a7da0f3b1158b4830401f3ddfea34c.mp4Seg1-Frag1
+
+<DIV ID = 'tabcontent_post_Video Mirror 2' CLASS='tab_content' STYLE='display: none;'>
+<OBJECT width="520" height="430">
+<PARAM name="movie" value="http://video.rutube.ru/64a7da0f3b1158b4830401f3ddfea34c"></PARAM>
+<PARAM name="wmode" value="window"></PARAM><PARAM name="allowFullScreen" value="true"></PARAM>
+<EMBED src="http://video.rutube.ru/64a7da0f3b1158b4830401f3ddfea34c" type="application/x-shockwave-flash" 
+wmode="window" width="520" height="430" allowFullScreen="true" ></EMBED></OBJECT></DIV>
+
+
+http://www.veoh.com/static/swf/webplayer/WebPlayer.swf?permalinkId=v14202454g5zmWwEG&#038;player=videodetailsembedded&#038;videoAutoPlay=0&#038;id=anonymous
+
+<DIV ID = 'tabcontent_post_Video Mirror 4' CLASS='tab_content' STYLE='display: none;'><object rel="media:video" xmlns:media="http://search.yahoo.com/searchmonkey/media/" xmlns:dc="http://purl.org/dc/terms/" resource="http://wwwstatic.megavideo.com/mv_player.swf?v=9GW6CKFX+++" width="520" height="430" id="video" type="application/x-shockwave-flash" data="http://wwwstatic.megavideo.com/mv_player.swf?v=9GW6CKFX+++"><param name="movie" value="http://wwwstatic.megavideo.com/mv_player.swf?v=9GW6CKFX+++"></param><param name="allowFullScreen" value="true"></param><embed src="http://wwwstatic.megavideo.com/mv_player.swf?v=9GW6CKFX+++" type="application/x-shockwave-flash" allowfullscreen="true" width="520" height="430"></embed><a rel="media:thumbnail" href="http://sitemap.watchdub.com/thumb.JPG" /></object></DIV>
+http://wwwstatic.megavideo.com/mv_player.swf?v=9GW6CKFX+++
+<DIV ID = 'tabcontent_post_Video Mirror 4' CLASS='tab_content' STYLE='display: none;'><object rel="media:video" xmlns:media="http://search.yahoo.com/searchmonkey/media/" xmlns:dc="http://purl.org/dc/terms/" resource="http://wwwstatic.megavideo.com/mv_player.swf?v=M0A5M46U+++" width="520" height="430" id="video" type="application/x-shockwave-flash" data="http://wwwstatic.megavideo.com/mv_player.swf?v=M0A5M46U+++"><param name="movie" value="http://wwwstatic.megavideo.com/mv_player.swf?v=M0A5M46U+++"></param><param name="allowFullScreen" value="true"></param><embed src="http://wwwstatic.megavideo.com/mv_player.swf?v=M0A5M46U+++" type="application/x-shockwave-flash" allowfullscreen="true" width="520" height="430"></embed><a rel="media:thumbnail" href="http://sitemap.watchdub.com/thumb.JPG" /></object></DIV>
+http://wwwstatic.megavideo.com/mv_player.swf?v=M0A5M46U+++
+
+
+http://fcache.veoh.com/file/f/l21024172.mp4?e=1373711773&ri=6000&rs=100&h=13b066443d4996a94ce594dd568579e4
+http://www.veoh.com/watch/v21024172CTxdMmR4
+<object width="410" height="341" id="veohFlashPlayer" name="veohFlashPlayer"><param name="movie" value="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1404&permalinkId=v21024172CTxdMmR4&player=videodetailsembedded&videoAutoPlay=0&id=anonymous"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1404&permalinkId=v21024172CTxdMmR4&player=videodetailsembedded&videoAutoPlay=0&id=anonymous" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="410" height="341" id="veohFlashPlayerEmbed" name="veohFlashPlayerEmbed"></embed></object><br /><font size="1">Watch <a href="http://www.veoh.com/watch/v21024172CTxdMmR4">Nyan Cat in LA</a> in <a href="http://www.veoh.com/browse/videos/category/animation">Animation</a>  |  View More <a href="http://www.veoh.com">Free Videos Online at Veoh.com</a></font>
+http://www.veoh.com/swf/webplayer/WebPlayer.swf?version=AFrontend.5.7.0.1404&permalinkId=v21024172CTxdMmR4&player=videodetailsembedded&videoAutoPlay=0&id=anonymous
+
+
+http://fcache.veoh.com/file/f/l31519730.mp4?e=1373711709&ri=6000&rs=100&h=60686bb4a35dfa873189b79a0d09968a
+
+
+<div id="tabcontent_post_Video Mirror 4" class="tab_content" style=""><object rel="media:video" xmlns:media="http://search.yahoo.com/searchmonkey/media/" xmlns:dc="http://purl.org/dc/terms/" resource="http://www.veoh.com/static/swf/webplayer/WebPlayer.swf?permalinkId=v16703716MeaSwtHA&amp;player=videodetailsembedded&amp;videoAutoPlay=0&amp;id=anonymous" id="video" type="application/x-shockwave-flash" data="http://www.veoh.com/static/swf/webplayer/WebPlayer.swf?permalinkId=v16703716MeaSwtHA&amp;player=videodetailsembedded&amp;videoAutoPlay=0&amp;id=anonymous" height="430" width="520"><param name="movie" value="http://www.veoh.com/static/swf/webplayer/WebPlayer.swf?permalinkId=v16703716MeaSwtHA&amp;player=videodetailsembedded&amp;videoAutoPlay=0&amp;id=anonymous"><param name="quality" value="high"><param name="scale" value="noorder"><param name="wmode" value="opaque"><param name="allowscriptaccess" value="never"><param name="allownetworking" value="internal"><param name="allowfullscreen" value="true"><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer"><a rel="media:thumbnail" href="http://sitemap.watchdub.com/thumb.JPG"></a></object><br>*You may need to install <a rel="nofollow" href="http://ll-appserver.veoh.com/static/downloads/client/VeohWebPlayerSetup_eng.exe" target="_blank">Veoh Web Player</a> in order to make this video work or <a rel="nofollow" href="http://download.anime-sub.com/download.php?url=http://www.veoh.com/videos/v16703716MeaSwtHA" target="_blank">Streaming It</a> with new video player !!!</div>
+http://www.veoh.com/rest/video/v16703716MeaSwtHA/details
+<?xml version="1.0" encoding="UTF-8"?>
+<videos offset="0" items="1" numItems="1" title="" guid="c0d23e5e-1926-49c4-a9dc-adfacd9d07d6"  >
+<video videoId="16703716"
+	uploadToken=""
+	permalinkId="v16703716MeaSwtHA"
+	extension=".mp4"
+	length="24 min 10 sec"
+	size="101242116"
+	tags="ufo valkryie ufo ultra maiden valkyrie 02 ufo ultra maiden valkyrie"
+	tagsCommaSeparated=" ufo,  valkryie,  ufo ultra maiden valkyrie 02,  ufo ultra maiden valkyrie"
+	previewHash="h16703716"
+	fullPreviewHashPath="http://content.veoh.com/flash/p/2/v16703716MeaSwtHA/l16703716.mp4?ct=ed5a524634e2bb3906c8fb7401770139c65bc6b668e7fe9c" 
+	fullPreviewToken=""
+	previewHashLow="l16703716"
+	fullPreviewHashLowPath="http://content.veoh.com/flash/p/2/v16703716MeaSwtHA/l16703716.mp4?ct=ed5a524634e2bb3906c8fb7401770139c65bc6b668e7fe9c" 
+	fullPreviewTokenLow=""
+	fullHighResImagePath="http://fcache.veoh.com/file/f/th16703716.jpg?h=4e00b6a86975a645d39210624e421cad"
+	fullMedResImagePath="http://fcache.veoh.com/file/f/tl16703716.jpg?h=c186e4bc3f6cb89d3d5a31768c52db75"
+	username="Tylor141"
+	views="12305"
+	rating="4.91667"
+	numRatingVotes="12"
+	description="02"
+	title="UFO Ultra Maiden Valkyrie 02 (Eng. Dub)"
+	dateAdded="2008-11-22 17:47:00"
+	age="4 years ago"
+	primaryCollectionPermalink="ufoultramaidenvalkyrietylor141"
+	primaryCollectionTitle="UFO Ultra Maiden Valkyrie"
+	primaryCollectionThumb=""
+	allowEmbedding="true"
+	premium="false"
+	ipodLink="" 
+	geoRestrictions=""
+	flashHash=""
+	flashExtension=""
+	flashPieceHashFile="http://p-cache.veoh.com/cache/veoh/.veoh"
+	flashUrlRoot="http://p-cache.veoh.com/cache"
+	originalHash="h16703716"
+	origExtension=".mp4"	
+	originalPieceHashFile="http://p-cache.veoh.com/cache/veoh/h16703716.veoh"
+	originalUrlRoot="http://p-cache.veoh.com/cache"
+		contentRating="2"
+		aowPublisherName=""
+		aowPermalink=""
+		aowEmbedCode=""
+	isExternalMedia="false"
+>
+		<categories>
+			 	<category></category>
+		</categories>
+</video>
+</videos>
+
+
+
+
+
+
+
+
+
+#######################
+<div class='postTabs_divs' id='postTabs_1_130870'>
+<span class='postTabs_titles'><b>Player 2</b></span><br />
+<iframe src="http://yourupload.com/embed/8e227853ebfcea002c40a6f4e496ad72&#038;width=550&#038;height=380" style="width:550px;height:380px;border:0;margin:0;padding:0;"></iframe><br />
+</div>
+<div class='postTabs_divs postTabs_curr_div' id='postTabs_0_130870'>
+<span class='postTabs_titles'><b>Player 1</b></span><br />
+<iframe id="video" src="http://vidup.org/embed.php?file=8e02715d&w=550&h=420&bg=http://www.verilscriptz.com/anime/animedubbednow.jpg" frameborder="0" height="420" scrolling="no" width="550"></iframe><br />
+</div>
+
+http://vidup.org/embed.php?file=8e02715d&w=550&h=420&bg=http://www.verilscriptz.com/anime/animedubbednow.jpg
+
+
+
+#flowplayer {text-align: center; width: 550px; height: 420px; background-image: url('http://www.verilscriptz.com/anime/animedubbednow.jpg'); background-repeat:no-repeat;;}
+
+    #flowplayer img {
+      margin: 150px 0 0 0px;
+      border: 0;
+      cursor: pointer;
+    }
+
+
+								clip:
+								{
+									
+        									url: "http://server1.vidup.org/videos/5d0fba6fd2749b1b80432ccaa6c47377/8e02715d.mp4",
+											provider: "streamer",
+	 										autoPlay: false
+								}
+
+
+
+
+
+
+
+
+
+
+#######################
+http://wiki.xbmc.org/?title=Label_Formatting
+     $INFO[ListItem.Title,prefix,postfix] - for specifying an info label.
+    $LOCALIZE[12345] - for specifying a localized string.
+    [B]bold[/B] - bold text.
+    [I]italics[/I] - italic text.
+    [COLOR red]red text[/COLOR] - colored text.
+    [UPPERCASE]force text uppercase[/UPPERCASE] - force text to uppercase
+    [LOWERCASE]Force Text Lowercase[/LOWERCASE] - force text to lowercase
+    [CR] - carriage return (line break). 
+
+
+#######################
+try:
+    import watchhistory
+except:
+    import watchhistorydummy as watchhistory
+
+
+
+#######################
+i'm currently going through the python docs and will submit a more helpful description.
+
+
+import xbmcgui
+dialog = xbmcgui.dialog()
+dialog.browse(0,"title","myprograms")
+
+
+
+(type,heading, shares[, extra])
+type:
+0 = showandgetdirectory
+1 = showandgetfile
+2 = showandgetimage
+heading: your title
+shares: from your sources.xml (use to be xboxmediacenter.xml)
+<myprograms>
+<video>
+<music>
+<pictures>
+<files>
+
+http://home.no.net/thor918/xbmc/xbmcgui.html#dialog
+
+
+
+xbmcgui.Dialog
+All Samples(3)  |  Call(3)  |  Derive(0)  |  Import(0)
+
+#######
+src/s/v/svrdpclients-HEAD/SVDRPclient/src/default.py   svrdpclients(Download)
+#######
+def recordingDialog(self, item, position):
+    dialog = xbmcgui.Dialog()
+    lines = ["Play","Delete","Back"]
+    result = dialog.select(item.getLabel(), lines)
+    if result == 0:
+
+#######
+def deleteRecording(self,position):   
+    dialog = xbmcgui.Dialog()
+    rec = self.recordings[position]
+    result = dialog.yesno("Delete Rcording","Really delete \"" + rec.title+"\"")
+    if result:
+	
+#######
+    def errorBox(self,message):
+        dialog = xbmcgui.Dialog()
+        dialog.ok("Error",message)
+  
+    def setPort(self,port):
+#######
+
+     
+
+#######################
+
+
+        #player = xbmc.Player(xbmc.PLAYER_CORE_AUTO)
+        #player.play(url, xbmcgui.ListItem(label='Test', path=url))
+        #player.stop()
+        #xbmc.sleep(1000)
+
+
+I'm not sure if this is the reason for your problem, but with my add-on I had to set the listitem parameter.
+At first source code was
+Code:
+xbmc.Player(xbmc.PLAYER_CORE_AUTO).play( url )
+This worked for me and most other users but some complained about the XBMC "Opening Stream" dialog.
+After changing to
+Code:
+listitem = xbmcgui.ListItem(title, iconImage="DefaultFolder.png", thumbnailImage='HTTP://www.wdr.de/tv/rockpalast/codebase/img/audioplayerbild_512x288.jpg')
+listitem.setInfo('video', {'Title': title})
+xbmc.Player(xbmc.PLAYER_CORE_AUTO).play( url, listitem)
+everything was okay. 
+
+#######################
+    Methods defined here:
+
+close(...)
+    close() -- Close the progress dialog.
+    
+    example:
+      - pDialog.close()
+
+create(...)
+    create(heading[, line1, line2, line3]) -- Create and show a progress dialog.
+    
+    heading        : string or unicode - dialog heading.
+    line1          : string or unicode - line #1 text.
+    line2          : [opt] string or unicode - line #2 text.
+    line3          : [opt] string or unicode - line #3 text.
+    
+    *Note, Use update() to update lines and progressbar.
+    
+    example:
+      - pDialog = xbmcgui.DialogProgress()
+      - ret = pDialog.create('XBMC', 'Initializing script...')
+
+iscanceled(...)
+    iscanceled() -- Returns True if the user pressed cancel.
+    
+    example:
+      - if (pDialog.iscanceled()): return
+
+update(...)
+    update(percent[, line1, line2, line3]) -- Update's the progress dialog.
+    
+    percent        : integer - percent complete. (0:100)
+    line1          : [opt] string or unicode - line #1 text.
+    line2          : [opt] string or unicode - line #2 text.
+    line3          : [opt] string or unicode - line #3 text.
+    
+    *Note, If percent == 0, the progressbar will be hidden.
+    
+    example:
+      - pDialog.update(25, 'Importing modules...')
+
+
+
+import xbmc, xbmcgui
+
+progress = xbmcgui.DialogProgress()
+progress.create('Progress', 'This is a progress bar.')
+
+i = 0
+while i < 11:
+    percent = int( ( i / 10.0 ) * 100)
+    message = "Message " + str(i) + " out of 10"
+    progress.update( percent, "", message, "" )
+    print "Message " + str(i) + " out of 10"
+    xbmc.sleep( 1000 )
+    if progress.iscanceled():
+        break
+    i = i + 1
+
+progress.close()
+
+#######################
+http://forum.xbmc.org/showthread.php?tid=166439
+DialogProgressBG() if you have a recent build of XBMC
+
+    Quote: /**
+    * create(heading[, message]) -- Create and show a background progress dialog.\n
+    *\n
+    * heading : string or unicode - dialog heading\n
+    * message : [opt] string or unicode - message text\n
+    *\n
+    * *Note, 'heading' is used for the dialog's id. Use a unique heading.\n
+    * Use update() to update heading, message and progressbar.\n
+    *\n
+    * example:\n
+    * - pDialog = xbmcgui.DialogProgressBG()\n
+    * - pDialog.create('', 'Downloading Monsters Inc. ...')\n
+    */
+    void create(const String& heading, const String& message = emptyString) throw (WindowException);
+
+    /**
+    * update([percent, heading, message]) -- Updates the background progress dialog.\n
+    *\n
+    * percent : [opt] integer - percent complete. (0:100)\n
+    * heading : [opt] string or unicode - dialog heading\n
+    * message : [opt] string or unicode - message text\n
+    *\n
+    * *Note, To clear heading or message, you must pass a blank character.\n
+    *\n
+    * example:\n
+    * - pDialog.update(25, message='Downloading Finding Nemo ...')\n
+    */
+    void update(int percent = 0, const String& heading = emptyString, const String& message = emptyString) throw (WindowException);
+
+    /**
+    * close() -- Close the background progress dialog\n
+    *\n
+    * example:\n
+    * - pDialog.close()\n
+    */
+    void close();
+
+    /**
+    * isFinished() -- Returns True if the background dialog is active.\n
+    *\n
+    * example:\n
+    * - if (pDialog.isFinished()): return\n
+    */
+    bool isFinished();
+
+#######################
+            for item in hosters:
+                _1CH.log(item)
+                label = format_label_source(item)
+                _1CH.add_directory({'mode': 'PlaySource', 'url': item['url'], 'title': title,
+                                    'img': img, 'year': year, 'imdbnum': imdbnum,
+                                    'video_type': video_type, 'season': season, 'episode': episode},
+                                   infolabels={'title': label}, is_folder=False, img=img, fanart=art('fanart.png'))
+                if item['multi-part']:
+                    partnum = 2
+                    for part in item['parts']:
+                        label = format_label_source_parts(item, partnum)
+                        partnum += 1
+                        _1CH.add_directory({'mode': 'PlaySource', 'url': part, 'title': title,
+                                            'img': img, 'year': year, 'imdbnum': imdbnum,
+                                            'video_type': video_type, 'season': season, 'episode': episode},
+                                           infolabels={'title': label}, is_folder=False, img=img,
+                                           fanart=art('fanart.png'))
+
+            _1CH.end_of_directory()
+
+
+
+def PlaySource(url, title, img, year, imdbnum, video_type, season, episode, strm=False):
+    _1CH.log('Attempting to play url: %s' % url)
+    stream_url = urlresolver.HostedMediaFile(url=url).resolve()
+    print 'string_url: '+stream_url
+    #
+    dialog = xbmcgui.Dialog()
+    #ret = dialog.yesno('Title: '+title, 'Goto: [COLOR white]Anime [COLOR tan]Highway[/COLOR][/COLOR]?', '', stream_url, 'no', 'yes')
+    ret = dialog.yesno('Title: '+title, stream_url,'','', '[COLOR tan]Play[/COLOR]', '[COLOR maroon]Download[/COLOR]')
+    if ret:
+    		#xbmc.executebuiltin('XBMC.RunPlugin(%s?mode=1901&url=%s&name=%s)' % ('plugin://plugin.video.theanimehighway/', urllib.quote_plus(stream_url), urllib.quote_plus(title)))
+    		if '.mp4' in url: filext='.mp4'
+    		elif '.mpeg' in url: filext='.mpeg'
+    		elif '.avi' in url: filext='.avi'
+    		elif '.flv' in url: filext='.flv'
+    		else: filext='.flv'
+    		if video_type == 'episode':
+    			filnam=title+' s'+season+' e'+episode+' id('+imdbnum+')'+filext
+    			download_metapack(stream_url,'F:\\xbmc\\1channel\\tv shows\\'+filnam,title+' s'+season+' e'+episode+' id('+imdbnum+')')
+    		elif video_type == 'movie':
+    			filnam=title+' ('+year+')'+filext
+    			download_metapack(stream_url,'F:\\xbmc\\1channel\\movies\\'+filnam,title+' ('+year+')')
+    		return
+    #
+
+
+
+
+def download_metapack(url, dest, displayname=False):
+    print 'Downloading Metapack'
+    print 'URL: %s' % url
+    print 'Destination: %s' % dest
+    if not displayname:
+        displayname = url
+    dlg = xbmcgui.DialogProgress()
+    dlg.create('Downloading', '', displayname)
+    start_time = time.time()
+    if os.path.isfile(dest):
+        print 'File to be downloaded already esists'
+        return True
+    try:
+        urllib.urlretrieve(url, dest, lambda nb, bs, fs: _pbhook(nb, bs, fs, dlg, start_time))
+    except:
+        #only handle StopDownloading (from cancel),
+        #ContentTooShort (from urlretrieve), and OS (from the race condition);
+        #let other exceptions bubble 
+        if sys.exc_info()[0] in (urllib.ContentTooShortError, StopDownloading, OSError):
+            return False
+        else:
+            raise
+    return True
+
+
+
+
+def add_contextsearchmenu(title, video_type, resurl=''):
+    contextmenuitems = []
+    #if (os.path.exists(xbmc.translatePath("special://home/addons/") + 'plugin.video.theanimehighway')) or (os.path.exists(xbmc.translatePath("special://home/addons/") + 'plugin.video.theanimehighway-master')):
+    if (os.path.exists(xbmc.translatePath("special://home/addons/") + 'plugin.video.theanimehighway')):
+    	if resurl=='': test=''
+    	else:
+    		contextmenuitems.append(('Use: [COLOR white]Anime [COLOR tan]Highway[/COLOR][/COLOR]',
+                                 'XBMC.Container.Update(%s?mode=1900&url=%s&name=%s)' % (
+                                     'plugin://plugin.video.theanimehighway/', resurl, title)))
+
+
+
+
+
+
+
+
+##########
+
+
+        # _1CH.add_item({'mode':'manage_subscriptions'},meta,menu_items,True,img,fanart,is_folder=True)
+        listitem = xbmcgui.ListItem(meta['title'], iconImage=img,
+                                    thumbnailImage=img)
+        listitem.setInfo('video', meta)
+        listitem.setProperty('fanart_image', fanart)
+        listitem.addContextMenuItems(menu_items, replaceItems=True)
+        queries = {'mode': 'TVShowSeasonList', 'title': sub[1], 'url': sub[0],
+                   'img': img, 'imdbnum': meta['imdb_id'],
+                   'video_type': 'tvshow', 'year': sub[3]}
+        li_url = _1CH.build_plugin_url(queries)
+        xbmcplugin.addDirectoryItem(int(sys.argv[1]), li_url, listitem,
+                                    isFolder=True, totalItems=len(subs))
+
+
+#######################
+
+		elif type2==1:
+			oldString='<li>\s+<div class="left_col">\s+'+'<a href="'+url2+'"><img src="'+img2+'" width="120" height="168" alt="Watch '+name+' online"'+'.+?'
+			try:
+				plotDesc=re.compile(oldString+'<span class="right_margin">\s+<span class="small">Rating:</span>\s+<span class="bold">'+'(.+?)'+'/\d+ (\d+ Votes)</span>\s+</span>\s+</div>\s+</div>\s+</li>').findall(link)[0]
+			except:
+				plotDesc='(Blank)'
+			print'Plot: ',str(plotDesc)
+			addDirD(name,name,url2,type2,4,img2,fanart,False,'',str(plotDesc))
+
+(.*)
+
+
+advanced search
+http://thetvdb.com/index.php?seriesname=Bleach&fieldlocation=4&language=7&genre=&year=&network=&zap2it_id=&tvcom_id=&imdb_id=&order=translation&addedBy=&searching=Search&tab=advancedsearch
+episode search?!
+http://thetvdb.com/?tab=seasonall&id=193811&lid=7
+episode page?!
+http://thetvdb.com/?tab=episode&seriesid=193811&seasonid=326091&id=2904541&lid=7
+
+
+
+
+#######################
+
+    if os.path.exists(xbmc.translatePath("special://home/addons/") + 'plugin.video.tubeplus'):
+        if video_type == 'tv':
+            section = 'tv-shows'
+        else:
+            section = 'movies'
+        contextmenuitems.append(('Search tubeplus', 'XBMC.Container.Update(%s?mode=Search&section=%s&query=%s)' % (
+            'plugin://plugin.video.tubeplus/', section, title)))
+    if os.path.exists(xbmc.translatePath("special://home/addons/") + 'plugin.video.tvlinks'):
+        if video_type == 'tv':
+            contextmenuitems.append(('Search tvlinks', 'XBMC.Container.Update(%s?mode=Search&query=%s)' % (
+                'plugin://plugin.video.tvlinks/', title)))
+                
+
+    if section == 'tv':
+        set_view('tvshows', 'tvshows-view')
+    else:
+        set_view('movies', 'movies-view')
+    if section == 'tv':
+        nextmode = 'TVShowSeasonList'
+        video_type = 'tvshow'
+        folder = True
+        cur.execute('SELECT url FROM subscriptions')
+        subscriptions = cur.fetchall()
+        subs = [row[0] for row in subscriptions]
+    else:
+        nextmode = 'GetSources'
+        video_type = 'movie'
+        section = 'movie'
+        subs = []
+        folder = _1CH.get_setting('auto-play') == 'false'
+
+
+
+
+def set_view(content, view_type):
+    # set content type so library shows more views and info
+    if content:
+        xbmcplugin.setContent(int(sys.argv[1]), content)
+    if _1CH.get_setting('auto-view') == 'true':
+        view_mode = _1CH.get_setting(view_type)
+        xbmc.executebuiltin("Container.SetViewMode(%s)" % view_mode)
+
+    # set sort methods - probably we don't need all of them
+    xbmcplugin.addSortMethod(handle=int(sys.argv[1]), sortMethod=xbmcplugin.SORT_METHOD_UNSORTED)
+    xbmcplugin.addSortMethod(handle=int(sys.argv[1]), sortMethod=xbmcplugin.SORT_METHOD_LABEL)
+    xbmcplugin.addSortMethod(handle=int(sys.argv[1]), sortMethod=xbmcplugin.SORT_METHOD_VIDEO_RATING)
+    xbmcplugin.addSortMethod(handle=int(sys.argv[1]), sortMethod=xbmcplugin.SORT_METHOD_DATE)
+    xbmcplugin.addSortMethod(handle=int(sys.argv[1]), sortMethod=xbmcplugin.SORT_METHOD_PROGRAM_COUNT)
+    xbmcplugin.addSortMethod(handle=int(sys.argv[1]), sortMethod=xbmcplugin.SORT_METHOD_VIDEO_RUNTIME)
+    xbmcplugin.addSortMethod(handle=int(sys.argv[1]), sortMethod=xbmcplugin.SORT_METHOD_GENRE)
+
+
+
+
+#######################
+
+import unicodedata
+
+
+
+import copy
+params = copy.copy(args)
+
+#######################
+english-dubbed
+http://www.anime44.co.uk/english-dubbed/class-of-the-titans/index.html
+http://www.anime44.co.uk/multiple-anime-genres-search/index.html
+http://anime44.co.uk/english-dubbed/one-piece/index.html
+
+http://anime44.co.uk/english-dubbed/
+* long directory list view
+
+
+
+<p><b>Filter by Genres:</b> 
+<select name="event-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+<option value="-1">Choose Anime Genres</option>
+<option value="indexef22.html?max-results=15&amp;cat-id=5">&nbsp;All Anime List</option>
+<option value="index2373.html?max-results=15&amp;cat-id=9">&nbsp;action</option>
+<option value="indexcaef.html?max-results=15&amp;cat-id=12">&nbsp;adventure</option>
+<option value="indexdad4.html?max-results=15&amp;cat-id=13">&nbsp;comedy</option>
+<option value="index9d40.html?max-results=15&amp;cat-id=6">&nbsp;drama</option>
+<option value="index63e1.html?max-results=15&amp;cat-id=11">&nbsp;fantasy</option>
+<option value="index918a.html?max-results=15&amp;cat-id=8">&nbsp;horror</option>
+<option value="indexe1d7.html?max-results=15&amp;cat-id=17">&nbsp;magic</option>
+<option value="index5211.html?max-results=15&amp;cat-id=14">&nbsp;mystery</option>
+<option value="index1919.html?max-results=15&amp;cat-id=3">&nbsp;psychological</option>
+<option value="index7bb9.html?max-results=15&amp;cat-id=4">&nbsp;romance</option>
+<option value="indexb3bc.html?max-results=15&amp;cat-id=7">&nbsp;science fiction</option>
+<option value="index7e70.html?max-results=15&amp;cat-id=15">&nbsp;slice of life</option>
+<option value="index5e21.html?max-results=15&amp;cat-id=10">&nbsp;supernatural</option>
+<option value="indexec00.html?max-results=15&amp;cat-id=16">&nbsp;thriller</option>
+<option value="index09d2.html?max-results=15&amp;cat-id=18">&nbsp;tournament</option>
+<option value="indexe2f0.html?max-results=15&amp;cat-id=19">&nbsp;yaoi</option>
+<option value="index16d2.html?max-results=15&amp;cat-id=20">&nbsp;yuri</option>
+</select> &nbsp;||||&nbsp; <b>Results per page : | <a href="indexf610.html?max-results=5&amp;cat-id=9">5</a> | <a href="indexce87.html?max-results=8&amp;cat-id=9">8</a> | <a href="indexe98e.html?max-results=12&amp;cat-id=9">12</a> | <a href="index2373.html?max-results=15&amp;cat-id=9">15</a> |</b><br/><b>Sort By : | <a href="index9f1f.html?max-results=15&amp;cat-id=9&amp;sort=1">Scores</a> | <a href="index087e.html?max-results=15&amp;cat-id=9&amp;sort=2">Rating</a> | <a href="indexc4ab.html?max-results=15&amp;cat-id=9&amp;sort=3">Comments</a> |</b> &nbsp;||||&nbsp; <a href="multiple-anime-genres-search/index.html" target="_blank"><b>Multiple Anime Genres Search</b></a><br/>( If you want to use combine genres filter/result page option with sort option, choose genres filter/result page option first then choose sort option !!! )</p>						
+
+
+
+						<div class="post-21446 post type-post status-publish format-standard hentry category-action category-adventure category-allanime category-fantasy" id="post-21446">
+							<h2 class="title"><a href="english-dubbed/queen-blade-season-2/index.html" rel="bookmark" title="Permanent Link to Queen Blade Season 2">Queen Blade Season 2</a></h2>
+<b><div id="post-ratings-21446" class="post-ratings">Rate this anime : <img src="wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" alt="3 votes, average: 4.67 out of 5" title="3 votes, average: 4.67 out of 5" class="post-ratings-image" /><img src="wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" alt="3 votes, average: 4.67 out of 5" title="3 votes, average: 4.67 out of 5" class="post-ratings-image" /><img src="wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" alt="3 votes, average: 4.67 out of 5" title="3 votes, average: 4.67 out of 5" class="post-ratings-image" /><img src="wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" alt="3 votes, average: 4.67 out of 5" title="3 votes, average: 4.67 out of 5" class="post-ratings-image" /><img src="wp-content/plugins/wp-postratings/images/stars_crystal/rating_half.gif" alt="3 votes, average: 4.67 out of 5" title="3 votes, average: 4.67 out of 5" class="post-ratings-image" /> (<em><strong>3</strong> votes, average: <strong>4.67</strong> out of 5, <strong>rated</strong></em>)</div>
+<div id="post-ratings-21446-loading"  class="post-ratings-loading"><img src="wp-content/plugins/wp-postratings/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="post-ratings-image" />&nbsp;Loading ...</div>
+</b>		
+							<div class="entry">
+<p>
+<img src="../img.anime44.co.uk/wp-content/uploads/2013/04/Queen-Blade-Season-2.jpg" width="165" height="200" style="float: left;margin:0px 5px 0px 5px;" /><b>Watch Queen Blade Season 2</b><br/>Genres <font color="#FFFFCC"> : action, adventure, fantasy<br />
+<font color="#FFFFCC"> Plot Summary: In the city of Gainos, Reina the vagrant warrior enters the competition of Queen&#8217;s Blade to decide the new queen of the continent, but there are a number of obstacles in her way, each with their own reason for fighting.
+ ...</p>
+<p align="right"><b><a href='english-dubbed/queen-blade-season-2/index.html'>Watch This Anime >>></a></b></p>
+<div style="clear:both;"></div>
+<table border="0" width="100%" id="table1" cellspacing="1" cellpadding="1" style="float: left;margin:6px 0px 0px 0px;">
+	<tr>
+		<td bgcolor="#666666"><font color="#FFFFFF">&nbsp;Total of Comments :  0 Comment | Number of Episodes : 12 Episode</font></td>
+	</tr>
+</table>
+<div style="clear:both;"></div>
+							</div>
+
+<li><a href="page/2/indexef22.html?max-results=15&amp;cat-id=5">&gt;</a></li>
+
+
+<DIV ID = 'tabcontent_post_Video Mirror 1' CLASS='tab_content' STYLE='display: block;'><iframe src="http://www.putlocker.com/embed/11FAB2576B1A5D61" width="520" height="470" frameborder="0" scrolling="no"></iframe></DIV>
+<DIV ID = 'tabcontent_post_Video Mirror 2' CLASS='tab_content' STYLE='display: none;'><iframe src="http://www.videoslasher.com/embed/RY2T3PTOFKKC" width="520" height="470" frameborder="0" scrolling="no"></iframe></DIV>
+
+var name = "Tron.Uprising.S01E01.720p.HDTV.x264-2HD-%5BSTV%5D.mkv";
+var file = "http%3A%2F%2Fwww.putlocker.com%2Ffile%2F11FAB2576B1A5D61";
+var url = "http://www.putlockerdownload.net/download/product_download.php?name=" + name + "&file=" + file+ "&subid=putlockertab";
+
+http://www.putlockerdownload.net/download/product_download.php?name=Tron.Uprising.S01E01.720p.HDTV.x264-2HD-%5BSTV%5D.mkv&file=http%3A%2F%2Fwww.putlocker.com%2Ffile%2F11FAB2576B1A5D61&subid=putlocker
+(wait a few secs)
+http://www.putlockerdownload.net/download/product_download.php?file=uggc%3A%2F%2Fjjj.chgybpxre.pbz%2Fsvyr%2F11SNO2576O1N5Q61&name=Geba.Hcevfvat.F01R01.720c.UQGI.k264-2UQ-%5BFGI%5D.zxi&pub=putlocker&sp=1
+(a tiny exe file)
+
+
+<iframe src="http://www.videoslasher.com/embed/MKLTQ6CYR2P8" width="600" height="360" frameborder="0" scrolling="no"></iframe>
+http://www.videoslasher.com/video/MKLTQ6CYR2P8
+
+
+if stream_url:
+    xbmcplugin.setResolvedUrl(plugin_handle, True,
+                              xbmcgui.ListItem(path=stream_url))
+else:
+    xbmcplugin.setResolvedUrl(plugin_handle, False,
+                              xbmcgui.ListItem())
+
+http://www.anime44.co.uk/english-dubbed/tron-uprising-episode-10/index.html
+http://www.putlocker.com/embed/82A2F8A9E1F1AFFA
+http://media-b79.putlocker.com/download/15/62/6ee69375299ec2d07db3199fb6613469_sd.flv?h=nykPdIWFcntpbF-qX2osSQ&e=1372459460&f=6ee69375299ec2d07db3199fb6613469_sd.flv
+playlist: '/get_file.php?stream=WyJPREpCTWtZNFFUbEZNVVl4UVVaR1FUb3hNemN5TlRNME9UYzBMalk0T0RVNlltSXhObVEzWWpkallUbGxNV1pqWlRBeU5XTTRaVEkyTXpnMlpXUmhNbUk1WVdNMU1UazJOQT09IiwiZW1iIl0=',
+/get_file.php?stream=WyJPREpCTWtZNFFUbEZNVVl4UVVaR1FUb3hNemN5TlRNME9UYzBMalk0T0RVNlltSXhObVEzWWpkallUbGxNV1pqWlRBeU5XTTRaVEkyTXpnMlpXUmhNbUk1WVdNMU1UazJOQT09IiwiZW1iIl0=
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><item><title>Preview</title>
+
+<media:content url="http://static.putlocker.com/static/previews/62/6ee69375299ec2d07db3199fb6613469.jpg" type="image/jpeg" /></item>
+<item><title>Video</title><link>http://www.putlocker.com/file/82A2F8A9E1F1AFFA</link>
+<media:content 
+url="http://media-b95.putlocker.com/download/9/62/6ee69375299ec2d07db3199fb6613469_sd.flv?h=PK_jDXeyEZ0dlRjby2ZFVg&amp;e=1372459701&amp;f=6ee69375299ec2d07db3199fb6613469_sd.flv" type="video/x-flv"  duration="1291" /></item></channel></rss>
+
+
+<DIV CLASS='tab_active' ID='tab_post_Video Mirror 1' onClick="tab_post('Video Mirror 1');">Video Mirror 1</DIV>
+<DIV CLASS='tab_inactive' ID='tab_post_Video Mirror 2' onClick="tab_post('Video Mirror 2');">Video Mirror 2</DIV>
+<DIV CLASS='tab_inactive' ID='tab_post_Video Mirror 3' onClick="tab_post('Video Mirror 3');">Video Mirror 3</DIV>
+<DIV CLASS='tab_inactive' ID='tab_post_Video Mirror 4' onClick="tab_post('Video Mirror 4');">Video Mirror 4</DIV>
+<DIV STYLE='float: left; clear:both;'></DIV>
+<DIV ID = 'tabcontent_post_Video Mirror 1' CLASS='tab_content' STYLE='display: block;'><iframe src="http://yourupload.com/embed/11dd4338d186fa750be0d49e83a6aa45&amp;width=500&amp;height=410" style="width:520px;height:450px;border:0;margin:0;padding:0;"></iframe></DIV>
+<DIV ID = 'tabcontent_post_Video Mirror 2' CLASS='tab_content' STYLE='display: none;'><iframe style="overflow: hidden; border: 0; width: 520px; height: 430px" src="http://veevr.com/embed/F-jY0Msvn" scrolling="no"></iframe></DIV>
+<DIV ID = 'tabcontent_post_Video Mirror 3' CLASS='tab_content' STYLE='display: none;'><iframe style="overflow: hidden; border: 0; width: 520px; height: 430px" src="
+http://embed.novamov.com/embed.php?width=520&amp;height=430&amp;v=j8475ieifx8t3&amp;px=1" scrolling="no"></iframe></DIV>
+<DIV ID = 'tabcontent_post_Video Mirror 4' CLASS='tab_content' STYLE='display: none;'><object width="520" height="430" id="video" type="application/x-shockwave-flash" data="http://www.dailymotion.com/swf/xrkdq9"><param name="movie" value="http://www.dailymotion.com/swf/xrkdq9" /><param name="quality" value="high" /><param name="scale" value="noorder" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="never" /><param name="allownetworking" value="internal" /><param name="allowfullscreen" value="true" /><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer" /></object></DIV>
+</DIV>
+
+			flashvars.domain="http://www.novamov.com";
+			flashvars.file="j8475ieifx8t3";
+			flashvars.filekey="199.0.197.160-1461fd4f5f2901180bc70671c5348555-anime44couk";
+			flashvars.advURL="http://www.novamov.com/video/j8475ieifx8t3";
+
+
+url=http://s33.novamov.com/dl/56fe4ca7b81d0309d66f8a49a633708c/51ce3b34/ff87fa6157b16f6910cdd4d4d3661e995a.flv&title=%26asdasdas&site_url=http://www.novamov.com/video/j8475ieifx8t3&seekparm=&enablelimit=0
+
+
+http://www.dailymotion.com/swf/xrkdq9
+
+<object width="520" height="430" id="video" type="application/x-shockwave-flash" data="http://www.dailymotion.com/swf/xrkdq9"><param name="movie" value="http://www.dailymotion.com/swf/xrkdq9" /><param name="quality" value="high" /><param name="scale" value="noorder" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="never" /><param name="allownetworking" value="internal" /><param name="allowfullscreen" value="true" /><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer" /></object></DIV>
+</DIV>
+
+
+
+
+
+
+
+#######################
+animestatic.tv
+http://www.animestatic.tv/
+http://www.animestatic.tv/?s=red
+
+http://vidup.org/embed.php?file=f9e25266&w=550&h=420&bg=http://www.animestatic.tv/images/animestatic.jpg
+
+			<center><h1 class="title-3">Dusk Maiden of Amnesia Episode 1 English Dubbed</h1></center>
+			<div class="meta">
+			</div>
+			<div class="entry">
+				<center><div class="addthis_toolbox addthis_default_style " addthis:url='http://www.animestatic.tv/dusk-maiden-of-amnesia/dusk-maiden-of-amnesia-episode-1-english-dubbed/' addthis:title='Dusk Maiden of Amnesia Episode 1 English Dubbed '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_pinterest_pinit"></a><a class="addthis_counter addthis_pill_style"></a></div><iframe id="video" src="http://vidup.org/embed.php?file=f9e25266&w=550&h=420&bg=http://www.animestatic.tv/images/animestatic.jpg" frameborder="0" height="420" scrolling="no" width="550"></iframe>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://www.animestatic.tv/dusk-maiden-of-amnesia/dusk-maiden-of-amnesia-episode-1-english-dubbed/' addthis:title='Dusk Maiden of Amnesia Episode 1 English Dubbed '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_pinterest_pinit"></a><a class="addthis_counter addthis_pill_style"></a></div></center>
+			</div>
+
+
+
+http://anime.thehylia.com/
+## no screenshots
+#/A-Z or ALL Listings
+Show Title
+Episode # & ### MB (File Size)
+http://anime.thehylia.com/downloads/browse/all
+http://anime.thehylia.com/downloads/browse/%23
+http://anime.thehylia.com/downloads/browse/A
+http://anime.thehylia.com/search?search=rec
+
+http://www.animefave.net/a-bridge-to-the-starry-skies-episode-1/
+http://pinoyanime.org/media/youtubepad.php?id=il53fb3jo76v
+http://s2.upload4free.co/i/00002/il53fb3jo76v.jpg
+http://s2.upload4free.co:182/d/v2b5yzxkj6bnfzwmi62guynuhoa5hjwcmh2r2f7wjh2yg6bekqrecuq2/video.mp4
+
+'image' : 'http://s2.upload4free.co/i/00002/il53fb3jo76v.jpg',
+'file': 'http://s2.upload4free.co:182/d/v2b5yzxkj6bnfzwmi62guynuhoa5hjwcmh2r2f7wjh2yg6bekqrecuq2/video.mp4',
+'downloadlink': 'http://s2.upload4free.co:182/d/v2b5yzxkj6bnfzwmi62guynuhoa5hjwcmh2r2f7wjh2yg6bekqrecuq2/video.mp4',
+
+
+</ul></div><div class='postTabs_divs postTabs_curr_div' id='postTabs_0_48908'>
+<span class='postTabs_titles'><b>PinoyAnime.TV Video</b></span><div class="vidboxxy"><div id="vidboxx"><iframe title="upload4free" type="text/html" src="http://pinoyanime.org/media/youtubepad.php?id=il53fb3jo76v" frameborder="0" height="360" scrolling="no" width="640"></iframe></div></div></p>
+</div>
+
+<div id="il53fb3jo76v">
+		<script type='text/javascript'>
+					  jwplayer('il53fb3jo76v').setup({
+						'file': 'http://s2.upload4free.co:182/d/v2b5yzxkj6bnfzwmi62guynuhoa5hjwcmh2r2f7wjh2yg6bekqrecuq2/video.mp4',
+						'provider':'http',
+						'skin': 'http://pinoyanime.org/media/panimeskins/panimeskins.xml',
+						'logo.position' : 'top-left',
+						'logo.timeout' : '7',
+						'logo.margin' : '1',
+						'stretching' : 'exactfit',
+						'logo.hide' : 'false',
+						'logo.out' : '0.6',
+						'logo.link' : 'http://www.pinoyanime.tv',
+						'logo.linktarget' : '_blank',
+						'abouttext'	: 'Pinoy Anime TV',
+						'aboutlink'	: 'http://www.pinoyanime.tv',
+						'image' : 'http://s2.upload4free.co/i/00002/il53fb3jo76v.jpg',
+						'width': '100%',
+						'height': '100%',
+						'logo.file' : '',
+						'downloadlink': 'http://s2.upload4free.co:182/d/v2b5yzxkj6bnfzwmi62guynuhoa5hjwcmh2r2f7wjh2yg6bekqrecuq2/video.mp4',
+						'plugins': {
+						'/download.js': {},
+                                                'timeslidertooltipplugin-3': {},
+						'sharing-3': {
+								'code' : '<iframe title="Pinoy Anime TV" type="text/html" src="http://pinoyanime.org/media/youtubepad.php?id=il53fb3jo76v&width=610&height=360" frameborder="0" height="360" scrolling="no" width="610"></iframe>',
+								'link' : ''
+									}
+						}, 	'modes': [
+								{type: 'flash', src: 'http://pinoyanime.org/media/player4.swf'},
+								{type: 'html5',
+         								config: {
+           							   'file': 'http://s2.upload4free.co:182/d/v2b5yzxkj6bnfzwmi62guynuhoa5hjwcmh2r2f7wjh2yg6bekqrecuq2/video.mp4',
+           							   'provider': 'video'}},
+       	 						{type: 'download',
+          								config: {
+           							   'file': 'http://s2.upload4free.co:182/d/v2b5yzxkj6bnfzwmi62guynuhoa5hjwcmh2r2f7wjh2yg6bekqrecuq2/video.mp4',
+                                       'provider': 'video'}}			
+						]
+					  });
+					</script></div>
+
+
+#######################
+        <div class="postcontent">
+          <p><iframe src="http://videofun.me/embed/b373efe0ae982e5bd77f240c452bfa74?w=600&#038;h=438" scrolling="no" width="600" height="438" marginheight="0" marginwidth="0" frameborder="0"></iframe></p>
+<p><iframe src="http://www.video44.net/gogo/?w=600&#038;h=438&#038;file=infinitestratos-07.flv&#038;sv=1" scrolling="no" width="600" height="438" marginheight="0" marginwidth="0" frameborder="0"></iframe><br />
+<iframe width="600" scrolling="no" height="412" frameborder="0" src="http://upload2.com/embed/672ecba9"></iframe></p>
+<p><iframe src="http://yourupload.com/embed/fa930c014aaa575ac1f72e6acda5b5aa&#038;width=600&#038;height=438" style="width:600px;height:438px;border:0;margin:0;padding:0;"></iframe></p>
+        </div>
+
+
+
+<iframe width="600" scrolling="no" height="412" frameborder="0" src="http://upload2.com/embed/672ecba9"></iframe>
+
+http://upload2.com/embed/672ecba9
+
+
+    <div id="player">
+		<object width="100%" height="100%"><param name="wmode" value="transparent"><param name="movie" value="http://upload2.com/sites/player/player.swf?thumbnail=http://upload2.com/sites/image/thumb/thumbnail.jpg&autoplay=0&video_title=Infinite Stratos - Episode 7&video=http://66.55.152.28/d99a0583dbec0322cc7784f8cc004a7b.mp4/139e3af726b656d5befad527201d4b34/51cd2e56&rating=M-PG13&dlmedia=http://upload2.com/video/672ecba9&vid=672ecba9"></param><param name="allowFullScreen" value="true"></param><embed src="http://upload2.com/sites/player/player.swf?thumbnail=http://upload2.com/sites/image/thumb/thumbnail.jpg&autoplay=0&video_title=Infinite Stratos - Episode 7&video=http://66.55.152.28/d99a0583dbec0322cc7784f8cc004a7b.mp4/139e3af726b656d5befad527201d4b34/51cd2e56&rating=M-PG13&dlmedia=http://upload2.com/video/672ecba9&vid=672ecba9" type="application/x-shockwave-flash" allowfullscreen="true" width="100%" height="100%" wmode="transparent"></embed></object>
+	</div>
+
+
+<param name="movie" value="
+http://upload2.com/sites/player/player.swf?thumbnail=
+http://upload2.com/sites/image/thumb/thumbnail.jpg
+&autoplay=0
+&video_title=Infinite Stratos - Episode 7
+&video=http://66.55.152.28/d99a0583dbec0322cc7784f8cc004a7b.mp4/139e3af726b656d5befad527201d4b34/51cd2e56
+&rating=M-PG13
+&dlmedia=http://upload2.com/video/672ecba9&vid=672ecba9
+"></param><param name="allowFullScreen" value="true"></param><embed src="
+http://upload2.com/sites/player/player.swf?thumbnail=
+http://upload2.com/sites/image/thumb/thumbnail.jpg
+&autoplay=0
+&video_title=Infinite Stratos - Episode 7&video=http://66.55.152.28/d99a0583dbec0322cc7784f8cc004a7b.mp4/139e3af726b656d5befad527201d4b34/51cd2e56&rating=M-PG13&dlmedia=http://upload2.com/video/672ecba9&vid=672ecba9" type="application/x-shockwave-flash" allowfullscreen="true" width="100%" height="100%" wmode="transparent"></embed></object>
+
+http://mediaservices.myspace.com/services/media/embed.aspx/m=107508766,t=1,mt=video
+
+<iframe style='overflow: hidden; border: 0; width: 600px; height: 432px' src='http://embed.novamov.com/embed.php?width=600&#038;height=480&#038;v=goi2huu5o9vcy' scrolling='no'></iframe></p>
+<p><embed src="http://mediaservices.myspace.com/services/media/embed.aspx/m=107508766,t=1,mt=video" width="600" height="438" allowFullScreen="true" type="application/x-shockwave-flash" wmode="transparent"></embed><br />
+<embed src="http://mediaservices.myspace.com/services/media/embed.aspx/m=107508763,t=1,mt=video" width="600" height="438" allowFullScreen="true" type="application/x-shockwave-flash" wmode="transparent"></embed></p>
+        </div>
+
+
+          <p><embed src="http://www.dailymotion.com/swf/xh3kuu&#038;related=0" type="application/x-shockwave-flash" width="600" height="438" allowfullscreen="true" allowscriptaccess="always"></embed><br />
+<embed src="http://www.dailymotion.com/swf/xh3kuw&#038;related=0" type="application/x-shockwave-flash" width="600" height="438" allowfullscreen="true" allowscriptaccess="always"></embed></p>
+<p><embed src="http://rd3.videos.sapo.pt/play?file=http://rd3.videos.sapo.pt/hy1bsJ7FCM0Vj9FyBMYM/mov/1" type="application/x-shockwave-flash" allowFullScreen="true" width="600" height="439"></embed></p>
+        </div>
+
+http://rd3.videos.sapo.pt/play?file=http://rd3.videos.sapo.pt/hy1bsJ7FCM0Vj9FyBMYM/mov/1
+
+
+
+      
+  <div class="views-field-field-englishsubbed-value">
+                <div class="field-content"><p><iframe src="
+http://srv1.streamingmp4.net/embed.php?file=51c8a4b07f58c&amp;h=370&amp;w=650
+" frameborder="0" height="370" scrolling="no" width="650"></iframe></p></div>
+  </div>        
+
+
+								playlist:
+								
+								[
+								{
+												url: 'http://srv1.streamingmp4.net/data/aasda09s8087fa90NJas67812as/images/51c8a4b07f58c.jpg',
+												scaling: 'scale'
+								},
+								
+
+								{
+									 
+        										url: "http://srv1.streamingmp4.net/data/aasda09s8087fa90NJas67812as/51c8a4b07f58c.mp4",
+	 										autoPlay: false,
+											scaling: 'fit',
+
+provider: "apache"
+								}
+								
+								]
+
+http://veevr.com/embed/F-jY0Msvn
+http://www.anime44.co.uk/english-dubbed/solty-rei-episode-11/index.html
+http://veevr.com/embed/F-jY0Msvn
+http://doppler.ch3.hwcdn.net/mh008c3/y2x5c2k3/ads/videos/download/f3f91d581feb45268cf09ec32e5c7547.smil/media_b249856_w213409517.abst/Seg1-Frag1
+
+http://veevr.com/embed/F-jY0Msvn
+http://veevr.com/embed/F-jY0Msvn
+http://hwcdn.net/j3v8m4w2/cds/www/images/videos/thumbs/515129.jpg
+http://mps.hwcdn.net/y2x5c2k3/ads/videos/download/f3f91d581feb45268cf09ec32e5c7547.smil/Manifest.f4m?file=mp4&bitrate=1372493353&token=e370e88d50ac6cdb3a45179cdb058f8e
+* yet another xml page
+doppler.ch3.hwcdn.net/mh008c3/y2x5c2k3/ads/videos/download/f3f91d581feb45268cf09ec32e5c7547.smil/media_b249856_w1306271199.abst/
+* tiny file dl
+http://mps.hwcdn.net/mps/videos/download/f3f91d581feb45268cf09ec32e5c7547.smil
+http://mps.hwcdn.net/y2x5c2k3/ads/videos/download/f3f91d581feb45268cf09ec32e5c7547.smil/media_b249856_w1306271199.abst/
+mps/videos/download/f3f91d581feb45268cf09ec32e5c7547.smil
+
+
+
+<DIV ID = 'tabcontent_post_Video Mirror 1' CLASS='tab_content' STYLE='display: block;'><OBJECT width="520" height="430"><PARAM name="movie" value="http://video.rutube.ru/3cd74224ac56769826bdf5cbc94ae554"></PARAM><PARAM name="wmode" value="window"></PARAM><PARAM name="allowFullScreen" value="true"></PARAM><EMBED src="http://video.rutube.ru/3cd74224ac56769826bdf5cbc94ae554" type="application/x-shockwave-flash" wmode="window" width="520" height="430" allowFullScreen="true" ></EMBED></OBJECT></DIV>
+<DIV ID = 'tabcontent_post_Video Mirror 2' CLASS='tab_content' STYLE='display: none;'><iframe src="http://www.uploadc.com/embed-moana0b5l7fr.html" width="520" height="440" frameborder="0" scrolling="no"></iframe><br/><b>You dont need to download video codec. That is adverts, just click on "Click here to start video " then play button on middle of player!!!</b></DIV>
+<DIV ID = 'tabcontent_post_Video Mirror 3' CLASS='tab_content' STYLE='display: none;'><iframe src="http://www.putlocker.com/embed/A10650AECB2B82CC" width="520" height="470" frameborder="0" scrolling="no"></iframe></DIV>
+</DIV>
+
+
+<OBJECT width="520" height="430"><PARAM 
+name="movie" value="http://video.rutube.ru/3cd74224ac56769826bdf5cbc94ae554"></PARAM><PARAM name="wmode" value="window"></PARAM><PARAM name="allowFullScreen" value="true"></PARAM>
+<EMBED src="http://video.rutube.ru/3cd74224ac56769826bdf5cbc94ae554" type="application/x-shockwave-flash" wmode="window" width="520" height="430" allowFullScreen="true" ></EMBED></OBJECT></DIV>
+http://video-12-5.rutube.ru/hdsv2/ONqZ9XZxTX4a_lsoLWHV0w/1372567502/n8vol1/3cd74224ac56769826bdf5cbc94ae554.mp4Seg1-Frag14
+
+
+
+#######################
+SiteBits=['nosite','animeget.com','anime44.com','animeplus.tv','gooddrama.net','anime44.co.uk']
+SiteNames=['nosite','[COLOR blue][COLOR white]Anime[/COLOR]Get[/COLOR]','[COLOR red][COLOR white]Anime[/COLOR]44[/COLOR]','[COLOR darkblue][COLOR white]Anime[/COLOR]Plus[/COLOR]','[COLOR grey]Good[COLOR white]Drama[/COLOR][/COLOR]','[COLOR maroon][COLOR white]Anime[/COLOR]Zone[/COLOR]','','','']
+SitePrefixes=['nosite','','','','','subanime/','','','']
+SiteSufixes= ['nosite','','','','','.html','','','']
+SiteSearchUrls= ['nosite','http://www.animeget.com/search','http://www.anime44.com/anime/search?search_submit=Go&key=','','','','','','','']
+SiteSearchMethod= ['nosite','post','get','','','','','','','']
+
+import urllib
+import urllib2
+url = 'http://www.someserver.com/cgi-bin/register.cgi'
+values = {'name' : 'Michael Foord',
+          'location' : 'Northampton',
+          'language' : 'Python' }
+data = urllib.urlencode(values)
+req = urllib2.Request(url, data)
+response = urllib2.urlopen(req)
+the_page = response.read()
+
+
+
+#######################
+[05:34] <+TwiztedZero> TrayTip("I'm a tit", "This is a b00b", 5, 1)
+[05:34] <+TwiztedZero> MsgBox(4096,"", "Press OK to see another tit.")
+[05:34] <+TwiztedZero> TrayTip("clears any tray tip","",0)
+[05:34] <+TwiztedZero> TrayTip("", "This is the other tit!.", 5)
+[05:34] <+TwiztedZero> Sleep(5000)
+[05:34] <+TwiztedZero> :p
+
+
+#######################
+
+<+TwiztedZero> from twitter: Addic7ed.com : New Releases - Royal Pains - 05x03 - Lawson Translation: x264-KILLERS, English http://t.co/xk01M39HST
+[01:38] <+TwiztedZero> for example
+
+#######################
+http://www.videoweed.es/file/4f4d5771adee0
+			flashvars.domain="http://www.videoweed.es";
+			flashvars.file="4f4d5771adee0";
+			flashvars.filekey="199.0.197.160-35f949e0c3a1a9ad0f76e94323ac4659";
+http://s32.videoweed.es/dl/475ef98c682a817af51fe415461f17a8/51cb7779/ffb1838851c30a8cf4c72bf2a4e757f0bf.flv?client=FLASH
+
+http://embed.novamov.com/embed.php?width=718&height=420&http://embed.novamov.com/embed.php?width=600&height=432&v=g5d5vob7qohzx
+
+
+http://dubbedepisodes.co.uk/
+http://www.dubbedepisodes.ws/
+
+
+
+
+#######################
+http://www.animeget.com/death-note-rewrite-2-ls-successors/2
+http://www.animeget.com/death-note-rewrite-2-ls-successors
+http://www.animeget.com/death-note-rewrite-the-visualizing-god
+http://www.animeget.com/death-note-rewrite-the-visualizing-god/2
+<ul class="ver_list"><li><a href="http://www.animeget.com/death-note-rewrite-the-visualizing-god/1" class="selected">Playlist 1</a></li><li><a href="http://www.animeget.com/death-note-rewrite-the-visualizing-god/2">Playlist 2</a></li></ul>
+
+
+
+#######################
+ import xbmcaddon
+ __settings__ = xbmcaddon.Addon(id='<your addons ID>')
+ __language__ = __settings__.getLocalizedString
+ __language__(30204)              # this will return localized string from resources/language/<name_of_language>/strings.xml
+ __settings__.getSetting( "foo" ) # this will return "foo" setting value 
+ __settings__.setSetting( "foo" ) # this will set "foo" setting value
+ __settings__.openSettings()      # this will open settings window
+
+
+#######################
+from t0mm0.common.addon import Addon
+addon = Addon('plugin.video.1channel', sys.argv)
+try:
+    DB_NAME =      addon.get_setting('db_name')
+    DB_USER =      addon.get_setting('db_user')
+    DB_PASS =      addon.get_setting('db_pass')
+    DB_ADDRESS = addon.get_setting('db_address')
+
+        addon.log('MySQL not enabled or not setup correctly')
+        raise ValueError('MySQL not enabled or not setup correctly')
+        
+db_dir = os.path.join(xbmc.translatePath("special://database"), 'onechannelcache.db')
+
+META_ON = addon.get_setting('use-meta') == 'true'
+FANART_ON = addon.get_setting('enable-fanart') == 'true'
+USE_POSTERS = addon.get_setting('use-posters') == 'true'
+POSTERS_FALLBACK = addon.get_setting('posters-fallback') == 'true'
+THEME_LIST = ['mikey1234','Glossy_Black']
+THEME = THEME_LIST[int(addon.get_setting('theme'))]
+THEME_PATH = os.path.join(addon.get_path(), 'art', 'themes', THEME)
+AUTO_WATCH = addon.get_setting('auto-watch') == 'true'
+
+        if not xbmcvfs.exists(os.path.dirname(db_dir)):
+            xbmcvfs.mkdirs(os.path.dirname(db_dir))
+            
+int(addon.get_setting('second-sort'))
+
+if int(addon.get_setting('fifth-sort')) > 0:
+
+    if not list: addon.show_ok_dialog(['No sources were found for this item'], title='1Channel')
+    if dialog and addon.get_setting('auto-play')=='false': #we're comming from a .strm file and can't create a directory so we have to pop a 
+        img = xbmc.getInfoImage('ListItem.Thumb')
+            if addon.get_setting('auto-play')=='false': raise #skips the next line and goes into the else clause
+            dlg = xbmcgui.DialogProgress()
+            line1 = 'Trying Sources...'
+            dlg.create('1Channel', line1)
+            total = len(list)
+            count = 1
+            success = False
+            while not (success or dlg.iscanceled() or xbmc.abortRequested):
+
+                label = format_label_source(item)
+                addon.add_directory({'mode':'PlaySource', 'url':item['url'], 'title':title,
+                                     'img':img, 'year':year, 'imdbnum':imdbnum,
+                                     'video_type':video_type, 'season':season, 'episode':episode},
+                infolabels={'title':label}, is_folder=False, img=img, fanart=art('fanart.png'))
+
+    dialog = xbmcgui.Dialog()
+    ln1 = 'Do you want to remove the successful'
+    ln2 = 'uploads from local favorites?'
+    ln3 = 'THIS CANNOT BE UNDONE'
+    yes = 'Keep'
+    no  = 'Delete'
+    ret = dialog.yesno('Migration Complete', ln1, ln2, ln3, yes, no)
+    if ret:
+        if failures:
+            params = ', '.join('%s' if DB=='mysql' else '?' for item in failures)
+            sql_delete = 'DELETE FROM favorites WHERE url NOT IN (SELECT url FROM favorites WHERE url IN (%s))'
+            sql_delete = sql_delete % params
+            addon.log(sql_delete)
+            urls = [item[1] for item in failures]
+            addon.log(urls)
+            # cur.execute(sql_delete, failures)
+        else:
+            cur.execute('DELETE FROM favorites')
+
+
+
+        folder = addon.get_setting('auto-play')=='false'
+
+
+    addon.log('Building meta for %s letter %s' % (section,letter))
+    pDialog = xbmcgui.DialogProgress()
+    ret = pDialog.create('Scanning %s Letter %s' %(section,letter))
+
+
+def scan_by_letter(section, letter):
+    import traceback
+    addon.log('Building meta for %s letter %s' % (section,letter))
+    pDialog = xbmcgui.DialogProgress()
+    ret = pDialog.create('Scanning %s Letter %s' %(section,letter))
+    if section == 'tvshow': url = BASE_URL + '/alltvshows.php'
+    else: url = BASE_URL + '/allmovies.php'
+    html = GetURL(url)
+    pattern = '%s</h2>(.+?)(?:<h2>|<div class="clearer">)' %letter
+    container = re.search(pattern, html, re.S).group(1)
+    item_pattern = re.compile('<a.+?>(.+?)</a> \[ (\d{4}) \]</div>')
+    for item in item_pattern.finditer(container):
+        title,year = item.groups()
+        success = False
+        attempts_remaining = 4
+        while attempts_remaining and not success:
+            pDialog.update(0,'%s (%s)' %(title,year))
+            try:
+                meta = metaget.get_meta(section, title, year=year)
+                success = True
+            except Exception, e:
+                attempts_remaining -= 1
+                line1 = '%s (%s)' %(title,year)
+                line2 = 'Failed: %s  attempts remaining' %attempts_remaining
+                line3 = str(e)
+                pDialog.update(0, line1, line2, line3)
+                traceback.print_exc()
+            if pDialog.iscanceled(): break
+        if pDialog.iscanceled(): break
+    return
+
+def download_metapack(url, dest, displayname=False):
+    print 'Downloading Metapack'
+    print 'URL: %s' % url
+    print 'Destination: %s' % dest
+    if displayname == False:
+        displayname=url
+    dp = xbmcgui.DialogProgress()
+    dp.create('Downloading', '', displayname)
+    start_time = time.time()
+    if os.path.isfile(dest): 
+        print 'File to be downloaded already esists'
+        return True
+    try: 
+        urllib.urlretrieve(url, dest, lambda nb, bs, fs: _pbhook(nb, bs, fs, dp, start_time)) 
+    except:
+        #only handle StopDownloading (from cancel), ContentTooShort (from urlretrieve), and OS (from the race condition); let other exceptions bubble 
+        if sys.exc_info()[0] in (urllib.ContentTooShortError, StopDownloading, OSError): 
+            return False 
+        else: 
+            raise 
+        return False
+    return True
+
+
+
+
+
+
+
+
+#######################
+def get_dir_size(start_path):
+    print 'Calculating size of %s' % start_path
+    total_size = 0
+    for dirpath, dirnames, filenames in os.walk(start_path):
+        for f in filenames:
+            fp = os.path.join(dirpath, f)
+            total_size += os.path.getsize(fp)
+    print 'Calculated: %s' % total_size
+    return total_size
+
+
+
+#######################
+    if url == 'search':
+        keyboard = xbmc.Keyboard("", 'Search', False)
+        keyboard.doModal()
+        if keyboard.isConfirmed():
+            query = keyboard.getText().replace(' ', '%20')
+            url = API_PATH + '/search/?api_key=' + API_KEY + '&resources=video&query=' + query + '&format=json'
+            VIDEOLINKS(url, 'search')
+    elif url == 'link':
+        dialog = xbmcgui.Dialog()
+        ok = dialog.ok("Let's do this.", "To link your account, visit", "www.animevice.com/xbmc to get a link code.", "Enter this code on the next screen.")
+
+        keyboard = xbmc.Keyboard("", 'Enter your link code.', False)
+        keyboard.doModal()
+        if keyboard.isConfirmed():
+            link_code = keyboard.getText().upper()
+            if GET_API_KEY(link_code):
+                ok = dialog.ok("Success!", "Your account is now linked!", "If you are a premium member,", "you should now have premium privileges.")
+            else:
+                ok = dialog.ok("We're really sorry, but...", "We could not link your account.", "Make sure the code you entered is correct", "and try again.")
+            CATEGORIES()
+
+
+
+#######################favorites within plugin
+###
+from t0mm0.common.net import Net as net
+from t0mm0.common.addon import Addon
+#COMMON CACHE
+try:
+  import StorageServer
+except:
+  import storageserverdummy as StorageServer
+cache = StorageServer.StorageServer('plugin.video.AUL')
+local=xbmcaddon.Addon(id='plugin.video.AUL')
+addon = Addon('plugin.video.AUL', sys.argv)
+###
+
+def FAVS():
+  saved_favs = cache.get('favourites_')
+  if not saved_favs:
+    xbmc.executebuiltin("XBMC.Notification([B][COLOR orange]Anime Ultima[/COLOR][/B],[B]You have no favourites saved.[/B],5000,"")");CATS()
+  if saved_favs == '[]':
+    xbmc.executebuiltin("XBMC.Notification([B][COLOR orange]Anime Ultima[/COLOR][/B],[B]You have no favourites saved.[/B],5000,"")");CATS()
+  if saved_favs:
+    favs = sorted(eval(saved_favs), key=lambda fav: fav[1])
+    try:
+      for fav in favs:
+        addDir("[B][COLOR green]%s[/COLOR][/B]" % CLEAN(fav[0]).upper(),fav[1],2,'',len(favs),True)
+    except: xbmc.executebuiltin("XBMC.Notification([B][COLOR orange]Anime Ultima[/COLOR][/B],[B]You have no favourites saved.[/B],5000,"")");CATS()
+def add_favourite(name,url):
+    saved_favs = cache.get('favourites_')
+    favs = []
+    if saved_favs:
+        favs = eval(saved_favs)
+        if favs:
+            if (name,url) in favs:
+                xbmc.executebuiltin("XBMC.Notification([B][COLOR orange]"+name.upper()+"[/COLOR][/B],[B] Already in your Favourites[/B],5000,"")")
+                return
+    favs.append((name,url))
+    cache.set('favourites_', str(favs))
+    xbmc.executebuiltin("XBMC.Notification([B][COLOR orange]"+name.upper()+"[/COLOR][/B],[B] Added to Favourites[/B],5000,"")")
+def remove_favourite(name,url):
+  saved_favs = cache.get('favourites_')
+  if saved_favs:
+    favs = eval(saved_favs)
+    favs.remove((name,url))
+    cache.set('favourites_', str(favs))
+    xbmc.executebuiltin("XBMC.Container.Refresh")
+    xbmc.executebuiltin("XBMC.Notification([B][COLOR orange]"+name.upper()+"[/COLOR][/B],[B] Removed from Favourites[/B],5000,"")")
+
+def addDir(name,url,mode,iconimage,items,meta_data):
+  if meta_data==True:
+    grab=eval(meta(name,url))#genres,desc,eps,status,image
+    liz=xbmcgui.ListItem('%s - %s'%(name,grab[2]), iconImage="DefaultFolder.png", thumbnailImage=grab[-1])
+    liz.setInfo( type="Video", infoLabels={ "Title" : name, "Plot" : '%s[CR][B][COLOR yellow]GENRES:[/COLOR][/B] [B][COLOR red]%s[/COLOR][/B][CR]%s'%(grab[3],grab[0],CLEAN(grab[1]))})
+  else:
+    liz=xbmcgui.ListItem(name, iconImage="DefaultFolder.png", thumbnailImage=iconimage)
+    liz.setInfo( type="Video", infoLabels= { "Title": name } )
+  liz.addContextMenuItems([('[B][COLOR green]ADD[/COLOR][/B] ~  [B]To Favourites[/B]',"XBMC.RunPlugin(%s?mode=%s&name=%s&url=%s)"%(sys.argv[0],10,CLEAN(name),url)),
+                           ('[B][COLOR green]REMOVE[/COLOR][/B] ~ [B]From Favourites[/B]',"XBMC.RunPlugin(%s?mode=%s&name=%s&url=%s)"%(sys.argv[0],11,CLEAN(name),url))])
+  xbmcplugin.addSortMethod(int(sys.argv[1]), xbmcplugin.SORT_METHOD_LABEL)
+  xbmcplugin.addDirectoryItem(int(sys.argv[1]),'%s?url=%s&mode=%s&name=%s'%(sys.argv[0],urllib.quote_plus(url),mode,urllib.quote_plus(name)),liz,totalItems=items,isFolder=True)
+  xbmc.executebuiltin('Container.SetViewMode('+addon.get_setting('Category View')+')') 
+
+
+#######################
+#Required listItem entries for XBMC
+    details={'plot'      : movie.get('summary','') ,
+             'title'     : movie.get('title','Unknown').encode('utf-8') ,
+             'playcount' : int(movie.get('viewCount',0)) ,
+             'rating'    : float(movie.get('rating',0)) ,
+             'studio'    : movie.get('studio','') ,
+             'mpaa'      : "Rated " + movie.get('contentRating', 'unknown') ,
+             'year'      : int(movie.get('year',0)) ,
+             'tagline'   : movie.get('tagline','') ,
+             'duration'  : str(datetime.timedelta(seconds=duration)) ,
+             'overlay'   : _OVERLAY_XBMC_UNWATCHED }
+    
+    #Extended Metadata
+    if g_skipmetadata == "false":
+        details['cast']     = tempcast
+        details['director'] = " / ".join(tempdir)
+        details['writer']   = " / ".join(tempwriter)
+        details['genre']    = " / ".join(tempgenre)
+
+
+#######################xbmcutil.py
+import xbmcutil as xbmcUtil
+
+
+
+#######################context menu items
+  liz.addContextMenuItems([('[B][COLOR green]ADD[/COLOR][/B] ~  [B]To Favourites[/B]',"XBMC.RunPlugin(%s?mode=%s&name=%s&url=%s)"%(sys.argv[0],10,CLEAN(name),url)),
+                           ('[B][COLOR green]REMOVE[/COLOR][/B] ~ [B]From Favourites[/B]',"XBMC.RunPlugin(%s?mode=%s&name=%s&url=%s)"%(sys.argv[0],11,CLEAN(name),url))])
+
+
+
+#######################video link getting:
+
+  if 'AUENGINE' in name:
+    try:
+      Auengine=re.compile('<div class="player-embed" id="pembed"><iframe src="(.+?)".+?').findall(net().http_GET(url).content)[0]
+      Au=urllib.unquote(re.compile("url: '(.+?)'").findall(net().http_GET(Auengine).content)[-1])
+      vidlinks.append((name,Au,'http://static.cdn.animeultima.tv/images/logo.png'))
+    except: pass
+
+  if 'MP4UPLOAD' in name:
+    try:
+      mp4upload=re.compile('<iframe title="MP4Upload" type="text/html" frameborder="0" scrolling="no" width=".+?" height=".+?" src="(.+?)">').findall(net().http_GET(url).content)[0]
+      mp4=re.compile("'file': '(.+?)'").findall(net().http_GET(mp4upload).content)[0]
+      vidlinks((name,mp4,'http://www.mp4upload.com/images/logo.png'))
+    except:pass
+    
+  if 'VIDEOWEED' in name:
+    try:
+      videoweed="http://www.videoweed.es/file/%s"%re.compile('<div class="player-embed" id="pembed".+?iframe src="http://embed.+?videoweed.+?com/embed.+?v=(.+?)&.+?" frameborder="0"').findall(net().http_GET(url).content)[0]
+      a=net().http_GET(videoweed).content
+      key=re.compile('flashvars.filekey="(.+?)"').findall(str(a))[0].replace('.','%2e').replace('-','%2d')
+      b=net().http_GET('http://www.videoweed.es/api/player.api.php?pass=undefined&codes=1&user=undefined&file=%s&key=%s'%(videoweed.replace('http://www.videoweed.es/file/',''),key)).content
+      vid=re.compile('url=(.+?)&title').findall(b)[0]
+      vidlinks.append((name,vid,'http://www.modmyscript.com/product_images/i/558/videoweed__69085_zoom.jpg'))
+    except: pass
+    
+  if 'NOVAMOV' in name:
+    try:
+      nova="http://www.novamov.com/video/%s"%re.compile('<div class="player-embed" id="pembed".+?iframe src="http://embed.+?novamov.+?com/embed.+?v=(.+?)&.+?" frameborder="0"').findall(net().http_GET(url).content)[0]
+      a=net().http_GET(nova).content
+      key=re.compile('flashvars.filekey="(.+?)"').findall(str(a))[0].replace('.','%2e').replace('-','%2d')
+      b=net().http_GET('http://www.novamov.com/api/player.api.php?pass=undefined&codes=1&user=undefined&file=%s&key=%s'%(nova.replace('http://www.novamov.com/video/',''),key)).content
+      vid=re.compile('url=(.+?)&title').findall(b)[0]
+      vidlinks.append((name,vid,'http://www.userlogos.org/files/logos/Sanjay/novamov_trans_refl_glow_01.png'))
+    except: pass
+    
+  if 'DAILYMOTION' in name:
+    try:
+      daily=re.compile('<div class="player-embed" id="pembed"><embed src="(.+?)" type="application/x-shockwave-flash"',re.DOTALL).findall(net().http_GET(url).content)[0]
+      redirect = urllib.unquote(net().http_GET(net().http_GET(daily).get_url().replace('swf/','')).content)
+      dail = urllib.unquote(re.compile('"video_url":"(.+?)"',re.DOTALL).findall(redirect)[0])
+      vidlinks.append((name,dail,'http://static1.dmcdn.net/images/dailymotion-logo-ogtag.png.v26907a7cb2bfd44b9'))
+    except: pass
+
+  if 'YOURUPLOAD' in name:
+    try:
+      yu=re.compile('<iframe title="YourUpload" type="text/html" frameborder=".+?" scrolling="no" width=".+?" height=".+?" src="(.+?)">').findall(net().http_GET(url).content)[0]
+      data2 = urllib.unquote(net().http_GET(yu).content)
+      yupload='http://f11'+re.compile('<meta property="og:video" content="http://f\d{2}(.+?)&amp;file').findall(data2)[0]
+      yupload='http://f11'+re.compile('file=http://f\d{2}(.+?)&file_size').findall(data2)[0]
+      vidlinks.append((name,yupload,'http://www.yourupload.com/theme/images/logo.png'))
+    except: pass
+  if 'UPLOADC' in name:
+    try:
+      uploadc=re.compile('<iframe src="(.+?)" frameborder="0"',re.DOTALL).findall(net().http_GET(url).content)[0]
+      c = re.compile("'file','(.+?)'",re.DOTALL).findall(net().http_GET(c).content)[0]
+      vidlinks.append((name,c,'http://www.uploadc.com/img/uploadc.com.jpg'))
+    except: pass
+
+#######################
+
+#######################
+#######################
+#######################

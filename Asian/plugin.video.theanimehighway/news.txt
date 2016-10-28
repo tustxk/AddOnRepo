@@ -1,0 +1,52 @@
+
+
+<<<<<<< 
+=======
+[COLOR grey][Date: 2013.09.20][/COLOR][COLOR black][Post: 1][/COLOR]
+[COLOR cornflowerblue][B]Release:[/B][/COLOR]  v0.1.2
+
+>>>>>>> v0.1.2
+
+[COLOR grey][Date: 2013.08.14][/COLOR][COLOR black][Post: 3][/COLOR]
+[COLOR cornflowerblue][B]Release:[/B][/COLOR]  v0.1.0
+
+>>>>>>> v0.1.0
+
+[COLOR grey][Date: 2013.08.14][/COLOR][COLOR black][Post: 2][/COLOR]
+[COLOR cornflowerblue][B]Release:[/B][/COLOR]  v0.0.9
+
+[COLOR grey][Date: 2013.08.14][/COLOR][COLOR black][Post: 1][/COLOR]
+[COLOR red][B]News:[/B][/COLOR]  Fix to menu257_episode_list() for site WatchDub.
+
+>>>>>>> v0.0.9
+
+[COLOR grey][Date: 2013.08.02][/COLOR][COLOR black][Post: 1][/COLOR]
+[COLOR red][B]News:[/B][/COLOR]  Added "Recent Anime" to "WatchDub.com" 's Browsable Methods.
+
+>>>>>>> v0.0.8
+
+[COLOR grey][Date: 2013.07.28][/COLOR][COLOR black][Post: 1][/COLOR]
+[COLOR cornflowerblue][B]Release:[/B][/COLOR]  v0.0.7
+
+[COLOR grey][Date: 2013.07.25][/COLOR][COLOR black][Post: 2][/COLOR]
+[COLOR red][B]News:[/B][/COLOR]  Setup the Extras2 Links, which are mostly for Special Features, to display in a Sub-Menu linked from the Main-Menu whenever Extras2 is dissabled in the Settings Window. This should help to save space on the Main-Menu, and allow for a greater ammount of Extras // Special Features to be added at a later time.
+
+[COLOR grey][Date: 2013.07.25][/COLOR][COLOR black][Post: 1][/COLOR]
+[COLOR red][B]News:[/B][/COLOR]  Attempted to work my class_itmOBJ() into the innerworkings of videolinks.py for a videolinks2.py, but the class objects seems to act as one object rather than being able to set varibles as a new copy of the object. if you got an idea on how to deal with that please let me know. I had it setup to test with my 501-mode method episode listings linking to it to do a more urlresolver method style select list, but i had to end up using more of a simple array to fix it to work at all. So, I'm sending videolinks2.py back to the drawing board for now. I may in the future work on a vidoelinks3.py to do more of a select dialog method for video urls after the episode list. I haven't decided yet.  On videolinks2.py, it basically wanted to set all entries as with the same information.
+
+>>>>>>> v0.0.7
+
+[COLOR grey][Date: 2013.07.14][/COLOR][COLOR black][Post: 2][/COLOR]
+[COLOR red][B]News:[/B][/COLOR]  Testing news feature.
+
+[COLOR grey][Date: 2013.07.14][/COLOR][COLOR black][Post: 1][/COLOR]
+[COLOR cornflowerblue][B]Release:[/B][/COLOR]  v0.0.6i
+
+[COLOR grey][Date: 2013.07.13][/COLOR][COLOR black][Post: 1][/COLOR]
+[COLOR red][B]News:[/B][/COLOR]  After being down/messed-up a couple days or so, the website for anime44.co.uk (AnimeZone) seems to be back up and working again.
+
+
+
+
+
+

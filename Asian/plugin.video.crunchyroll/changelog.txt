@@ -1,0 +1,27 @@
+[B]Version 2.2.3[/B]
+- Bump CryptoPy version for Eden
+- Add SRT support
+- Fix video playback
+
+[B]Version 2.2.2[/B]
+- Update to fix on AppleTV
+
+[B]Version 2.2.1[/B]
+- Fixed HD playback for premium users -- cyberwizzard
+- Added series names before episode names -- cyberwizzard
+
+[B]Version 2.2.0[/B]
+- Attempting to fix plugin
+
+[B]Version 2.1.1[/B]
+- Fixed bug for users without accounts
+
+[B]Version 2.1.0[/B]
+- Fixed the plugin so playback works again
+- Internal code updates that should make the plugin less prone to breaking
+
+[B]Version 2.0.0[/B]
+- Softsub support
+
+[B]Version 1.0.0[/B]
+- Initial release

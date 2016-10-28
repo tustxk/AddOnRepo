@@ -1,5 +1,951 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="metadata.asiandb.com"
+       name="AsianDB"
+       version="1.0.3"
+       provider-name="FIXME">
+  <requires>
+    <import addon="xbmc.metadata" version="1.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.movies"
+             language="en"
+             library="asiandb.xml"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">AsianDB Movie Scraper</summary>
+    <summary lang="hu">AsianDB filmadat leolvasó</summary>
+    <summary lang="kr">AsianDB 영화 스크래퍼</summary>
+    <summary lang="pl">Scraper filmów AsianDB</summary>
+    <summary lang="pt">Scraper de filmes AsianDB</summary>
+    <description lang="en">Download Movie information from www.asiandb.com</description>
+    <description lang="hu">Film információk letöltése a www.asiandb.com webhelyről</description>
+    <description lang="kr">www.asiandb.com 에서 영화 정보 다운로드</description>
+    <description lang="pl">Pobieraj informacje o filmach z www.asiandb.com</description>
+    <description lang="pt">Descarregar informação de filmes de www.asiandb.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="metadata.common.musicbrainz.org"
+       name="MusicBrainz Scraper Library"
+        version="2.0.4"
+       provider-name="XBMC Foundation">
+  <requires>
+    <import addon="xbmc.metadata" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.library"
+             library="musicbrainz.xml"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="bg">Библиотека за сваляне на музикална инф. от MusicBrainz</summary>
+    <summary lang="en">MusicBrainz Music Scraper Library</summary>
+    <summary lang="de">Musik-Scraper für musicbrainz.org</summary>
+    <summary lang="es">Scraper de música de MusicBrainz</summary>
+    <summary lang="fi">MusicBrainz musiikkitietojen lataajan kirjasto</summary>
+    <summary lang="fr">Scraper MusicBrainz pour la musique</summary>
+    <summary lang="hu">MusicBrainz zenei adat leolvasó</summary>
+    <summary lang="nl">MusicBrainz-scraperfuncties</summary>
+    <summary lang="pl">Scraper muzyki MusicBrainz</summary>
+    <summary lang="pt">Scraper de música MusicBrainz</summary>
+    <summary lang="ro">Bibliotecă catalog de muzică MusicBrainz</summary>
+    <summary lang="ru">Музыкальная Информация MusicBrainz</summary>
+    <summary lang="se">Skrapa för musicbrainz.org</summary>
+    <summary lang="zh">MusicBrainz音乐刮削器代码库</summary>
+    <description lang="bg">Извлича инф. за музикални файлове от www.musicbrainz.org</description>
+    <description lang="en">Download Music information from www.musicbrainz.org</description>
+    <description lang="de">Downloade Musik Informationen von www.musicbrainz.org</description>
+    <description lang="es">Descarga información musical de www.musicbrainz.org</description>
+    <description lang="fi">Lataa musiikkitietoja osoitteesta www.musicbrainz.org</description>
+    <description lang="fr">Télécharger les infos musicales depuis www.musicbrainz.org</description>
+    <description lang="hu">Zene információk letöltése a www.musicbrainz.org webhelyről</description>
+    <description lang="nl">Muziekinformatie ophalen van www.musicbrainz.org</description>
+    <description lang="pl">Pobieraj informacje o muzyce z www.musicbrainz.org</description>
+    <description lang="pt">Descarregar informação de música de www.musicbrainz.org</description>
+    <description lang="ro">Descărcați informații muzică de pe www.musicbrainz.org</description>
+    <description lang="ru">Загружать информацию о Музыке с www.musicbrainz.org</description>
+    <description lang="se">Ladda ner musikinformation från www.musicbrainz.org</description>
+    <description lang="zh">从www.musicbrainz.org下载音乐信息</description>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.hongkongradio" name="Hong Kong Radio" version="0.2.0" provider-name="QuincyCheng">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Hong Kong Radio</summary>
+		<summary lang="zh">香港收音機</summary>
+        <language>en zh</language>
+        <description lang="en">Hong Kong Radio, including channels from RTHK and Commercial Radio</description>
+		<description lang="zh">香港收音機, 包括來自香港電台及商業電台頻道</description>
+    <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.audio.sgradio"
+       name="sg!Radio"
+       version="1.0.0"
+       provider-name="Sean, GadgetReactor.com">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>audio</provides>
+	</extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">Singapore Radio</summary>
+    <description lang="en">Listen Online to Singapore Radio Channels. Class 95, Kiss 92, FM 987, Yes 933, Warna, Ria, and more.
+	</description>
+    <platform>all</platform>
+	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <website>http://www.gadgetreactor.com/portfolio/sgradio/</website>
+    <email></email>
+    <source>http://github.com/gadgetreactor/plugin.video.sgtv</source>
+	</extension>
+</addon>
+
+<addon
+  id="plugin.video.AsianHorror"
+  version="1.0.1"
+  name="AsianHorror"
+  provider-name="Dknight">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Asian-Horror-Movies</summary>
+    <description>Watch Asian-Horror-Movies Videos
+	Note: This site has a lot of dead links please try all the mirror links.
+	</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.allinone" version="7.0.6" name="Entertainment [COLOR dodgerblue][B]HUB[/B][/COLOR]" provider-name="@TheYid009">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.urlresolver"  version="2.0.9"/>
+        <import addon="script.module.simplejson" version="3.3.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>All in one [COLOR lime]SUPER ADDON[/COLOR] for all you movies tv shows sports and music lovers free on demand streaming 720p 1080p HD SD MP4 MKV AVI AND NOW with 1000s 0f live streams</summary>
+        <description>Play a wide selection of scene release movies and Tv shows from OneClickWatch Viooz MyVideoLinks and loads more in this [COLOR lime]SUPER ADDON[/COLOR] 1000's and 1000's of movies and tv shows all free.... best hosts are putlocker vidto billionuploads vidbull 180upload movreel vidxden vidbux and many many more...NOW WITH RADIO STREAMING (UK, US, Jam)..... AND NOW with 1000s 0f live streams</description>
+        <platform>all</platform>
+	 <website>http://www.xbmchub.com/</website>
+        <forum>http://www.tvaddons.ag/forums/forums/146-THEYID-REPO</forum>
+	 <email>Twitter @TheYid009</email>
+        <disclaimer lang="en">[COLOR red][B][I] @TheYid009 [/B][/I][/COLOR] [COLOR dodgerblue][B]xbmchub.com[/B][/COLOR]</disclaimer>
+    </extension>
+</addon>
+
+<addon id="plugin.video.anime44"
+       name="Anime44"
+       version="0.0.2"
+       provider-name="TheHighway">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.elementtree" version="1.2.7"/>
+    <import addon="script.module.cryptopy" version="1.2.6"/>
+    <import addon="script.module.simplejson"    version="2.0.10" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="anime44.py">
+	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Anime44 video plugin</summary>
+    <description lang="en">Videos from anime44.com</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/highway99s-xbmc-repo/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <broken>Merged with others.  Can be found in TheAnimeHighway and TheBinaryHighway.</broken>
+  </extension>
+</addon>
+
+<addon id="plugin.video.animefate"
+       name="A[COLOR firebrick][I]nime[/I][/COLOR] F[COLOR mediumpurple]ate[/COLOR]"
+       version="0.1.0"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver"  />
+  	<import addon="script.module.metahandler"  />
+  	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aAnimeFATE.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Addon for AnimeFATE suggested by darkorical via IRC Chat.</summary>
+  	<description>Video Addon for AnimeFATE.com.  Graphics by Marquerite and TheHighway.</description>
+  	<disclaimer>By using this, you take reponsibility for anything that happens.  Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://forums.tvaddons.ag/threads/18927-AnimeFate</forum>
+    <website>http://www.tvaddons.ag/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.animeftw"
+       name="AnimeFTW.tv"
+       version="1.7.0"
+       provider-name="maruchan">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.0.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>29000</minversion>
+    <summary>Watch high-quality, streaming anime from AnimeFTW.tv!</summary>
+    <description>AnimeFTW.tv provides high-quality, streaming anime using both DivX and H264 video codecs.  With over 251 series and 882 GB of video available, AnimeFTW aims to provide the best collection of anime series, OVAs, and movies to its users.
+    </description>
+    <disclaimer>You must have an account at www.animeftw.tv and be logged in for this addon to function!  Only the first two episodes are available to free members!</disclaimer>
+  </extension>
+</addon>
+
+<addon id="plugin.video.animeget"
+       name="AnimeGet"
+       version="0.0.2"
+       provider-name="TheHighway">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.elementtree" version="1.2.7"/>
+    <import addon="script.module.cryptopy" version="1.2.6"/>
+    <import addon="script.module.simplejson"    version="2.0.10" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="animeget.py">
+	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">AnimeGet video plugin</summary>
+    <description lang="en">Videos from animeget.com</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/highway99s-xbmc-repo/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <broken>Merged with others.  Can be found in TheAnimeHighway and TheBinaryHighway.</broken>
+  </extension>
+</addon>
+
+<addon id="plugin.video.animevice"
+       name="Anime Vice"
+       version="2.1.1"
+       provider-name="Whiskey Media">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson" version="2.0.10"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Anime Vice video plugin</summary>
+    <description>Anime Vice is the place to go for your anime fix. Watch trailers, reviews, and original anime-related content.</description>
+    <source>https://github.com/WhiskeyMedia/xbmc</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.crunchyroll"
+       name="Crunchyroll"
+       version="2.2.3">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.cryptopy" version="1.2.6"/>
+    <import addon="script.module.beautifulsoup" version="3.0.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>29000</minversion>
+    <summary>Watch videos from Crunchyroll.com!</summary>
+    <description>Crunchyroll is an online video service and community that offers full-length episodes and movies of the very best in Japanese anime and Asian entertainment.</description>
+    <disclaimer>Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <supportedcontent>
+      <content>movies</content>
+      <content>tvshows</content>
+    </supportedcontent>
+  </extension>
+</addon>
+
+<addon id="plugin.video.crunchyroll-takeout"  name="Crunchyroll" provider-name="Yoshi of the Wire" version="2.2.1">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<language>en es no de fr jp</language>
+		<summary lang="en">Watch videos from Crunchyroll.com!</summary>
+		<summary lang="no">Se på videoer fra crunchyroll.com!</summary>
+		<description lang="en">Crunchyroll is an online video service and community that offers full-length episodes and movies of the very best in Japanese anime and Asian entertainment.</description>
+		<description lang="no">Crunchyroll er en online video tjeneste og fellesskap som tilbyr full-lengde episoder og filmer av det aller beste i japansk anime og asiatiske tv serier.</description>
+		<disclaimer lang="en">WARNING: You MUST be a PREMIUM member to use this Plugin</disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>http://forum.xbmc.org/showthread.php?tid=129709</forum>
+		<website>http://www.crunchyroll.com/</website>
+		<email></email>
+		<source>https://github.com/Yoshiofthewire/CrunchyXBMC/</source>
+	</extension>
+</addon>
+
+<addon id="plugin.video.dailymotion_com" name="DailyMotion.com" version="2.1.2" provider-name="AddonScriptorDE">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simple.downloader" version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Movies, TV, Music, User-Clips, 3D and Livestreams</summary>
+        <language></language>
+        <description lang="en">Movies, TV, Music, User-Clips, 3D and Livestreams</description>
+        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+        <website>http://www.dailymotion.com</website>
+        <source>https://github.com/AddonScriptorDE/plugin.video.dailymotion_com</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=142626</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+    </extension>
+</addon>
+
+<addon
+  id="plugin.video.dardarkom"
+  version="1.3.0"
+  name="DARDARKOM MOVIES"
+  provider-name="Bisha">
+  <requires>
+    <import addon="xbmc.python"
+            version="1.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>DARDARKOM MOVIES Arabic plugin</summary>
+    <description>DARDARKOM MOVIES plugin, Arabic , Hollywood, European and Bollywood movies </description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.desirulez" version="0.1.2" name="Desirulez" provider-name="anilkuj">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.t0mm0.common" version="0.0.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse desirulez</summary>
+        <description>Play a wide selection of movies from desirulez</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.desitvforum" version="0.1.0" name="desitvforum" provider-name="adidas">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.urlresolver" version="0.0.1"/>
+        <import addon="script.module.t0mm0.common" version="0.0.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse desitvforum</summary>
+        <description>Play a wide selection of movies and TV shows from desitvforum</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.dramacrazy"
+       name="Drama Crazy"
+       version="1.1.16"
+       provider-name="AJ Updated by Dknight">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>DramaCrazy.net - Watch Asian Drama Online</summary>
+    <description>Top Drama, Most Popular Drama, Must Watch Dramas</description>
+    <disclaimer>This addon makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further,  Drama Crazy addon does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Internet web site where from data is retrieved or otherwise relating to such materials or on any sites linked to this addon. Videos are soruced from video-hosting websites that are having full rights to remove such access to video if required.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.dramasonline"
+       name="DramasOnline.com"
+       version="2.4.0"
+       provider-name="shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver" version="1.0.0"/>
+	<import addon="plugin.video.youtube" version="2.9.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>dramasonline.com XBMC Client</summary>
+    <description>Watch dramasonline.com on your XBMC. This plugin fetches the video sources from dramasonline.com and play on XBMC compatible plateforms</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.einthusan"
+       name="Einthusan"
+       version="1.0.5"
+       provider-name="humla">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.t0mm0.common" version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Watch Hindi, Tamil  movies</summary>
+        <description>This XBMC plugin allows to watch Hindi and Tamil movies from Einthusan.com. Please support them.
+
+        Credits to suriya222 for the thumbnails.</description>
+    </extension>
+</addon>
+
+<addon id="plugin.video.flyinhd" name="FlyInHD" version="0.0.4" provider-name="codenx">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	 <import addon="script.module.simplejson" version="2.0.10" />
+    <import addon="script.module.beautifulsoup" version="3.2.0"/>
+    <import addon="script.module.urlresolver" version="2.0.9"/>
+    <import addon="plugin.video.dailymotion_com" version="2.1.1"/>
+    <import addon="script.module.t0mm0.common" version="2.1.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch Tamil, Hindi and Telugu Movies in HD.</summary>
+    <description lang="en">Links to watch Tamil, Hindi and Telugu Movies.</description>
+    <platform>all</platform>
+    <language></language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <source>https://github.com/codenx/codenx-xbmc-addons/tree/master/plugin.video.flyinhd</source>
+    <email>foo@bar.com</email>
+  </extension>
+</addon>
+
+<addon id="plugin.video.funandmovies"
+       name="Fun and Movies"
+       version="0.1.4"
+       provider-name="the-one">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+	<import addon="script.module.urlresolver" version="0.0.1"/>
+	<import addon="script.module.t0mm0.common" version="0.0.1"/>
+	<import addon="script.module.universal" version="0.0.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Fun and Movies (funandmovies.com)</summary>
+    <description lang="en">Fun and Movies (funandmovies.com) - Watch Latest Hindi Movies Online</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.funimation" name="Funimation" version="1.2.0" provider-name="Aaron Frase">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <website>http://www.funimation.com</website>
+    <source>https://github.com/Sinap/plugin.video.funimation</source>
+    <email>afrase91@gmail.com</email>
+    <summary lang="en">FUNimation - Watch Anime Episodes Streaming Online</summary>
+    <description lang="en">You should be watching anime and Asian drama episodes on FUNimation.com available in English dubs and subtitles.</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <platform>all</platform>
+    <language />
+  </extension>
+</addon>
+
+<addon id="plugin.video.india4movie" name="India4movie" version="0.0.2" provider-name="Irfan Charania">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    <import addon="script.module.beautifulsoup" version="3.0.8"/>
+    <import addon="script.module.urlresolver"/>
+    <import addon="script.module.requests"/>
+    <import addon="plugin.video.youtube" optional="true" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language>en</language>
+    <summary lang="en">India4movie addon scrapes movies from www.india4movie.com</summary>
+    <description>www.india4movie.com provides movies in the following categories: Dubbed, Pakistani, Hindi, Hollywood, Malayalam, Marathi, Punjabi, Tamil, Telegu</description>
+  </extension>
+</addon>
+
+<addon id="plugin.video.jagobd"
+       name="JagoBD.com"
+       version="1.0.6"
+       provider-name="shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>jagobd.com XBMC Client</summary>
+    <description>Watch jagobd.com on your XBMC. This plugin fetches the video sources from jagobd.com and play on XBMC compatible plateforms</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.jagobdtest"
+       name="JagoBD TEST"
+       version="1.0.9"
+       provider-name="shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>jagobd.com XBMC Client</summary>
+    <description>Watch jagobd.com on your XBMC. This plugin fetches the video sources from jagobd.com and play on XBMC compatible plateforms</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.justanimestream"
+       name="J[COLOR green]ust[/COLOR]A[COLOR white]nime[/COLOR]S[COLOR cornflowerblue]tream[/COLOR]"
+       version="0.0.7"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver"  />
+  	<import addon="script.module.metahandler"  />
+  	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aJustAnimeStream.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Addon for JustAnimeStream suggested by darkorical via IRC Chat.</summary>
+  	<description>Video Addon for JustAnimeStream.net.  Graphics by Marquerite and TheHighway.</description>
+  	<disclaimer>This Project is developped for XBMC Gotham 13.0 Alpha 6, designed for XBMC Gotham originally, with some mind given to Frodo 12.2/12.3. It gets a slight bit of testing as I use it myself, on a Windows 7 OS with whatever version of XBMC happens to be my main install at that time. Any other OS's / builds of XBMC have not be tested on yet, but do feel free to try and test it out on them. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/thehighways-xbmc-addons/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.kannadaserial"
+       name="KannadaSerial.tv"
+       version="2.2.3"
+       provider-name="shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver" version="1.0.0"/>
+	<import addon="plugin.video.youtube" version="2.9.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>kannadaserial.tv XBMC Client</summary>
+    <description>Watch kannadaserial.tv on your XBMC. This plugin fetches the video sources from kannadaserial.tv and play on XBMC compatible plateforms</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.kino.rf"
+       name="kino.rf"
+       version="0.1.5"
+       provider-name="NuisMons">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	<import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             provides="video"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+
+    <summary>Просмотр аниме онлайн online.anidub.com</summary>
+    <description>Просмотр аниме онлайн online.anidub.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.movie105"
+       name="Movie105"
+       version="0.8"
+       provider-name="Jas0npc">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver" version="1.0.3"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.metahandler" version="1.0.1"/>
+		<import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Movie105</summary>
+    <description lang="en">Movie105, Hollywood, Bollywood, Hindi Dubbed movies and Tv serials from Movie105.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.okanime" name="okanime" version="0.7.0" provider-name="HMB">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Watch okanime OTT</summary>
+        <language>en</language>
+        <description lang="en">Watch okanime OTT</description>
+        <website>http://okanime.com</website>
+    </extension>
+</addon>
+
+<addon id="plugin.video.online.anidub.com"
+       name="[COLOR=FFFF0000]Ani[/COLOR][COLOR=FF00FF00]DUB[/COLOR]"
+       version="0.2.6"
+       provider-name="NuisMons">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             provides="video"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Просмотр аниме онлайн online.anidub.com</summary>
+    <description>Просмотр аниме онлайн online.anidub.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sgtv"
+       name="SG!TV"
+       version="1.6.0"
+       provider-name="Sean, GadgetReactor.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson" version="2.0.10" />
+    <import addon="plugin.video.youtube" version="4.4.10" />
+    <import addon="script.module.pyamf" version="0.6.2"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">Singapore TV Video Add-on</summary>
+    <description lang="en">	Putting together Singapore-based media content from a variety of local sources. List of channels include Mediacorp 5, 8, Suria, Vasantham, Channel U, CNA, Viddsee, and local Youtubers.
+	</description>
+    <platform>all</platform>
+	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	<forum>http://forum.kodi.tv/showthread.php?tid=139646</forum>
+    <website>http://www.gadgetreactor.com/portfolio/sgtv/</website>
+    <email></email>
+    <source>http://github.com/gadgetreactor/plugin.video.sgtv</source>
+	</extension>
+</addon>
+
+<addon id="plugin.video.tbh.anime44"
+       name="A[COLOR white]nime[COLOR red]44[/COLOR][/COLOR]"
+       version="0.1.3"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver" version="2.1.2"/>
+  	<import addon="script.module.metahandler" version="2.0.0"/>
+  	<import addon="script.module.addon.common" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aAnime44.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary></summary>
+  	<description>Video Addon.  Graphics by TwiztedZero and TheHighway.</description>
+  	<disclaimer>This Project is developped for XBMC Gotham 13.0 Alpha 6, designed for XBMC Gotham originally, with some mind given to Frodo 12.2/12.3. It gets a slight bit of testing as I use it myself, on a Windows 7 OS with whatever version of XBMC happens to be my main install at that time. Any other OS's / builds of XBMC have not be tested on yet, but do feel free to try and test it out on them. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/thehighways-xbmc-addons/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tbh.animeget"
+       name="A[COLOR white]nime[COLOR royalblue]Get[/COLOR][/COLOR]"
+       version="0.1.3"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver" version="2.1.2"/>
+  	<import addon="script.module.metahandler" version="2.0.0"/>
+  	<import addon="script.module.addon.common" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aAnimeGet.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary></summary>
+  	<description>Video Addon.  Graphics by TwiztedZero and TheHighway.</description>
+  	<disclaimer>This Project is developped for XBMC Gotham 13.0 Alpha 6, designed for XBMC Gotham originally, with some mind given to Frodo 12.2/12.3. It gets a slight bit of testing as I use it myself, on a Windows 7 OS with whatever version of XBMC happens to be my main install at that time. Any other OS's / builds of XBMC have not be tested on yet, but do feel free to try and test it out on them. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/thehighways-xbmc-addons/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tbh.animestatic"
+       name="A[COLOR white][COLOR blue]nime[/COLOR]Static[/COLOR]"
+       version="0.1.4"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver" version="2.1.2"/>
+  	<import addon="script.module.metahandler" version="2.0.0"/>
+  	<import addon="script.module.addon.common" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aAnimeStatic_org.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary></summary>
+  	<description>Video Addon.  Graphics by TwiztedZero and TheHighway.</description>
+  	<disclaimer>This Project is developped for XBMC Gotham 13.0 Alpha 6, designed for XBMC Gotham originally, with some mind given to Frodo 12.2/12.3. It gets a slight bit of testing as I use it myself, on a Windows 7 OS with whatever version of XBMC happens to be my main install at that time. Any other OS's / builds of XBMC have not be tested on yet, but do feel free to try and test it out on them. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/thehighways-xbmc-addons/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tbh.dubhappyeu"
+       name="D[COLOR white][B]ub[/B]Happy.eu[/COLOR]"
+       version="0.1.3"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver" version="2.1.2"/>
+  	<import addon="script.module.metahandler" version="2.0.0"/>
+  	<import addon="script.module.addon.common" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aDubHappy_eu.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary></summary>
+  	<description>Video Addon.  Graphics by TwiztedZero and TheHighway.</description>
+  	<disclaimer>This Project is developped for XBMC Gotham 13.0 Alpha 6, designed for XBMC Gotham originally, with some mind given to Frodo 12.2/12.3. It gets a slight bit of testing as I use it myself, on a Windows 7 OS with whatever version of XBMC happens to be my main install at that time. Any other OS's / builds of XBMC have not be tested on yet, but do feel free to try and test it out on them. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/thehighways-xbmc-addons/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.theanimehighway"
+       name="Anime [COLOR tan]Highway[/COLOR]"
+       version="0.1.4"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" 								version="2.1.0"/>
+    <import addon="script.module.urlresolver"  	version="1.0.0"/>
+    <import addon="script.module.t0mm0.common" 	version="1.1.0"/>
+    <import addon="script.common.plugin.cache" 	version="0.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" 	library="theanimehighway.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">The Anime [COLOR tan]Highway[/COLOR] is a 3rd Party Video Plugin for XBMC</summary>
+    <description lang="en">This plugin now handles videos from animeget.com, anime44.com, animeplus.tv, gooddrama.net, and more. I'm aware that GoodDrama isn't anime, but it was a simular site linked to by one or more of the others... so I tossed it into the plugin as well for you jdrama fans. I'm still learning with it comes to python and having the most basic of flaws throw trouble at me, so there's bound to be some features lacking as well as some extra code left in at times that may not have gotten cleaned up at release time.</description>
+    <disclaimer lang="en">This Project is designed for xbmc v12.x originally and currently being kept up on one of the nightly xbmcc v13.x builds. It gets a slight bit of testing as I use it myself, a LOT, on a Windows 7 OS. Any other OS's / builds of xbmc have not be tested on yet, but I do feel free to try and test it out on them. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/highway99s-xbmc-repo/</forum>
+    <website>http://www.xbmchub.com/</website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvondesizonexl" name="TV on DESI ZONE" version="2.5.0"
+	provider-name="ajdeveloped">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.beautifulsoup" />
+		<import addon="script.module.elementtree" />
+	</requires>
+	<extension point="xbmc.python.script" library="main.py">
+	<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Watch Indian TV videos as seen on desirulez.net</summary>
+		<description>Watch Indian TV videos as seen on desirulez.net</description>
+		<disclaimer>This addon makes no warranties, expressed or implied, and
+			hereby disclaims and negates all other warranties, including without
+			limitation, implied warranties or conditions of merchantability,
+			fitness for a particular purpose, or non-infringement of intellectual
+			property or other violation of rights. Further, TV on DESI ZONE addon
+			does not warrant or make any representations concerning the accuracy,
+			likely results, or reliability of the use of the materials on the
+			Internet web site where from data is retrieved or otherwise relating
+			to such materials or on any sites linked to this addon. Videos are
+			soruced from video-hosting websites that are having full rights to
+			remove such access to video if required.
+		</disclaimer>
+		<platform>all</platform>
+		<license>GNU GPL v3</license>
+	</extension>
+</addon>
+
+<addon id="plugin.video.waoanime"
+       name="W[COLOR deepskyblue]AO[/COLOR] [COLOR white][I]Anime[/I][/COLOR]  [COLOR deepskyblue]TV[/COLOR]"
+       version="0.0.2"
+       provider-name="The[COLOR tan]Highway[/COLOR]">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver" />
+  	<import addon="script.module.metahandler" />
+  	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="aWaoAnimeTV.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Addon for watching Anime on WaoAnime.tv.</summary>
+  	<description>Video Addon for WaoAnime.tv.  Graphics by Marquerite and TheHighway.</description>
+  	<disclaimer>By using this, you take reponsibility for anything that happens.  Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way, form, shape or size cause. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/thehighways-xbmc-addons/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <source>https://github.com/HIGHWAY99/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.youtube" name="YouTube" version="5.1.12" provider-name="bromix">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary lang="en">Plugin for YouTube</summary>
+        <description lang="en">YouTube is a one of the biggest video-sharing websites of the world.</description>
+		<summary lang="de">Plugin für YouTube</summary>
+        <description lang="de">YouTube ist ein eines der größten Video-Sharing-Websites der Welt.</description>
+        <summary lang="pl">Wtyczka YouTube</summary>
+        <description lang="pl">YouTube jest jednym z największych na świecie serwisów udostępniania wideo.</description>
+		<summary lang="hu">Kiegészítő  a YouTube-hoz</summary>
+        <description lang="hu">A YouTube a világ egyik legnagyobb videómegosztó weboldala.</description>
+        <summary lang="es">Plugin para YouTube</summary>
+        <description lang="es">YouTube es un uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
+        <summary lang="ru">Видеодополнение YouTube</summary>
+        <description lang="ru">Данное дополнение позволяет находить и смотреть видео на всеми любимом сайте.</description>
+        <summary lang="fr">Plugin pour YouTube</summary>
+        <description lang="fr">YouTube est l'un des plus grands sites de partage vidéos du monde.</description>
+        <summary lang="zh">YouTube附加元件</summary>
+        <description lang="zh">「Youtube」是全世界最大的影片分享網站</description>
+        <summary lang="bg">Добавка за YouTube</summary>
+        <description lang="bg">YouTube е един от най-големите уеб сайтове за споделяне на видео в целия свят.</description>
+		<disclaimer lang="en"></disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>http://forum.kodi.tv/showthread.php?tid=200735</forum>
+		<website>http://www.youtube.com</website>
+		<email>bromix at gmx dot net</email>
+		<source>https://github.com/bromix/plugin.video.youtube</source>
+	</extension>
+</addon>
+
 <addon id="repository.Asian" name="Asian" version="1.0.0" provider-name="netxeon-country">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Asian/addons.xml</info>
@@ -12,5 +958,352 @@
 		<disclaimer>The owners and submitters to tis repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="script.common.plugin.cache" name="Common plugin cache" provider-name="TheCollective" version="2.5.5">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension library="default.py" point="xbmc.service" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Common caching api for xbmc plugins.</summary>
+  </extension>
+  <extension library="lib" point="xbmc.python.module" />
+</addon>
+
+<addon id="script.module.TheYid.common"
+	     name="TheYid's common stuff"
+	     version="0.1.2"
+	     provider-name="TheYid">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+  </extension>
+</addon>
+
+<addon id="script.module.addon.common"
+	     name="Common addon methods"
+	     version="2.0.0"
+	     provider-name="Eldorado (original: t0mm0)">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="script.module.beautifulsoup"
+       name="BeautifulSoup"
+       version="3.2.1"
+       provider-name="Leonard Richardson (leonardr@segfault.org)">
+  <requires>
+    <import addon="xbmc.python"
+    		version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>HTML/XML parser for quick-turnaround applications like screen-scraping</summary>
+    <description>Beautiful Soup parses arbitrarily invalid SGML and provides a variety of methods and Pythonic idioms for iterating and searching the parse tree.</description>
+    <license>BSD</license>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.cryptopy"
+       name="CryptoPy"
+       version="1.2.6.2"
+       provider-name="cryptopy.sourceforge.net">
+  <requires>
+    <import addon="xbmc.python" version="2.1"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.elementtree"
+       name="Elementtree XML parser"
+       version="1.2.8"
+       provider-name="http://effbot.org/zone/element-index.htm">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.metahandler"
+     name="metahandler"
+     version="2.9.0"
+     provider-name="Eldorado">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="script.module.myconnpy" version="1.1.6"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Downloads Artwork for TV shows, Movies and Music videos for addons and stores them in a local SQLITE database</summary>
+    <description lang="en">Queries, stores, and returns metadata for TV shows, Movies and Musicvideos. [CR]Sources:[CR]www.thetvdb.com[CR]www.themoviedb.org[CR]www.imdb.com</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="script.module.myconnpy"
+       name="MySQL Connector/Python"
+       version="1.1.7"
+       provider-name="MySQL">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">MySQL Connector/Python</summary>
+        <description lang="en">MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. This means you don't have to compile anything or MySQL (client library) doesn't even have to be installed on the machine.</description>
+        <license>GPLv2</license>
+        <platform>all</platform>
+        <website>http://dev.mysql.com/doc/connector-python/en/index.html</website>
+        <source>http://dev.mysql.com/downloads/connector/python/</source>
+    </extension>
+</addon>
+
+<addon id="script.module.parsedom" name="Parsedom for xbmc plugins" provider-name="TheCollective" version="2.5.2">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Parsedom for xbmc plugins.</summary>
+  </extension>
+  <extension library="lib" point="xbmc.python.module" />
+  <extension point="xbmc.addon.metadata">
+        <license>GPLv3</license>
+        <platform>all</platform>
+        <email></email>
+        <website></website>
+        <forum>http://forum.xbmc.org/showthread.php?tid=116498</forum>
+        <source>https://github.com/HenrikDK/xbmc-common-plugin-functions</source>
+        <language></language>
+   </extension>
+</addon>
+
+<addon id="script.module.pyamf"
+       name="PyAMF"
+       version="0.6.2"
+       provider-name="Mark Honeychurch (markhoney)">
+  <requires>
+    <import addon="xbmc.python"
+    		version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>PyAMF provides Action Message Format (AMF) support for Python that is compatible with the Adobe Flash Player.</summary>
+    <description>The Adobe Integrated Runtime and Adobe Flash Player use AMF to communicate between an application and a remote server. AMF encodes remote procedure calls (RPC) into a compact binary representation that can be transferred over HTTP/HTTPS or the RTMP/RTMPS protocol. Objects and data values are serialized into this binary format, which increases performance, allowing applications to load data up to 10 times faster than with text-based formats such as XML or SOAP.
+AMF3, the default serialization for ActionScript 3.0, provides various advantages over AMF0, which is used for ActionScript 1.0 and 2.0. AMF3 sends data over the network more efficiently than AMF0. AMF3 supports sending int and uint objects as integers and supports data types that are available only in ActionScript 3.0, such as ByteArray, ArrayCollection, ObjectProxy and IExternalizable.</description>
+    <license>MIT</license>
+    <platform>all</platform>
+	<source>http://www.pyamf.org/</source>
+  </extension>
+</addon>
+
+<addon id="script.module.pysqlite"
+       name="Python SQLite library hook"
+       version="2.5.6"
+       provider-name="Gerhard Haering">
+  <requires>
+    <import addon="xbmc.python" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.requests"
+       name="requests"
+       version="2.8.1"
+       provider-name="kennethreitz, beenje">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Python HTTP for Humans</summary>
+    <description>Packed for KODI from https://github.com/kennethreitz/requests</description>
+    <platform>all</platform>
+    <language></language>
+    <license>Apache2</license>
+    <forum></forum>
+    <website>http://python-requests.org</website>
+    <source>https://github.com/beenje/script.module.requests</source>
+    <email>beenje AT gmail.com</email>
+  </extension>
+</addon>
+
+<addon id="script.module.simple.downloader" name="Simple Downloader for xbmc plugins" provider-name="TheCollective" version="1.9.5">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.common.plugin.cache" version="2.5.0" />
+    <import addon="script.module.parsedom" version="2.5.1" />
+  </requires>
+  <extension library="default.py" point="xbmc.service" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Simple downloader for xbmc plugins.</summary>
+  </extension>
+  <extension library="lib" point="xbmc.python.module" />
+</addon>
+
+<addon id="script.module.simplejson"
+       name="simplejson"
+       version="3.3.0"
+       provider-name="Martijn">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Simple, fast, extensible JSON encoder/decoder for Python</summary>
+    <description lang="en">Simple, fast, extensible JSON encoder/decoder for Python</description>
+    <disclaimer lang="en">Code taken from https://pypi.python.org/pypi/simplejson/</disclaimer>
+    <license>MIT License, Academic Free License v. 2.1</license>
+    <website>https://pypi.python.org/pypi/simplejson/</website>
+    <source>https://pypi.python.org/pypi/simplejson/</source>
+  </extension>
+</addon>
+
+<addon id="script.module.t0mm0.common"
+	     name="t0mm0's common stuff"
+	     version="2.1.1"
+	     provider-name="t0mm0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+  </extension>
+</addon>
+
+<addon id="script.module.universal"
+       name="Universal - An Addons Toolkit"
+       version="1.0.2"
+       provider-name="the-one">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="0.0.1"/>
+  </requires>
+  <extension library="default.py" point="xbmc.service"  start="startup"/>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Universal - An Addons Toolkit</summary>
+    <description lang="en">Collection of common functionality for addons.</description>
+    <platform>all</platform>
+	<language></language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+	<forum>http://www.xunitytalk.com/</forum>
+	<website>https://github.com/the-one-/script.module.universal/wiki</website>
+	<source>https://github.com/the-one-/script.module.universal</source>
+	<email>xs2the1[at]gmail[dot]com</email>
+  </extension>
+</addon>
+
+<addon id="script.module.urlresolver"
+     name="URLResolver"
+     version="2.10.7"
+     provider-name="Eldorado">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
+    <description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
+  </extension>
+</addon>
+
+<addon id="script.module.xbmcswift2" name="xbmcswift2" provider-name="Jonathan Beluch (jbel)" version="2.4.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension library="lib" point="xbmc.python.module" />
+  <extension point="xbmc.addon.metadata">
+    <language />
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.navi-x"
+       name="Navi-X"
+       version="4.0"
+       provider-name="Team Navi-X and TVADDONS.ag">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.urlresolver"  />
+    <import addon="script.module.t0mm0.common"  />
+    <import addon="script.module.addon.common" optional="false" />
+    <import addon="repository.xbmchub" optional="true" />
+    <import addon="plugin.video.youtube" optional="false" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py" >
+    <provides>executable video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary>Media Browser Addon for Kodi</summary>
+    <description>Navi-X is the oldest and most trusted add-on for Kodi, used by millions of people worldwide. You'll find everything from live television to your favourite movies and television shows, easily accessible.</description>
+    <disclaimer>http://www.navixtreme.com/terms/</disclaimer>
+    <forum>http://forums.tvaddons.ag/forums/38-NAVI-X-MEDIA-BROWSER-FOR-KODI</forum>
+    <website>http://www.navixtreme.com/</website>
+    <source></source>
+    <email></email>
+  </extension>
 </addon>
 </addons>

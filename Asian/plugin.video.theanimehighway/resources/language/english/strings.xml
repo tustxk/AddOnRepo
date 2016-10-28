@@ -1,0 +1,63 @@
+<strings>
+  #Downloads
+	<string id="30800">Downloads</string>
+	<string id="30803">[COLOR blue]Show[/COLOR] Folder:</string>
+	<string id="30804">[COLOR red]Movie[/COLOR] Folder:</string>
+	<string id="30805">Enable ContextMenuItem: Downloading?</string>
+	<string id="30806">Enable ContextMenuItem: Show URL?</string>
+
+  #MetaArt
+	<string id="30600">View Modes</string>
+	<string id="30601">View-Mode: - Default -</string>
+	<string id="30602">View-Mode: List of Movies</string>
+	<string id="30603">View-Mode: List of Shows</string>
+	<string id="30604">View-Mode: Episodes</string>
+	<string id="30605">View-Mode: Sources</string>
+	<string id="30606">View-Mode: Favorites</string>
+
+	#Plugin
+	<string id="30700">Plugin</string>
+	<string id="30704">Enable Debugging? (where available)</string>
+	<string id="30705">Show Information for Debugging (where available)</string>
+	<string id="30701">Download current Master branch ZIP of this plugin.</string>
+	<string id="30702">Clear [COLOR tan]Favorites[/COLOR].</string>
+	<string id="30703">Enable ContextMenuItem: Clear [COLOR tan]Favorites[/COLOR]?</string>
+	<string id="30707">Clear [COLOR tan]Visited Data[/COLOR].</string>
+
+  #MetaArt
+	<string id="30500">Metadata</string>
+	<string id="30706">Clear [COLOR tan]Metadata[/COLOR].</string>
+
+	#Account
+	<string id="32001">Account</string>
+	<string id="32011">Username: </string>
+	<string id="32012">Password: </string>
+	<string id="32013">Use Account info? (Not Available) </string>
+	
+	#Account
+	<string id="31100">Menu</string>
+	<string id="31101">01.) [COLOR white]Anime[COLOR blue]Get[/COLOR].com[/COLOR]</string>
+	<string id="31102">02.) [COLOR white]Anime[COLOR red]44[/COLOR].com[/COLOR]</string>
+	<string id="31103">03.) [COLOR white]Anime[COLOR darkblue]Plus[/COLOR].tv[/COLOR]</string>
+	<string id="31104">04.) [COLOR white][COLOR grey]Good[/COLOR]Drama.net[/COLOR]</string>
+	<string id="31105">05.) [COLOR white]Anime[COLOR maroon]Zone[/COLOR] (Anime44.co.uk)[/COLOR]</string>
+	<string id="31106">06.) [COLOR white][COLOR teal]Dubbed[/COLOR]Anime[COLOR teal]On[/COLOR].com[/COLOR]</string>
+	<string id="31107">07.) [COLOR white]dub[COLOR cornflowerblue]happy[/COLOR].eu[/COLOR]</string>
+	<string id="31108">08.) [COLOR white][COLOR cornflowerblue]Watch[/COLOR]Dub.com[/COLOR]</string>
+	<string id="31109">09.) [COLOR white]_[/COLOR]</string>
+	<string id="31110">10.) [COLOR white]_[/COLOR]</string>
+	<string id="31111">11.) [COLOR white]_[/COLOR]</string>
+	<string id="31112">12.) [COLOR white]_[/COLOR]</string>
+	<string id="31113">13.) [COLOR white]_[/COLOR]</string>
+	<string id="31114">14.) [COLOR white]_[/COLOR]</string>
+	<string id="31115">15.) [COLOR white]_[/COLOR]</string>
+	<string id="31116">16.) [COLOR white]_[/COLOR]</string>
+	<string id="31117">17.) [COLOR white]_[/COLOR]</string>
+	<string id="31118">18.) [COLOR white]_[/COLOR]</string>
+	<string id="31119">19.) [COLOR white]_[/COLOR]</string>
+	<string id="31120">20.) [COLOR white]_[/COLOR]</string>
+
+
+
+
+</strings>

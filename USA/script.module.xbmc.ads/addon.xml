@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.xbmc.ads"
+       name="GO MAD Marketing" version="1.0.7"  provider-name="GO MAD Marketing Ltd.">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+   <extension point="xbmc.python.pluginsource"
+               	library="default.py">
+        <provides>executable</provides>
+    </extension>
+   <extension point="xbmc.python.module" library="lib" />
+   <extension point="xbmc.addon.metadata">
+        <summary>Get Vouchers/Giveaways and Ads</summary>
+        <description>Get Vouchers/Giveaways and Ads</description>
+        <platform>all</platform>
+    </extension>
+</addon>

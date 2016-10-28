@@ -33,6 +33,7 @@ function release(){
 
 CUR_DIR=`pwd`
 read_dir $CUR_DIR
+#exit
 release $CUR_DIR
 python repoMap_generator.py 
 if [ $? -ne 0 ]

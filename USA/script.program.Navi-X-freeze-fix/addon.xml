@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.program.Navi-X-freeze-fix"
+       version="0.0.6" 
+       name="Navi-X freeze fix"
+       provider-name="Crzen, With help from HIGHWAY99, Artwork by Marquerite">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary></summary>
+  	<description>Fixes the "please wait" freeze/lockup when Navi-X 3.7.8 cant connect to its 
+servers. It enables the smartcaching feature to access previously visited pages.
+This fix can be undone by rerunning this program and clicking undo to put the original files back.
+There is also a Gotham fix for the XML file to allow Navi-X to run in Gotham
+  					</description>
+  	<disclaimer lang="en">This was NOT made by the Navi-X team and is not their fault.
+This can be undone by rerunning this program. This was written in 
+the hopes that it could help some people.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<forum>http://www.xbmchub.com/forums/</forum>
+  	<website>http://www.xbmchub.com/</website>
+  	<email></email>
+  </extension>
+</addon>

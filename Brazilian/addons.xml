@@ -1,5 +1,306 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon
+  id="pvr.iptvsimple2"
+  version="1.9.3"
+  name="PVR IPTV Simple Client2"
+  provider-name="nightik">
+  <requires>
+    <c-pluff version="0.1"/>
+    <import addon="xbmc.pvr" version="1.9.0"/>
+  </requires>
+  <extension
+    point="xbmc.pvrclient"
+    library_linux="XBMC_IPTV_Simple.pvr"
+    library_osx="XBMC_IPTV_Simple.pvr"
+    library_freebsd="XBMC_IPTV_Simple.pvr"
+    library_wingl="XBMC_IPTV_Simple_win32.dll"
+    library_windx="XBMC_IPTV_Simple_win32.dll"
+    library_android="libXBMC_IPTV_Simple.so" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">XBMC PVR addon for IPTV support. https://github.com/afedchin/xbmc-addon-iptvsimple/wiki/IPTV-Simple-Home</summary>
+    <summary lang="ru">XBMC PVR аддон для поддержки IPTV.  https://github.com/afedchin/xbmc-addon-iptvsimple/wiki/IPTV-Simple-Home</summary>
+    <description lang="en">IPTV Simple PVR Client support m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.</description>
+    <description lang="ru">Интерфейс для IPTV. Поддерживает просмотр потокового ТВ для юникаст/мультикаст источников, прослушивание радиоканалов и работу с электронным телегидом.</description>
+    <disclaimer lang="en">This is unstable software! The authors are in no way responsible for failed playings, incorrect EPG times, wasted hours, or any other undesirable effects.</disclaimer>
+    <disclaimer lang="ru">Это нестабильная программа! Авторы не несут ответственности за неудачные воспроизведение, неверные время EPG, потраченное время и прочие нежелательные эффекты.</disclaimer>
+    <platform>android</platform>
+  </extension>
+</addon>
+
+<addon id="metadata.common.imdb.com"
+       name="IMDB Scraper Library"
+       version="2.8.4"
+       provider-name="Team Kodi">
+  <requires>
+    <import addon="xbmc.metadata" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.metadata.scraper.library"
+             library="imdb.xml"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="bg">Библиотека за сваляне на инф. от IMDB</summary>
+    <summary lang="en">IMDB Scraper Library</summary>
+    <summary lang="fi">IMDB elokuvatietojen lataaja</summary>
+    <summary lang="hu">IMDB leolvasó-könyvtár</summary>
+    <summary lang="kr">IMDB 스크래퍼 라이브러리</summary>
+    <summary lang="nl">IMDB Scraper Bibliotheek</summary>
+    <summary lang="pl">Scraper IMDb</summary>
+    <summary lang="pt">Scraper de filmes IMDb</summary>
+    <summary lang="se">Skrapa för IMDB</summary>
+    <description lang="bg">Сваля информация за филми от www.imdb.com</description>
+    <description lang="en">Download Movie information from www.imdb.com</description>
+    <description lang="fi">Lataa elokuvatietoja osoitteesta www.imdb.com</description>
+    <description lang="hu">Film információk letöltése a www.imdb.com webhelyről</description>
+    <description lang="kr">www.imdb.com 에서 영화 정보 다운로드</description>
+    <description lang="nl">Download film informatie van www.imdb.com</description>
+    <description lang="pl">Pobieraj informacje o filmach z www.imdb.com</description>
+    <description lang="pt">Descarregar informação de filmes de www.imdb.com</description>
+    <description lang="se">Ladda ner filminformation från www.imdb.com</description>
+  </extension>
+</addon>
+
+<addon id="plugin.audio.xbmchubmusic" name="XunityTalk Music" version="3.2.3" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">en</summary>
+    <description lang="en">Stream All Of Your Favourite Music</description>
+    <disclaimer lang="en">By using This Plugin You will receive sometimes an advert which helps funds the developers developing.....we all thank you!!</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.NBA.com.Videos"
+       name="NBA.com Videos"
+       version="1.0.6"
+       provider-name="stacked">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch sports clips from NBA.com</summary>
+    <description>Watch sports clips from NBA.com.  IMPORTANT INFO: You must enable "Use DVD Player" in plugin settings or streams will fail to play.</description>
+    <platform>all</platform>
+	<genre>sports</genre>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.SportsDevil"
+  version="1.8.8.0"
+  name="SportsDevil"
+  provider-name="MaxMustermann">
+  <requires>
+   <import addon="xbmc.python" version="2.1.0"/>
+   <import addon="script.common.plugin.cache" version="0.9.1"/>
+  </requires>
+  <extension
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Play videos of different sports streaming sites</summary>
+    <description>Play videos of different sports streaming sites</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.chiasenhac"
+  version="0.0.2"
+  name="[COLOR ff696969]C[/COLOR][COLOR ffff0000]S[/COLOR][COLOR ff696969]N[/COLOR]"
+  provider-name="traitravinh">
+  <requires>
+	<import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.common.plugin.cache" version="2.5.2" />
+    <import addon="script.module.simple.downloader" version="1.9.4" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="chiasenhac.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Chiasenhac</summary>
+    <description>Search and play/download music on chiasenhac.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.frmovies"
+       name="frmovies"
+       version="1.0.2"
+       provider-name="Ceth606">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+    <import addon="script.module.urlresolver" version="1.0.0"/>
+    <import addon="script.module.metahandler" version="1.0.2"/>
+    <import addon="script.module.t0mm0.common" version="1.0.0"/>
+    <import addon="script.common.plugin.cache" version="0.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en">Visit www.xbmchub.com for support.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.vdubt" name="Vdubt25" version="0.0.7" provider-name="Mikey1234">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Vdubt25</summary>
+    <description lang="en">Watch All Your Favourite Streams From Vdubt25</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.xemphimso_com"
+  version="1.0.0"
+  name="xemphimso.com"
+  provider-name="traitravinh">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="xemphimso_com.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Movies</summary>
+    <description>Watch (Vietnamese)Videos. Not working!!!!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="pvr.nextpvr"
+  version="1.6.5"
+  name="NextPVR PVR Client"
+  provider-name="Graeme Blackley">
+  <requires>
+    <c-pluff version="0.1"/>
+    <import addon="xbmc.pvr" version="1.6.0"/>
+  </requires>
+  <extension
+    point="xbmc.pvrclient"
+    library_linux="XBMC_NextPVR.pvr"
+    library_osx="XBMC_NextPVR.pvr"
+    library_wingl="XBMC_NextPVR_win32.dll"
+    library_windx="XBMC_NextPVR_win32.dll"
+    library_android="libXBMC_NextPVR.so"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="af">XBMC voorprogram vir die NextPVR</summary>
+    <summary lang="be">XBMC frontend for the NextPVR</summary>
+    <summary lang="ca">Frontal XBMC pel NextPVR</summary>
+    <summary lang="cs">Rozhraní XBMC pro NextPVR</summary>
+    <summary lang="da">XBMC frontend til NextPVR</summary>
+    <summary lang="de">XBMC-Frontend für NextPVR</summary>
+    <summary lang="el">Frontend του XBMC για το NextPVR</summary>
+    <summary lang="en">XBMC frontend for the NextPVR</summary>
+    <summary lang="es">Front-end de XBMC para NextPVR</summary>
+    <summary lang="es_AR">Front-end de XBMC para NextPVR</summary>
+    <summary lang="et">XBMC esi NextPVR'ile</summary>
+    <summary lang="fr">Applicatif XBMC pour l'enregistreur NextPVR</summary>
+    <summary lang="gl">Interface de XBMC para NextPVR</summary>
+    <summary lang="he">ממשק קדמי XBMC עבור NextPVR</summary>
+    <summary lang="hu">XBMC NextPVR előtér-kiszolgáló</summary>
+    <summary lang="it">Frontend XBMC per NextPVR</summary>
+    <summary lang="ja">NextPVR 用 XBMC フロントエンド</summary>
+    <summary lang="ko">NextPVR을 위한 XBMC 프론트엔드</summary>
+    <summary lang="lt">XBMC sąsaja dėl/su NextPVR</summary>
+    <summary lang="mk">XBMC интерфејс за NextPVR</summary>
+    <summary lang="nl">XBMC frontend voor de NextPVR</summary>
+    <summary lang="pl">Interfejs XBMC dla NextPVR</summary>
+    <summary lang="pt">Frontend XBMC para NextPVR</summary>
+    <summary lang="pt_BR">XBMC Frontend para o NextPVR</summary>
+    <summary lang="ro">Interfața XBMC pentru NextPVR</summary>
+    <summary lang="ru">Интерфейс XBMC для NextPVR</summary>
+    <summary lang="sk">XBMC rozhranie pre NextPVR</summary>
+    <summary lang="sl">XBMC-jev vmesnik za NextPVR</summary>
+    <summary lang="sv">XBMC-frontend för NextPVR</summary>
+    <summary lang="zh">XBMC的NextPVR前端</summary>
+    <description lang="af">NextPVR voorprogram. Ondersteun stroom van Lewendige TV &amp; Opnames, luister na Radio kanale en EPG.</description>
+    <description lang="be">NextPVR frontend. Supports streaming of Live TV &amp; Recordings, listening to Radio channels and EPG.</description>
+    <description lang="ca">Frontal NextPVR. Suporta fluxes de TV en directe i enregistraments, escoltes de ràdiio i EPG.</description>
+    <description lang="cs">Rozhraní NextPVR. Podporuje proudové vysílání živého vysílání a nahrávek, poslech kanálů rádia a EPG.</description>
+    <description lang="da">NextPVR frontend; understøtter streaming af TV og Optagelser, Radiokanaler og EPG.</description>
+    <description lang="de">Erlaubt die Wiedergabe von Live TV und Aufnahmen mittels NextPVR auf XBMC. Desweiteren werden Radio-Kanäle und EPG unterstützt.</description>
+    <description lang="el">Frontend για το NextPVR. Υποστηρίζει ροές Live TV &amp; Εγγραφές, ακρόαση Ραδιοφώνου και EPG.</description>
+    <description lang="en">NextPVR frontend. Supports streaming of Live TV &amp; Recordings, listening to Radio channels and EPG.</description>
+    <description lang="es">Front-end de NextPVR. Soporta transmisiones de TV en Vivo y Grabaciones, escuchar canales de Radio y Guía Electrónica de Programas (EPG).</description>
+    <description lang="es_AR">Front-end de NextPVR. Soporta transmisiones de TV en Vivo y Grabaciones, escuchar canales de Radio y Guía Electrónica de Programas (EPG).</description>
+    <description lang="et">NextPVR esi. Toetab telekanalite striimimist ja salvestamist, raadio kuulamist ja elektroonilist saatekava.</description>
+    <description lang="fr">Applicatif XBMC pour NextPVR. Supporte la lecture en continu de direct TV et l'enregistrement, l'écoute de radios et les guides de programmes.</description>
+    <description lang="gl">Interface de NextPVR. Compatíbel coa transmisión de TV ao vivo, gravacións e escoita de canles de radio e EPG.</description>
+    <description lang="he"> ממשק קדמי NextPVR.תומך בשידורים חיים והקלטות של טלוויזיה ורדיו ולוחות שידורים</description>
+    <description lang="hu">NextPVR előtér-kiszolgáló. Élő adások, felvételek és rádió csatornák sugárzásának támogatása EPG-vel</description>
+    <description lang="it">Frontend NextPVR. Supporta lo streaming di Live TV, le registrazioni, l'ascolto dei canali radio e l'EPG.</description>
+    <description lang="ja">NextPVR フロントエンドです。Live TV や録画番組のストリーミング、ラジオチャンネルの視聴、EPG をサポートしています。</description>
+    <description lang="ko">NextPVR 프론트엔드. 라이브 TV 스트리밍과 녹화, 라디오 청취, EPG를 지원합니다.</description>
+    <description lang="lt">NextPVR sąsaja remia transliacijos Live TV &amp; Įrašus, klausytis radijo kanalus per EPG</description>
+    <description lang="mk">NextPVR интерфејс. Подржува стриминг на Live TV и снимања, слушање радио канали и ЕПГ</description>
+    <description lang="nl">NextPVR frontend. Ondersteunt streaming van Live TV &amp; Recordings, het luisteren naar Radio kanalen en EPG.</description>
+    <description lang="pl">Warstwa prezentacji NextPVR. Wspiera strumieniowanie TV na żywo i nagrywanie, słuchanie radia oraz EPG.</description>
+    <description lang="pt">Frontend NextPVR. Suporta transmissão de Live TV e Gravações, ouvir estações de Rádio e EPG.</description>
+    <description lang="pt_BR">NextPVR Frontend. Suporta streaming de TV ao Vivo e Gravações, ouvir canais de rádio e EPG.</description>
+    <description lang="ro">Interfața NextPVR. Suporta streaming Live TV, inregistrari, radio și gid electronic de programe </description>
+    <description lang="ru">Интерфейс для NextPVR. Поддерживает просмотр и запись ТВ, прослушивание радио и EPG.</description>
+    <description lang="sk">NextPVR rozhranie. Podporuje streamovanie živého televízneho vysielania a nahrávok, počúvanie rozhlasových kanálov a EPG.</description>
+    <description lang="sl">Vmesnik za NextPVR; podpira pretakanje televizije v živo &amp; posnetkov, poslušanje radia in EPG.</description>
+    <description lang="sv">NextPVR-frontend. Stödjer strömning av direktsänd TV &amp; inspelningar, lyssna på radiokanaler och EPG.</description>
+    <description lang="zh">Tvheadend前端，支持直播电视播放和录制、收听电台和电子节目单</description>
+    <disclaimer lang="af">Hierdie is werk in vordering. Gebruik op jou eie risiko.</disclaimer>
+    <disclaimer lang="be">This is a work in progress. Use at your own risk.</disclaimer>
+    <disclaimer lang="ca">Això és un treball en curs. Utilitzau baix la vostra responsabilitat.</disclaimer>
+    <disclaimer lang="cs">Práce na tomto rozhraní stále probíhají. Používejte na vlastní nebezpečí.</disclaimer>
+    <disclaimer lang="da">Dette er igangværende arbejde. Brug på eget ansvar.</disclaimer>
+    <disclaimer lang="de">Befindet sich noch in Entwicklung. Benutzung auf eigene Gefahr!</disclaimer>
+    <disclaimer lang="el">Έργο υπό ανάπτυξη. Χρησιμοποιήστε το υπ' ευθύνη σας.</disclaimer>
+    <disclaimer lang="en">This is a work in progress. Use at your own risk.</disclaimer>
+    <disclaimer lang="es">Este es un trabajo en desarrollo. Úsalo bajo tu responsabilidad.</disclaimer>
+    <disclaimer lang="es_AR">Este es un trabajo en desarrollo. Usarlo bajo propio riesgo.</disclaimer>
+    <disclaimer lang="es_MX">Este es un trabajo en curso. Úsalo bajo tu propio riesgo.</disclaimer>
+    <disclaimer lang="et">See on pooleliolev töö. Kasutada omal vastutusel.</disclaimer>
+    <disclaimer lang="fr">Logiciel en cours d'élaboration. À utiliser à vos risques et périls.</disclaimer>
+    <disclaimer lang="gl">Aínda se está no desenvolvemento. Usar baixo o seu propio risco.</disclaimer>
+    <disclaimer lang="he">פרויקט זה הנו בתהליך מתמשך.השתמש על אחריותך בלבד.</disclaimer>
+    <disclaimer lang="hu">Fejlesztés alatt! A saját felelősségére használja!</disclaimer>
+    <disclaimer lang="it">Questo è un lavoro in corso d'opera. Utilizzalo a tuo rischio e pericolo.</disclaimer>
+    <disclaimer lang="ja">これは現在開発中のプログラムです。利用は自己責任でお願いします。</disclaimer>
+    <disclaimer lang="ko">아직 개발 진행중입니다. 부족한 부분이 있을 수 있습니다.</disclaimer>
+    <disclaimer lang="lt">Tai yra nestabili programinė įranga! Autorius jokiu būdu neatsakingas už nepavykusius įrašus, neteisingus laikmačius, iššvaistytas valandas, ar nutikus kitiems nepageidaujamiems poveikiams ...[COLOR=red](xbmc.lt siūlo/rekomenduoja testuojant šį priedą persijungti į Anglų [orinali] kalbą)[/COLOR]</disclaimer>
+    <disclaimer lang="mk">Ова е работа која се извршува. Користи на сопствен ризик.</disclaimer>
+    <disclaimer lang="nl">Hier wordt aan gewerkt, Gebruik op eigen risico.</disclaimer>
+    <disclaimer lang="pl">Ten projekt jest w trakcie realizacji. Używasz na własne ryzyko.</disclaimer>
+    <disclaimer lang="pt">Isto é um projecto em curso. Use-o por sua conta e risco.</disclaimer>
+    <disclaimer lang="pt_BR">Este é um trabalho em progresso. Use a seu próprio risco</disclaimer>
+    <disclaimer lang="ro">Această este un proiect în lucru. Utilizați pe propriul risc.</disclaimer>
+    <disclaimer lang="ru">Разработка программы не окончена. Используйте на свой страх и риск.</disclaimer>
+    <disclaimer lang="sk">Práca na tomto rozhraní stále prebieha. Používajte ho preto na vlastné riziko.</disclaimer>
+    <disclaimer lang="sl">Dodatek je še v izdelavi. Uporaba na lastno odgovornost.</disclaimer>
+    <disclaimer lang="sv">Detta är ett pågående arbete. Använd på egen risk.</disclaimer>
+    <disclaimer lang="zh">此插件仍在开发中，请自行把握试用风险。</disclaimer>
+    <platform>android</platform>
+  </extension>
+</addon>
+
 <addon id="repository.Brazilian" name="Brazilian" version="1.0.0" provider-name="netxeon-country">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Brazilian/addons.xml</info>
@@ -11,6 +312,371 @@
 		<description>There is no description.</description>
 		<disclaimer>The owners and submitters to tis repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
 		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.ftvguide" name="FTV Guide" version="2.0.10" provider-name="rayw1986, bluezed">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.10"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py"/>
+    <extension point="xbmc.service" library="service.py" start="login"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="be">FTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="ca">Guia de TV amb suport de XMLTV i flux de dades</summary>
+		<summary lang="da">FTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="de">FTV Guide erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</summary>
+		<summary lang="el">Οδηγός Τηλεόρασης με XMLTV και υποστήριξη ροών</summary>
+		<summary lang="en">FTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="en_US">FTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="es">TV Guide con XMLTV y soporte para streaming</summary>
+		<summary lang="fr">Guide TV avec support du XMLTV et du streaming</summary>
+		<summary lang="fr_CA">Guide télé avec prise en charge de XMLTV et de la lecture en transit</summary>
+		<summary lang="gl">Guía de TV con soporte XMLTV e transmisións</summary>
+		<summary lang="he">מדריך תכניות עם תמיכה ב-XMLTV והזרמה</summary>
+		<summary lang="hr">TV vodič sa XMLTV podrškom i podrškom streamanja</summary>
+		<summary lang="id">Panduan Siaran TV dengan dukungan XMLTV dan streaming</summary>
+		<summary lang="it">Guida TV con supporto XMLTV e streaming</summary>
+		<summary lang="ko">XMLTV와 스트리밍을 지원하는 TV Guide</summary>
+		<summary lang="nl">TVgids met XMLTV en streaming ondersteuning</summary>
+		<summary lang="pl">TV Guide obsługujący XMLTV oraz transmisję strumieniową</summary>
+		<summary lang="pt">Guia TV com suporte XMLTV e transmissões</summary>
+		<summary lang="pt_BR">Guia de TV com XMLTV e suporte para transmissão online</summary>
+		<summary lang="sk">TV Program s podporou XMLTV a streamovania</summary>
+		<summary lang="sv">TV-guide med XML-TV och strömningsstöd</summary>
+		<summary lang="zh">支持XMLTV和流的电视指南</summary>
+		<description lang="be">FTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="ca">Guia de TV amb suport de XMLTV i flux de dades</description>
+		<description lang="da">TV Guide med XMLTV og streaming support</description>
+		<description lang="de">FTV Guide erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</description>
+		<description lang="el">Οδηγός Τηλεόρασης με XMLTV και υποστήριξη ροών</description>
+		<description lang="en">FTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="en_US">TFTV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="es">TV Guide con XMLTV y soporte para streaming</description>
+		<description lang="fr">Guide TV avec support du XMLTV et du streaming</description>
+		<description lang="fr_CA">Guide télé avec prise en charge de XMLTV et de la lecture en transit</description>
+		<description lang="gl">Guía de TV con soporte XMLTV e transmisións</description>
+		<description lang="he">מדריך תכניות עם תמיכה ב-XMLTV והזרמה</description>
+		<description lang="hr">TV vodič sa XMLTV podrškom i podrškom streamanja</description>
+		<description lang="id">Panduan Siaran TV dengan dukungan XMLTV dan streaming</description>
+		<description lang="it">Guida TV con supporto XMLTV e streaming</description>
+		<description lang="ko">XMLTV와 스트리밍을 지원하는 TV Guide</description>
+		<description lang="nl">TVgids met XMLTV en streaming ondersteuning</description>
+		<description lang="pl">TV Guide obsługujący XMLTV oraz transmisję strumieniową</description>
+		<description lang="pt">Guia TV com suporte XMLTV e transmissões</description>
+		<description lang="pt_BR">Guia de TV com XMLTV e suporte para transmissão online</description>
+		<description lang="sk">TV Program s podporou XMLTV a streamovania</description>
+		<description lang="sv">TV-guide med XML-TV och strömningsstöd</description>
+		<description lang="zh">支持XMLTV和流的电视指南</description>
+		<disclaimer lang="en">FTV Guide is based on the original TV Guide addon by twinther.</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+	</extension>
+</addon>
+
+<addon id="script.icechannel.FILMON.COM.settings" version="0.0.2" name="iStream - FILMON.COM" provider-name="iStream">
+<extension point="xbmc.python.pluginsource" library="default.py" />
+<extension point="xbmc.addon.metadata">
+<summary lang="en">iStream - FILMON.COM - Settings </summary>
+<description lang="en">iStream - FILMON.COM - Settings </description>
+<platform></platform>
+<language></language>
+<license></license>
+<forum></forum>
+<website></website>
+<source></source>
+<email></email>
+</extension>
+</addon>
+
+<addon id="script.icechannel.TvOnline.settings" version="0.0.2" name="iStream - TvOnline" provider-name="iStream">
+<extension point="xbmc.python.pluginsource" library="default.py" />
+<extension point="xbmc.addon.metadata">
+<summary lang="en">iStream - TvOnline - Settings </summary>
+<description lang="en">iStream - TvOnline - Settings </description>
+<platform></platform>
+<language></language>
+<license></license>
+<forum></forum>
+<website></website>
+<source></source>
+<email></email>
+</extension>
+</addon>
+
+<addon id="script.icechannel.kingfiles.settings" version="0.0.2" name="iStream - kingfiles" provider-name="iStream">
+<extension point="xbmc.python.pluginsource" library="default.py" />
+<extension point="xbmc.addon.metadata">
+<summary lang="en">iStream - kingfiles - Settings </summary>
+<description lang="en">iStream - kingfiles - Settings </description>
+<platform></platform>
+<language></language>
+<license></license>
+<forum></forum>
+<website></website>
+<source></source>
+<email></email>
+</extension>
+</addon>
+
+<addon id="script.icechannel.noobroom.settings" version="0.0.2" name="iStream - noobroom" provider-name="iStream">
+<extension point="xbmc.python.pluginsource" library="default.py" />
+<extension point="xbmc.addon.metadata">
+<summary lang="en">iStream - noobroom - Settings </summary>
+<description lang="en">iStream - noobroom - Settings </description>
+<platform></platform>
+<language></language>
+<license></license>
+<forum></forum>
+<website></website>
+<source></source>
+<email></email>
+</extension>
+</addon>
+
+<addon id="script.module.googleapi"
+       name="googleapi"
+       version="1.4.0"
+       provider-name="Google">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+	<import addon="script.module.httplib2" version="0.8.0" />
+	<import addon="script.module.uritemplate" version="0.6" />
+	<import addon="script.module.six" version="1.9.0" />
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Google API python classes and dependencies</summary>
+    <description lang="en">A packaged version of all the libraries needed for Google API access via python.</description>
+    <disclaimer lang="en">Source code for the Google API from https://developers.google.com/api-client-library/python/start/installation</disclaimer>
+    <license>Apache 2.0</license>
+    <website>https://developers.google.com/api-client-library/python/start/installation</website>
+    <source>https://github.com/google/google-api-python-client</source>
+  </extension>
+</addon>
+
+<addon id="script.module.xbmc.ads"
+       name="GO MAD Marketing" version="1.0.7"  provider-name="GO MAD Marketing Ltd.">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+   <extension point="xbmc.python.pluginsource"
+               	library="default.py">
+        <provides>executable</provides>
+    </extension>
+   <extension point="xbmc.python.module" library="lib" />
+   <extension point="xbmc.addon.metadata">
+        <summary>Get Vouchers/Giveaways and Ads</summary>
+        <description>Get Vouchers/Giveaways and Ads</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="script.navi-x"
+       name="Navi-X"
+       version="4.0"
+       provider-name="Team Navi-X and TVADDONS.ag">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.urlresolver"  />
+    <import addon="script.module.t0mm0.common"  />
+    <import addon="script.module.addon.common" optional="false" />
+    <import addon="repository.xbmchub" optional="true" />
+    <import addon="plugin.video.youtube" optional="false" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py" >
+    <provides>executable video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary>Media Browser Addon for Kodi</summary>
+    <description>Navi-X is the oldest and most trusted add-on for Kodi, used by millions of people worldwide. You'll find everything from live television to your favourite movies and television shows, easily accessible.</description>
+    <disclaimer>http://www.navixtreme.com/terms/</disclaimer>
+    <forum>http://forums.tvaddons.ag/forums/38-NAVI-X-MEDIA-BROWSER-FOR-KODI</forum>
+    <website>http://www.navixtreme.com/</website>
+    <source></source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon
+  id="skin.confluence7"
+  version="2.1.377"
+  name="Confluence 7 Icons"
+  provider-name="Jezz_X, Team XBMC">
+  <requires>
+    <import addon="xbmc.gui" version="4.0.0"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    defaultthemename="textures.xbt"
+    debugging="false"
+    effectslowdown="0.75">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="af">Confluence oortreksel deur Jezz_X. (XBMC se bestek oortreksel)</summary>
+    <summary lang="ar">???? ??? ?? Jezz_X. (?? ?????? ????????? ??XBMC)</summary>
+    <summary lang="be">Confluence skin by Jezz_X. (XBMC's default skin)</summary>
+    <summary lang="bg">????? ?? Jezz_X. (??????????? ?? XBMC)</summary>
+    <summary lang="ca">Aparença Confluence, per Jezz_X. (Aparença per defecte de l'XBMC)</summary>
+    <summary lang="cs">Vzhled Confluence od Jezz_X. (XBMC výchozí vzhled)</summary>
+    <summary lang="da">Confluence skin af Jezz_X. (XBMC's standardskin)</summary>
+    <summary lang="de">Confluence, ein Skin von Jezz_X. (XBMC standard Skin)</summary>
+    <summary lang="el">?? ????f?? Confluence ap? t?? Jezz_X (p??ep??e?µ??? ????f?? t?? XBMC).</summary>
+    <summary lang="en">Confluence skin by Jezz_X. (XBMC's default skin)</summary>
+    <summary lang="es">Confluence skin por Jezz_X. (skin por defecto)</summary>
+    <summary lang="es_AR">Confluence skin por Jezz_X. (skin por defecto de XBMC)</summary>
+    <summary lang="es_MX">Skin confluende por Jezz_X. (skin por defecto de XMC)</summary>
+    <summary lang="et">Confluence rüü autorilt Jezz_X. (XBMC vaikerüü)</summary>
+    <summary lang="fi">Confluence-ulkoasu Jezz_X:ltä. (XBMC:n oletus ulkoasu)</summary>
+    <summary lang="fr">Thème Confluence par Jezz_X. (thème par défaut)</summary>
+    <summary lang="gl">Pel Confluence por Jezz_Z. (Pel predeterminada de XBMC)</summary>
+    <summary lang="he">Confluence skin by Jezz_X. (XBMC's default skin)</summary>
+    <summary lang="hr">Confluence izgled autora Jezz_X. (XBMC podrazumijevani izgled)</summary>
+    <summary lang="hu">Confluence felszín. Készíto: Jezz_X (XBMC alapértelmezett felszín)</summary>
+    <summary lang="is">Confluence eftir Jezz_X. (Sjálfgefið útlit XBMC)</summary>
+    <summary lang="it">Skin Confluence da Jezz_X. (skin predefinita di XBMC)</summary>
+    <summary lang="ja">Confluence ??? by Jezz_X. (XBMC ????????)</summary>
+    <summary lang="km">Confluence skin by Jezz_X. (XBMC's default skin)</summary>
+    <summary lang="ko">Confluence ?? Jezz_X ?? (XBMC ?? ??)</summary>
+    <summary lang="lt">Temine išvaizda Confluence sukurta Jezz_X.(XBMC numatytoji temine išvaizda)</summary>
+    <summary lang="mk">Confluence skin by Jezz_X. (XBMC's default skin)</summary>
+    <summary lang="nl">Confluence skin door Jezz_X</summary>
+    <summary lang="no">Confluence tema av Jezz_X. (XBMC standardtema)</summary>
+    <summary lang="pl">Confluence autorstwa Jezz_X</summary>
+    <summary lang="pt">Tema Confluence desenvolvido por Jezz_X. (Tema padrão do XBMC)</summary>
+    <summary lang="pt_BR">Skin Confluence por Jezz_X. (Skin padrão do XBMC)</summary>
+    <summary lang="ro">Costum Confluence de Jezz_X. (costum implicit)</summary>
+    <summary lang="ru">??????? Confluence (??????????? ??????? XBMC). ?????: Jezz_X.</summary>
+    <summary lang="sk">Confluence skin od Jezz_X. (predvolený skin XBMC)</summary>
+    <summary lang="sl">Preobleka Confluence avtorja Jezz_X. (Privzeta preobleka za XBMC)</summary>
+    <summary lang="sv">Confluence, ett skal av Jezz_X. (XBMC standardskal)</summary>
+    <summary lang="th">????????? Confluence ???  Jezz_X (??????????????? XBMC)</summary>
+    <summary lang="tr">Jezz_X tarafindan Confluence dis görünümü. (XBMC varsayilan dis görünüm)</summary>
+    <summary lang="uk">?????????? Confluence (?????????? ?????????? XBMC). ?????: Jezz_X.</summary>
+    <summary lang="vi">Confluence skin by Jezz_X. (XBMC's default skin)</summary>
+    <summary lang="zh">Jezz_X???Confluence??</summary>
+    <summary lang="zh_TW">Jezz_X ???????(XBMC???????)</summary>
+    <description lang="af">Confluence is die bestek oortreksel vir XBMC 9.11 en op. Dit is 'n kombinasie van konsepte van 'n klomp gewilde oortreksels, en 'n poging om hulle goeie idees te omvat en te integreer in 'n oortreksel wat maklik behoort te wees vir eerste keer XBMC gebruikers om te verstaan en te gebruik.</description>
+    <description lang="ar">??? ?? ?????? ????????? ??XBMC 9.11 ? ?? ???. ??? ???? ?? ?????? ?? ????? ?????, ? ????? ?? ? ??? ??????? ?????? ?? ???? ???? ???? ? ???????? ??????? XBMC ??????.</description>
+    <description lang="be">Confluence is the default skin for XBMC 9.11 and above. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time XBMC users to understand and use.</description>
+    <description lang="bg">Confluence ? ???????????? ????? ?? XBMC 9.11 ? ??-?????? ??????. ???????????? ??????? ?? ??????????? ?? ????? ?? ??????????? ??????. ????? ? ?? ?? ?????????? ???? ????? ???? ? ???????? ? ?????? ??? ?? ????, ????? ?? ????????? ?? ????? ??? ? XBMC.</description>
+    <description lang="ca">Confluence és l'aparença per defecte de l'XBMC 9.11 i superior. És una combinació de conceptes de moltes aparences populars, i intenta adoptar i integrar les seves bones idees en una aparença que sigui senzilla d'entendre i utilitzar per els nous usuaris d'XBMC.</description>
+    <description lang="cs">Confluence je výchozí vzhled pro XBMC 9.11 a novejší. Jedná se o kombinaci konceptu z mnoha jiných populárních vzhledu, která se pokouší uchopit a integrovat jejich dobré nápady do vzhledu, který by mel být pro nového uživatele XBMC jednoduchý na pochopení a používání.</description>
+    <description lang="da">Confluence er standardskin'et til XBMC 9.11 og senere versioner. Det er en kombination af koncepter fra mange populære skins, og det forsøger at omfavne og integrere de gode ideer i et skin, der er let for førstegangsbrugere af XBMC at forstå og bruge.</description>
+    <description lang="de">Confluence ist der standard Skin für XBMC 9.11 und später. Er ist eine Kombination mehrer unterschiedlicher Skin-Konzepte und versucht dabei die besten Ideen zu kombinieren, um einen einfachen Einstieg für neue XBMC-Nutzer zu ermöglichen.</description>
+    <description lang="el">?? Confluence e??a? t? p??ep??e?µ??? ????f?? ??a t?? e?d?se?? XBMC 9.11 ?a? ???. ???a? ??a? s??d?asµ?? ap? p???? d?µ?f??? ?e??f?, ?a? ep??e??e? ?a s?µpe????ße? t?? ?a??te?e? ?d?e? t??? se ??a ????f?? t? ?p??? e??a? e????? se a???????? ???ste? t?? XBMC ?a ?ata???s??? ?a? ???s?µ?p???s???.</description>
+    <description lang="en">Confluence is the default skin for XBMC 9.11 and above. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time XBMC users to understand and use.</description>
+    <description lang="es">Confluence es la skin por defecto de XBMC 9.11 y posteriores. Es una combinación de conceptos de muchas skins populares, e intenta abarcar e integrar lo mejor de ellas en una skin que sea sencilla de entender y utilizar para los nuevos usuarios de XBMC.</description>
+    <description lang="es_AR">Confluence es el skin por defecto de XBMC 9.11 y posteriores. Es una combinación de conceptos de muchos skins populares, e intenta abarcar e integrar lo mejor de ellos en un skin que sea sencillo de entender y utilizar para los nuevos usuarios de XBMC.</description>
+    <description lang="es_MX">Confluence es el skin por defecto para XBMC 9.11 en adelante. Es una combinación de conceptos de varias skins populares, e intenta adoptar e integrar sus buenas ideas en un skin que debería ser fá de entender y usar para quienes usen XBMC por primera vez.</description>
+    <description lang="et">Confluence on vaikerüü XBMC-le alates versioonist 9.11. Confluence on paljude populaarsete rüüde kombineerimise tulemus, mis üritab omavahel tööle panna teiste rüüde parimaid lahendusi, et saavutada rüü, mis oleks esmakasutajale ühtmoodi selge ja kerge kasutada.</description>
+    <description lang="fi">Confluence on oletus ulkoasu XBMC:n versiosta 9.11 lähtien. Se on yhdistelmä useiden suosittujen ulkoasujen konsepteista, ja yritys omaksua ja integroida heidän hyvät ideat ulkoasuun, jonka pitäisi olla helppokäyttöinen ja -tajuinen kaikille XBMC:n käyttäjille.</description>
+    <description lang="fr">Confluence est le thème par défaut à partir d'XBMC 9.11. Reprenant les concepts issus de plusieurs thèmes populaires, il est une tentative d'inclusion et d'intégration des meilleures idées afin d'en rendre la compréhension et l'utilisation faciles y compris par des débutants.</description>
+    <description lang="gl">Confluence é a pel predeterminada para XBMC 9.11 e posteriores. É unha combinación de conceptos de algunhas peles populares, e tenta abranguer e integrar  as súas mellores ideas nunha pel que sexa fácil de entender e utilizar para as usuarias que utilizan por primeira vez XBMC.</description>
+    <description lang="he">Confluence ??? ???? ????? ????? ?? XBMC 9.11 ?????. ??? ????? ?? ???????? ??????? ????????? ????, ????????? ???? ????? ?? ???????? ?????? ???? ???? ???? ????? ???? ????? ??????? ???? ?????? XBMC ?????.</description>
+    <description lang="hr">Confluence je podrazumijevani izgled od verzije XBMC 9.11 naviše. To je mješavina ideja i zamisli iz drugih popularnih izgleda, pokušaj da se objedine njihove dobre osobine u izgledu lak za uporabu i razumijevanje od novih XMBC korisnika.</description>
+    <description lang="hu">A Confluence az alapértelmezett felszín az XBMC-hez a 9.11-es verziótól kezdodoen. Merít sok sok népszeru felszín elképzelésébol, megpróbálva vegyíteni a jó ötleteket úgy, hogy az könnyen kezelheto legyen az XBMC-vel eloször találkozóknak is.</description>
+    <description lang="is">Confluence er sjálfgefið útlit XBMC 9.11 og nýrra. Það er samsetning hugmynda frá mörgum vinsælum útlitum og er tilraun til að fanga og innlima þær góðu hugmyndir í útlit þar sem hugmyndin er að skuli vera einfalt fyrir fyrir nýja XBMC notendur að skilja og nota</description>
+    <description lang="it">Confluence è la skin predefinita di XBMC dalla versione 9.11 in poi. E' una combinazione di elementi provenienti da altre skin popolari e cerca di integrare e coinvolgere tutte le loro grandi idee in una skin facile da usare e comprendere per l'utente inesperto di XBMC.</description>
+    <description lang="ja">Confluence ? XBMC 9.11 ?????????????????????????????????????????????????????? XBMC ??????????????????????</description>
+    <description lang="km">Confluence ?? ??????????????? XBMC 9.11 and about. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time XBMC users to understand and use.</description>
+    <description lang="ko">Confluence ? XBMC 9.11 ??? ?? ?????. ?? ?? ??? ??? ?? ????? ??? ??? ???? ????? ???? ???? ????.</description>
+    <description lang="lt">Confluence yra numatytoji temine išvaizda pradedant XBMC 9.11. Tai daugelio populiariu teminu išvaizdu derinys. Bandymas priimti ir integruoti vartotoju idejas i temine išvaizda katra turetu buti lengvai suprantama  pirma karta naudojantiems XBMC</description>
+    <description lang="mk">Confluence ? ????????????? ?????? ?? XBMC 9.11 ?? ??????. ??? ? ??????????? ?? ???????? ?? ?????? ????????? ???????, ? ????????? ?? ?? ??????? ? ??????? ??????? ????? ???? ?? ???? ?????? ????????? ?? ????????? ?????????</description>
+    <description lang="nl">Confluence is de standaard skin voor XBMC 9.11 en hoger. Het combineert de concepten van andere populaire skins, waarbij het tracht hun goede ideëen te integreren in een skin die gemakkelijk in gebruik is.</description>
+    <description lang="no">Confluence er standard tema for XBMC 9.11 og oppover. Det er en kombinasjon av konseptene fra mange populære tema, og prøver å omfavne og integrere de gode idéene i et tema som bør være lett å forstå og benytte for nye XBMC-brukere.</description>
+    <description lang="pl">Confluence jest domyslna skóra dla XBMC 9.11 i nowszych. To kombinacja wielu popularnych pomyslów i próba zawarcia tego co w nich najlepsze w skórze, która bedzie latwa do opanowania dla poczatkujacego uzytkownika.</description>
+    <description lang="pt">O tema Confluence é o tema padrão do XBMC 9.11 e superior. É uma mistura de conceitos de muitos temas populares e tenta integrar as boas ideias destes num tema que deve ser fácil de entender e manusear para novos utilizadores do XBMC.</description>
+    <description lang="pt_BR">Confluence é a skin padrão do XBMC 9.11 e acima. É uma combinação de conceitos das mais populares skins, visando abraçar e integrar as boas ideias em uma skin  que seja fácil de entender e usar, destinada  aos usuários iniciantes do XBMC. </description>
+    <description lang="ro">Confluence este costumul implicit pentru XBMC 9.11 ?i versiunile ulterioare. Este o combina?ie de concepte împrumutate de la mai multe costume populare, care încearca sa îmbra?i?eze ?i sa integreze ideile lor bune într-un costum care sa fie u?or de în?eles ?i folosit de catre utilizatorii XBMC începatori.</description>
+    <description lang="ru">Confluence — ??? ??????????? ??????? XBMC, ??????? ? ?????? 9.11. ??? ???????????? ????? ????????? ?????????, ?????? ?? ?????? ?????????? ???????, ? ??????? ????????????? ?? ??????? ???? ? ???????, ??????? ???? ??????? ??? ????????????? ? ????????? ?????? ?????????????? XBMC.</description>
+    <description lang="sk">Confluence je predvolený pre XBMC 9.11 a vyššie. Je kombináciou konceptov z mnoho populárnych skinov a pokusom integrovat ich dobré nápady do skinu, ktorý by bol lahko zrozumitelný a použitelný pre nových používatelov XBMC.</description>
+    <description lang="sl">Confluence je privzeta preobleka za XBMC 9.11 in novejše. Je kombinacija konceptov mnogih priljubljenih preoblek in poskuša zaobjeti in integrirati njihove dobre ideje v preobleko, ki bi bila preprosta za uporabo in razumevanje tudi novim uporabnikom XBMC.</description>
+    <description lang="sv">Confluence är standardskal för XBMC 9.11 och senare. Det är en kombination av koncept från många populära skal i ett försök att använda och integrera flera goda idéer till ett skal som är enkelt för användare som precis har börjat använda XBMC att förstå och använda.</description>
+    <description lang="th">Confluence?????????????????????? XBMC 9.11 ??????????? ????????????????????????????????????????????????????????????????????????????????????????????????????????? ????????????????????????? XBMC???? ?????????????????????????</description>
+    <description lang="tr">Confluence XBMC 9.11 ve yukarisi için varsayilan dis görünümdür. Birçok popüler dis görünümün kavramlarini bir araya getirip ilk kez XBMC kullananlar için anlasilmasi ve kullanimi kolaydir.</description>
+    <description lang="uk">Confluence — ?? ?????????? ?????????? XBMC, ????????? ? ?????? 9.11. ????????? ???????? ?????????? ?????????? ???????? ? ?????? ??????????? ?? ??????????? ???? ????? ???? ? ??????????, ?? ????? ? ?????????? ?? ??????? ? ???????????? ??? ????? ???????????? XBMC.</description>
+    <description lang="vi">Confluence is the default skin for XBMC 9.11 and above. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time XBMC users to understand and use.</description>
+    <description lang="zh">?XBMC 9.11??????Confluence???????????????????,???????????????,??????XBMC??????????</description>
+    <description lang="zh_TW">Confluence ?? XBMC 9.11 ???????????????????????????,?????????????,?????? XBMC ????????????</description>
+    <disclaimer lang="af">Confluence is die bestek oortreksel vir XBMC, verwydering mag probleme veroorsaak</disclaimer>
+    <disclaimer lang="ar">??? ?? ?????? ????????? ??XBMC, ????? ?? ???? ?????</disclaimer>
+    <disclaimer lang="be">Confluence is the default skin for XBMC, removing it may cause issues</disclaimer>
+    <disclaimer lang="bg">Confluence ? ???????????? ????? ?? XBMC. ???????????? ?? ???? ?? ?????????? ????????</disclaimer>
+    <disclaimer lang="ca">Confluence és l'aparença per defecte de l'XBMC, la seva eliminació pot causar problemes.</disclaimer>
+    <disclaimer lang="cs">Confluence je výchozím vzhledem XBMC, jeho odstranení muže zpusobit problémy</disclaimer>
+    <disclaimer lang="da">Confluence er standardskin'et til XBMC. Fjernes det, kan der opstå problemer</disclaimer>
+    <disclaimer lang="de">Confluence ist der standard Skin für XBMC. Die Deinstallation kann zu unerwünschten Nebeneffekten führen.</disclaimer>
+    <disclaimer lang="el">?? Confluence e??a? t? p??ep??e?µ??? ????f?? ??a t? XBMC, ? afa??es? t?? µp??e? ?a d?µ??????se? p??ß??µata</disclaimer>
+    <disclaimer lang="en">Confluence is the default skin for XBMC, removing it may cause issues</disclaimer>
+    <disclaimer lang="es">Confluence es la skin por defecto de XBMC. Borrarla puede causar problemas</disclaimer>
+    <disclaimer lang="es_AR">Confluence es el skin por defecto de XBMC. Borrarlo puede causar problemas</disclaimer>
+    <disclaimer lang="es_MX">Confluence es el skin por defecto para XBMC, removerlo podría causar problemas</disclaimer>
+    <disclaimer lang="et">Confluence on XBMC vaikerüü. Selle eemaldamine võib põhjustada ootamatusi.</disclaimer>
+    <disclaimer lang="fi">Confluence on XBMC:n oletus ulkoasu, sen poistaminen saattaa aiheuttaa ongelmia</disclaimer>
+    <disclaimer lang="fr">Confluence est le thème par défaut de XBMC, le supprimer peut créer des problèmes</disclaimer>
+    <disclaimer lang="gl">Confluence é a pel predeterminada para XBMC e eliminala pode causas problemas.</disclaimer>
+    <disclaimer lang="he">Confluence ??? ???? ????? ????? ?? XBMC, ???? ??? ????? ????? ??????.</disclaimer>
+    <disclaimer lang="hr">Confluence je podrazumijevani izgled za XBMC, njegovo odstranjivanje može uzrokovati teškoce.</disclaimer>
+    <disclaimer lang="hu">A Confluence az alapértelmezett XBMC felszín. Eltávolítása problémákat okozhat.</disclaimer>
+    <disclaimer lang="is">Confluence er sjálfgefið útlit XBMC, það getur orsakað vandamál að fjarlægja það.</disclaimer>
+    <disclaimer lang="it">Confluence è la skin predefinita di XBMC, l'eliminazione potrebbe comportare dei problemi.</disclaimer>
+    <disclaimer lang="ja">Confluence ? XBMC ???????????????????????????????????????</disclaimer>
+    <disclaimer lang="ko">Confluence? XBMC? ?????? ??? ??? ??? ????.</disclaimer>
+    <disclaimer lang="lt">Confluence yra numatytoji XBMC temine išvaizda, ja panaikinus ar pakeitus gali kilti problemu</disclaimer>
+    <disclaimer lang="mk">Confluence ? ????????????? ?????, ????????? ???? ?? ?????????? ??????</disclaimer>
+    <disclaimer lang="nl">Confluence is de standaard XMBC skin, het verwijderen van Confluence kan leiden tot problemen.</disclaimer>
+    <disclaimer lang="no">Confluence er standard tema for XBMC, å fjerne det kan skape problemer</disclaimer>
+    <disclaimer lang="pl">Confluence jest domyslna skóra XBMC. Jej usuniecie moze powodowac problemy.</disclaimer>
+    <disclaimer lang="pt">O tema Confluence é o tema padrão do XBMC. Removê-lo pode causar problemas.</disclaimer>
+    <disclaimer lang="pt_BR">Confluence é a skin padrão do XBMC, removê-la pode lhe causar problemas.</disclaimer>
+    <disclaimer lang="ro">Confluence este costumul implicit pentru XBMC, daca îl elimina?i pot aparea probleme!</disclaimer>
+    <disclaimer lang="ru">Confluence — ??? ??????????? ??????? XBMC, ? ?? ???????? ????? ???????? ? ????????????? ???????</disclaimer>
+    <disclaimer lang="sk">Confluence je predvolený skin pre XBMC, jeho odstránenie môže spôsobit problémy</disclaimer>
+    <disclaimer lang="sl">Confluence je privzeta preobleka za XBMC, njena odstranitev lahko povzroci težave</disclaimer>
+    <disclaimer lang="sv">Confluence är standardskal för XBMC, att ta bort detta skal kan skapa problem.</disclaimer>
+    <disclaimer lang="th">Confluence ?????????????????????? XBMC ???????? ?????????????????</disclaimer>
+    <disclaimer lang="tr">Confluence XBMC için varsayilan dis görünümdür, kaldirmak sorunlara yol açabilir</disclaimer>
+    <disclaimer lang="uk">Confluence — ??????? ?????????? XBMC, ? ?? ????????? ???? ????????? ?? ???????</disclaimer>
+    <disclaimer lang="vi">Confluence is the default skin for XBMC, removing it may cause issues</disclaimer>
+    <disclaimer lang="zh">Confluence?XMBC?????,??????????</disclaimer>
+    <disclaimer lang="zh_TW">Confluence ? XMBC ???????,??????????</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="weather.ozweather" name="Oz Weather" version="0.7.8" provider-name="Bossanova808">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.pil" version="1.1.7"/>
+    <import addon="script.module.parsedom" version="1.2.0"/>
+	</requires>
+	<extension point="xbmc.python.weather" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Weather forecasting and radar images for Australia using Bureau of Meteorology data</summary>
+		<description lang="en">Weather forecast data scraped from the Australian Bureau of Meteorology via WeatherZone - www.bom.gov.au and www.weatherzone.com.au.  For full features (e.g. radar) make sure you install the skin file you can find in the addon directory.  Contributed files for other skins welcome.</description>
+		<disclaimer lang="en">Use of this addon implies you agree to the following terms and conditions - http://reg.bom.gov.au/other/copyright.shtml and http://reg.bom.gov.au/other/disclaimer.shtml</disclaimer>
+		<platform>all</platform>
+		<language>en</language>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>http://forum.xbmc.org/showthread.php?tid=116905</forum>
+		<website>http://wiki.xbmc.org/index.php?title=Add-on:Oz_Weather</website>
+		<email></email>
+		<source>https://github.com/bossanova808/weather.ozweather</source>
 	</extension>
 </addon>
 </addons>

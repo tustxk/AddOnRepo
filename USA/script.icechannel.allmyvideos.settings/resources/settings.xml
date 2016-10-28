@@ -1,7 +1,0 @@
-<settings>
-<category label="">
-<setting id="version" type="bool" label="[COLOR blue]Version: 0.2[/COLOR]" />
-<setting type="sep"/>
-<setting id="quality" type="enum" label="Quality"values="480p|720p" default="0" />
-</category>
-</settings>

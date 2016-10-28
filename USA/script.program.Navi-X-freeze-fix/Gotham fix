@@ -1,2 +1,0 @@
-This fix changes the addon.xml of Navi-X to that Navi-X will run on XBMC Gotham.
-It changes line 7 of addon.xml from version= "1.0" to version= "2.1.0".

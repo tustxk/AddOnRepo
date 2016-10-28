@@ -3776,6 +3776,25 @@ Vous choisissez une catégorie, puis une sous catégorie et à vous les videos d
   </extension>
 </addon>
 
+<addon id="plugin.video.gamekult"
+       name="Gamekult"
+       version="1.1.0"
+       provider-name="sebcbi1">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="fr">Gamekult</summary>
+    <summary lang="en">Gamekult</summary>
+    <description lang="fr">Gamekult.com : toute l'actualité du jeu vidéo PC, consoles, mobiles. Les 20 dernières vidéos de chaque catégorie.</description>
+    <description lang="en">Gamekult.com : French video games news. Latest 20 vids in each categories</description>
+  </extension>
+</addon>
+
 <addon id="plugin.video.gameone" name="Gameone" version="2.0.7" provider-name="liquex, membrane">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -4292,6 +4311,25 @@ YouTube</description>
     <summary>jagobd.com XBMC Client</summary>
     <description>Watch jagobd.com on your XBMC. This plugin fetches the video sources from jagobd.com and play on XBMC compatible plateforms</description>
     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.jeuxvideo.fr"
+       name="JeuxVideo.fr"
+       version="1.0.0"
+       provider-name="sebcbi1">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="fr">JeuxVideo.fr</summary>
+    <summary lang="en">JeuxVideo.fr</summary>
+    <description lang="fr">JeuxVideo.fr : on est là pour jouer. Les 30 dernières vidéos de chaque catégorie.</description>
+    <description lang="en">JeuxVideo.fr : French video games news. Latest 30 vids in each categories</description>
   </extension>
 </addon>
 
@@ -7730,26 +7768,6 @@ Watch all your favorite TV Shows and Movies streamed on constant repeat 24/7 fro
 	</extension>
 </addon>
 
-<addon id="repository.addon.recommend" name="Addon_Recommend" version="0.0.2" provider-name="CrazyAddon">
-	<requires>
-		<import addon="xbmc.addon" version="12.0.0" />
-	</requires>
-	<extension point="xbmc.addon.repository" name="Addon_Recommend">
-		<dir minversion="0.0.1">
-			<info compressed="false">http://raw.githubusercontent.com/Crazyaddon/AddOnRepo/master/Update/addons.xml</info>
-			<checksum>http://raw.githubusercontent.com/Crazyaddon/AddOnRepo/master/Update/addons.xml.md5</checksum>
-			<datadir zip="true">http://raw.githubusercontent.com/Crazyaddon/AddOnRepo/master/Update/repo/</datadir>
-		</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Install Add-ons from Addon_Recommend repository</summary>
-		<description>Recommend addons.[CR][CR]</description>
-		<disclaimer>All rights reserved [CR]</disclaimer>
-		<platform>all</platform>
-		<website></website>
-	</extension>
-</addon>
-
 <addon
   id="resource.language.fr_fr"
   version="1.0.6"
@@ -11028,59 +11046,6 @@ Il peut optionnellement gerer les playlistes pour filtrer les resultats.
     <license>The MIT License</license>
     <forum>http://forum.xbmc.org/showthread.php?tid=129499</forum>
     <source>https://github.com/robweber/xbmcbackup</source>
-  </extension>
-</addon>
-
-<addon id="plugin.video.gamekult"
-       name="Gamekult"
-       version="1.1.0"
-       provider-name="sebcbi1">
-  <requires>
-    <import addon="xbmc.python" version="1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="fr">Gamekult</summary>
-    <summary lang="en">Gamekult</summary>
-    <description lang="fr">Gamekult.com : toute l'actualité du jeu vidéo PC, consoles, mobiles. Les 20 dernières vidéos de chaque catégorie.</description>
-    <description lang="en">Gamekult.com : French video games news. Latest 20 vids in each categories</description>
-  </extension>
-</addon>
-
-<addon id="plugin.video.jeuxvideo.fr"
-       name="JeuxVideo.fr"
-       version="1.0.0"
-       provider-name="sebcbi1">
-  <requires>
-    <import addon="xbmc.python" version="1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="fr">JeuxVideo.fr</summary>
-    <summary lang="en">JeuxVideo.fr</summary>
-    <description lang="fr">JeuxVideo.fr : on est là pour jouer. Les 30 dernières vidéos de chaque catégorie.</description>
-    <description lang="en">JeuxVideo.fr : French video games news. Latest 30 vids in each categories</description>
-  </extension>
-</addon>
-
-<addon id="service.repo.check"
-       name="repocheck"
-       version="0.1"
-       provider-name="BIT">
-  <requires>
-    <import addon="xbmc.python" version="2.0"/>
-  </requires>
-  <extension point="xbmc.service"
-            library="default.py" start="startup">
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
   </extension>
 </addon>
 

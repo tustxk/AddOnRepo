@@ -1,0 +1,35 @@
+2.2.1
+- Fix for Gotham
+2.2.0
+- Language option added
+- Location option added
+- Fixed livestream dates
+- Fixed encoding problems
+- Small fixes and improvements
+2.1.0
+- Fixed livestreams and vod 
+- Cleaned code
+- Small improvements
+2.0.4
+- Fixed listing
+- Fixed livestreams and vod
+2.0.3
+- Fixed livestreams (every stream should be visible now)
+2.0.2
+- Fixed livestream listing
+- Fixed vod listing
+- Fixed typo
+- Added indicator how much streams are running
+- Small fixes
+2.0.1
+- Fix for livestreams
+- Listing of livestreams improved
+- Added nicer thumbnails to the livestreams
+- Progress bar added
+- Option for correcting the selection offset added (user who have the back button hidden should activate it)
+- Latest video item added
+- Fixed missing videos
+- Some fixes and improvements
+- Added more spaghetti to the code 
+2.0.0
+- Rewrite of the whole add-on because of new website

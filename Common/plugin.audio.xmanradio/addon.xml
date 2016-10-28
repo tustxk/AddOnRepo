@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<addon id="plugin.audio.xmanradio" name="xmanRadio" provider-name="Kozz" version="0.0.5">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.simplejson" version="2.0.10" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Stream Radio stations to your xbmc enabled devics</summary>
+    <description>Listen to xmans favourite local Aussie stations</description>
+
+  </extension>
+  <statfeed>
+      <working>yes</working>
+	  <notes>none</notes>
+      <maintainer>kozz</maintainer>
+      <thumbnailurl>http://</thumbnailurl>
+  </statfeed>
+</addon>

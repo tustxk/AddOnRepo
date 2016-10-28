@@ -1,0 +1,103 @@
+------------------------
+Glow Movies HD v1.2.1 (27-Jun-14)
+------------------------
+
+- Added selector for subtitle settings.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.2.0 (17-Jun-14)
+------------------------
+
+- Re-work of addon.
+- Re-work of resolver.
+- Updated all translations.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.1.1 (26-May-14)
+------------------------
+
+- Fixed issues with resolver.
+- PseudoTV Live: All dialogs are now disabled (Resume, Playback info etc).
+- PseudoTV Live: All streams won't be marked as watched.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.1.0 (4-May-14)
+------------------------
+
+- Re-work of addon.
+- Added full remote share support.
+- Fixed playback issues.
+- Fixed issues with genre listings.
+- Fixed issues with year listings.
+- Tweaked movie listings.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.7 (3-Apr-14)
+------------------------
+
+- Fixed issues with resolver.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.6 (22-Mar-14)
+------------------------
+
+- Fixed issues with resolver.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.5 (19-Mar-14)
+------------------------
+
+- Fixed issues with resolver.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.4 (5-Mar-14)
+------------------------
+
+- Tweaked internal subtitles.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.3 (4-Mar-14)
+------------------------
+
+- Fixed issues with resolver.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.2 (2-Mar-14)
+------------------------
+
+- Re-work of subtitles (66 languages are now available).
+- Update all existing translations.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.1 (25-Feb-14)
+------------------------
+
+- Updated French translation.
+- Code cosmetics.
+
+
+------------------------
+Glow Movies HD v1.0.0 (23-Feb-13)
+------------------------
+
+- Initial version

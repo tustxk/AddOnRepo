@@ -1,0 +1,7 @@
+
+[B]Version 1.0.1[/B]
+- ported to brightcove
+
+Credits
+================
+Code adapted from Andy Botting (andybz)

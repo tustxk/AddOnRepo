@@ -1,0 +1,66 @@
+[B]v0.0.1[/B]
+Initial Release
+
+[B]v0.0.2[/B]
+Added TV-Shows Menu
+Added new icon and fanart provided by azad720@XBMCHUB
+
+[B]v0.0.3[/B]
+Performance improvements...links load much faster now :)
+
+[B]v0.0.4[/B]
+Minor Bug Fixes
+Added menu artwork. Thanks azad720@XBMCHUB
+Added GA
+
+[B]v0.0.5[/B]
+Added support for My Watch History
+
+[B]v0.0.6[/B]
+Moved watch history to module
+
+[B]v0.0.7[/B]
+Added support for play-back-engine
+
+[B]v0.0.8[/B]
+Fixed bug with play-back-engine
+
+[B]v0.0.9[/B]
+Added support for Universal Favorites
+
+[B]v0.1.0[/B]
+Added support for Universal Playbackengine (MySql and Queuing)
+
+[B]v0.1.1[/B]
+Fixed bug in Genre Regex
+
+[B]v0.1.2[/B]
+Switched to Universal Watch History
+
+[B]v0.1.3[/B]
+Removed GA
+
+[B]v0.1.4[/B]
+Fixed the addon for the changes made to the website
+
+[B]v0.1.5[/B]
+Fixed the addon for the changes made to the TV Shows section of the website
+
+[B]v0.1.6[/B]
+Fixed some text encoding issues
+
+[B]v0.1.7[/B]
+Fixed text encoding issues
+TV Shows website changes fixes
+
+[B]v0.1.8[/B]
+Minor website based changes
+
+[B]v0.1.9[/B]
+NA
+
+[B]v0.2.0[/B]
+Updated based on changes to the website.
+
+[B]v0.2.1[/B]
+Updated based on changes to the website.

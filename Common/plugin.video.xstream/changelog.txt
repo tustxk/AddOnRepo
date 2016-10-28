@@ -1,0 +1,219 @@
+================================================================================
+- Version 1.3.0 - 09.02.2011
+================================================================================
+    - add site ustream.tv
+    - add folder refresh after first site selection
+
+    - fix kino.to
+    - fix iload.to
+
+    - fix loaded.it
+    - fix archiv.to
+    - fix mystream.to (bitload.com)
+    - fix sharehoster.com
+
+================================================================================
+- Version 1.2.0 - 23.01.2011
+================================================================================
+    - add function "add to playlist"
+    - fix iload.to token
+
+================================================================================
+- Version 1.1.2 - 23.01.2011
+================================================================================
+    - fix md5 hash
+
+================================================================================
+- Version 1.1.1 - 22.01.2011
+================================================================================
+    - fix kino.to news
+    - add "next" function to site anime.proxer.me
+
+    - add OpenELEC support
+
+================================================================================
+- Version 1.1.0 - 20.01.2011
+================================================================================
+    - add series to iload.to
+    - add language info to iload.to
+
+    - add site anime.proxer.me
+
+    - add hoster rutube.ru
+    - fix hoster duckload
+
+================================================================================
+- Version 1.0.1 - 12.01.2011
+================================================================================
+    - fix for xbox version
+    - change settings.xml for xbox version
+
+================================================================================
+- Version 1.0.0 - 11.01.2011
+================================================================================
+    - add simple host structures
+    - add premiumaccount (megavideo.com, duckload.com)
+    - new settingsdialog
+    - add JDownloader integration
+    - code refactoring
+    - site refactoring
+    
+    - add new sites:
+        - burning-series.org
+        - kinokiste.com
+
+    - add new hosters:
+        - xvidstage.com
+        - filesup.com
+        - filebase.to
+        - ecostream.tv
+
+================================================================================
+- Version 0.4.5 - 02.01.2011
+================================================================================
+    - add site radiotime.com
+
+    - fix bild.de
+        - channel comedy
+
+================================================================================
+- Version 0.4.4 - 02.01.2011
+================================================================================
+    - add site anime-stream24.com
+
+    - add hoster
+        - vidbux
+        - vidxden
+        - divxstage
+        - dankfile
+
+    - add poster and description to moviemaze.de trailers
+
+    - add new movies to br-online (thx @bommel)
+
+
+================================================================================
+- Version 0.4.3 - 28.12.2010
+================================================================================
+    - add site br-online.de
+        - program: alpha-Centauri
+
+================================================================================
+- Version 0.4.2 - 27.12.2010
+================================================================================
+    - add downloadfunction to kino.to, iload.to hosters (contextmenu)
+    - add new site iload.to
+
+    - fix southpark.de
+    - fix kino.to
+
+    - fix hosters:
+        - archive
+
+    - add hosters
+        - skyload
+        - filestage
+        - fullshare        
+
+================================================================================
+- Version 0.3.4 - 08.11.2010
+================================================================================
+    - fix kino.to token (cookie)
+
+================================================================================
+- Version 0.3.3 - 05.11.2010
+================================================================================
+    - add kino.to functions
+        - show favourite series, docus, movies
+        - show latets entries
+        - show news
+        - set language by title
+        - add info item
+        - add thumbnail to movies, series, docus
+        - add other hoster (flash / divx)
+
+    - hoster:
+        - archive
+
+================================================================================
+- Version 0.3.2 - 03.11.2010
+================================================================================
+    - fix mtv.de VideoCharts
+    - add mtv.de WeeklyCharts
+
+    - sites:
+        - simpsons.to (serie stream)
+
+    - hoster:
+        - zshare
+        - qip
+
+================================================================================
+- Version 0.3.1 - 01.11.2010
+================================================================================
+    - fix duckload pattern for movie2k
+    - catch kino.de http error 502
+    - add security-cookie to kino.to (cookiecheck)
+    - add new hoster for movie2k
+
+    - hoster:
+        - moveshare
+        - filestage
+        - screen4u
+        - checkThisVid
+
+================================================================================
+- Version 0.3.0 - 31.10.2010
+================================================================================
+    - fix shoutcast.com 2 words url bug
+    - fix waitmessagedialog (only for dharma)
+    - add contextmenu
+    - add downloadfunction
+
+    - sites:
+        - movie2k.com (streams)
+
+    - hoster:
+        - novamov
+        - stream2k
+        - streamesel
+        - videoweed
+
+================================================================================
+- Version 0.2.0 - 29.10.2010
+================================================================================
+    - add support for xbmc 9.1.1 (thx for testing @aXeSSoire)
+    - add pluginimage (thx @djtoll)
+    - add notification function
+    - performancetweaks
+
+    - sites:
+        - moviemaze.de (trailers)
+        - shoucast.com (radio)
+
+================================================================================
+- Version 0.1.0 - 28.10.2010 [initial version]
+================================================================================
+    - initial version
+
+    sites:
+        - kino.to (streams)
+        - g-stream.in (streams)
+        - southpark.de (southpark german / english)
+        - mtv.de (musicvideo / serien)
+        - nba.de (basketball)
+        - bundesliga.de (football)
+        - kino.de (movietrailers)
+        - bild.de (streams)
+        - myp2p.eu (streams)
+
+    hoster:
+        - dataup
+        - duckload
+        - loadedit
+        - megavideo
+        - mystream
+        - quickload
+        - sharehoster
+        - skyload
+        - tubeload

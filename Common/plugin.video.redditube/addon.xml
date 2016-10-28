@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.redditube" version="1.2.5a" name="Reddi Tube" provider-name="[COLOR red]Blazetamer[/COLOR]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.urlresolver"  version="2.1.2"/>
+<import addon="script.module.metahandler" version="2.3.1" />
+
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>Full Length Feature Movies</summary>
+<description>ReddiTube give you Full length movies and videos from YouTube,Putlocker, Sockshare and more!***For Official support visit XBMCHUB.COM***</description>
+
+<platform>all</platform>
+</extension>
+</addon>

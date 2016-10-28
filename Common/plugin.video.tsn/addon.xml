@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tsn"
+       name="TSN - Canada's Sports Leader"
+       version="0.1.5"
+       provider-name="teefer">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.0.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>watch.tsn.ca video content</summary>
+    <description></description>
+    <platform>all</platform>
+  </extension>
+</addon>

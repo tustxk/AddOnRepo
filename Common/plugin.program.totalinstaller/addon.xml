@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.totalinstaller" version="1.0.7" name="[COLOR=blue][B]T[/COLOR][COLOR=dodgerblue]R[/COLOR] [COLOR=white]Total Installer[/COLOR][/B]" provider-name="whufclee, spoyser">
+<requires>
+	<import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>Total Installer</summary>
+	<description>Install ANY XBMC/Kodi addon ever made. No prejudice against any sites or developers - this is a collection of EVERY XBMC Addon available with over 2,400 so far! Big thanks go to Blazetamer for creating the original Addon Installer that was used as the original base and Gandelf for all the new artwork. Also massive thanks to all of you that contribute to the project at [COLOR=lime][B]www.totalxbmc.tv[/COLOR][/B]</description>
+	<website>http://www.totalxbmc.tv</website>
+	<platform>all</platform>
+</extension>
+</addon>

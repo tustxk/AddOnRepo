@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.fr.filmsdefrance" provider-name="The[COLOR tan]Highway[/COLOR]" 
+       version="1.0.1" name="Films de France" >
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.urlresolver"  />
+  	<import addon="script.module.metahandler"  />
+  	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Streaming francais pour XBMC</summary>
+  	<summary lang="en">For French users.</summary>
+  	<summary lang="fr">Pour les spectateurs de langue française.</summary>
+  	<description>Developpement commanditer par KewlTV.</description>
+  	<description lang="en">The development of this add-on was sponsored by KewlTV.</description>
+  	<description lang="fr">Developpement commanditer par KewlTV.</description>
+  	<language>fr en</language>
+  	<platform>all</platform>
+    <forum>http://www.xbmchub.com/forums/</forum>
+    <website>http://www.xbmchub.com/</website>
+    <source></source>
+    <email></email>
+  </extension>
+</addon>

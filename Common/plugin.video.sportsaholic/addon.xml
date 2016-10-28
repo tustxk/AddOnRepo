@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.sportsaholic"
+       name="Sports-A-Holic"
+       version="1.0.5"
+       provider-name="Mash2k3, Kuba">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.universal" version="0.0.1"/>
+		<import addon="script.module.playbackengine" version="1.0.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Browse Sports Highlights from major sports broadcasters</summary>
+    <description lang="en">Browse and play a wide selection of shows/highlights from sources like TSN, ESPN and Sky Sports
+	[COLOR green]Sports-A-Holic is a part of the Developers Fund ad service for more info visit xbmctalk.com.[/COLOR]</description>
+    <platform>all</platform>
+  </extension>
+</addon>

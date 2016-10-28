@@ -1,0 +1,15 @@
+<addon id="plugin.video.catchuptv.au.nten" name="Network Ten CatchUp TV" version="1.0.2" provider-name="boggob">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>31542</minversion>
+    <summary>Network Ten CatchUp TV Video Player</summary>
+    <description>Watch latest episodes, sneak peeks, exclusive internet extras and other videos from Network Ten Online.</description>
+    <disclaimer>You must be within Australia to use watch these videos.[CR]"Network Ten", Ten Logos and other works are copyright of their respective owners.</disclaimer>
+  </extension>
+</addon>

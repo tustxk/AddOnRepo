@@ -1,0 +1,50 @@
+[B]v0.0.1[/B]
+Initial Release
+
+[B]v0.0.2[/B]
+Added more sections, a-z, genres, and search
+
+[B]v0.0.3[/B]
+Added metadata, favorites, watched/un-watched
+
+[B]v0.0.4[/B]
+Added resolvers currently not supported by url-resolver
+
+[B]v0.0.5[/B]
+Code Optimization
+
+[B]v0.0.6[/B]
+Adding resolver notifications...as resolving takes sometime
+
+[B]v0.0.7[/B]
+Marked url-resolver links with **url-resolver**
+
+[B]v0.0.8[/B]
+Fixed minor bugs
+Added GA
+
+[B]v0.0.9[/B]
+Added support for My Watch History
+
+[B]v0.1.0[/B]
+Moved watch history to module
+
+[B]v0.1.1[/B]
+Added support for play-back-engine
+
+[B]v0.1.2[/B]
+Fixed bug with play-back-engine
+
+[B]v0.1.3[/B]
+Added support for Universal Favorites
+Added new artwork. Artwork provided by raspberry.pi
+
+[B]v0.1.4[/B]
+Switched to Universal Watch History and Playback Engine
+Using Parameterized Watched Callback
+
+[B]v0.1.5[/B]
+Removed GA
+
+[B]v0.1.6[/B]
+NA

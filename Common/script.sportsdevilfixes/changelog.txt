@@ -1,0 +1,5 @@
+version 1.0.6 (10/9/14)
+  - Changed copy function -> fixes for android
+version 1.0.0
+  - initial release
+

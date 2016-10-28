@@ -1,0 +1,10 @@
+Version 0.2.3
+Correction de doublon causant souvent le plantage du script
+
+Version 0.2
+Correction de bug quand les flux ne sont pas disponibles selon le type debit.
+Ajout de iconImage à chaque épisode
+Ajout de paramètre "type de flux"
+
+Version 0.1
+initial release

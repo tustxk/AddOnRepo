@@ -1,0 +1,25 @@
+[B]Version 0.0.10[/B]
+- seems to work with Gotham (not Frodo)
+
+[B]Version 0.0.8[/B]
+- deal with brightcove
+
+[B]Version 0.0.7[/B]
+- deal with html changes in pages
+
+[B]Version 0.0.6[/B]
+- deal with html changes in pages
+
+[B]Version 0.0.5[/B]
+- added beautiful soup to the package
+
+[B]Version 0.0.4[/B]
+- deal with new yahoo protocol
+
+[B]Version 0.0.3[/B]
+- 
+
+[B]Version 0.0.1[/B]
+- Initial version of Addon
+
+

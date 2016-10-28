@@ -1,0 +1,52 @@
+v1.1.4
+Added Library Location in Settings
+Fixed Add to Library when name contains illegal characters
+Download now saves to a subfolder
+Notification during downloading
+
+v1.1.3
+Added Go To Page No.
+
+v1.1.0
+Added All Metadata
+
+v1.0.9
+Fixed Add To Library For Tv Shows
+
+v1.0.8
+Fixed Add To Library For Tv Shows
+Added Play Best Quality
+
+
+v1.0.6
+IPS Checks
+
+v1.0.5
+Added Add To Library
+To View Trailers Use Context Menu
+Added Load More Pages...
+Added View Results By Release Date/Views
+Added Custom Results Per Page (20 default)
+Custom Ask For Filename For Each Download (disabled by default)
+Custom Ask For Folder For Each Download (disabled by default)
+
+
+v1.0.4
+Added Download
+
+
+v1.0.3
+Added Genre
+You Can Now Watch Trailers
+
+
+v1.0.2
+Another Quick Fix
+
+
+v1.0.1
+Quick Fix
+
+
+v1.0.0
+Initial Release

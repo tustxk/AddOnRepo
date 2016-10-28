@@ -1,0 +1,35 @@
+[B]Version 1.0.4[/B]
+
+-Changed Support & Help to xbmctalk.com
+-Reduced imports to improve speed
+-Added Developers Fund ad Service
+
+[B]Version 1.0.3[/B]
+
+-Improved speed by decreasing memory footprint
+-Removed Google Analytics
+-Converted to universal toolkit for watchistory & playback engine
+-Changed to universal favorites (coder the-one)
+-Added New sports streams
+-Added HackerMil MainEvents
+-MultiLinks now supported in live streams
+-Added Pagination to Youtube Channel list
+-Fixed MMA Fighting
+-Better error handling
+
+[B]Version 1.0.2[/B]
+
+-Removed importing of unnessesary modules
+-Fixed Script error
+
+[B]Version 1.0.1[/B]
+
+-Added k1m05 live sports
+-Added Max Powers live sports
+-Added Crusader Arabic live sports
+-Minor improvment and mending
+
+[B]Version 1.0.0[/B]
+
+-Intial release
+

@@ -27,6 +27,10 @@
       id="repository.Spanish"
       version="1.0.0"
       path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Spanish/repository.Spanish/repository.Spanish-1.0.0.zip"/>
+<repo name="Common"
+      id="repository.Common"
+      version="1.0.0"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Common/repository.Common/repository.Common-1.0.0.zip"/>
 <repo name="Canadian"
       id="repository.Canadian"
       version="1.0.0"

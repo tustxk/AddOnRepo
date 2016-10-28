@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<addon id="repository.addon.recommend" name="Addon_Recommend" version="0.0.2" provider-name="CrazyAddon">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0" />
+	</requires>
+	<extension point="xbmc.addon.repository" name="Addon_Recommend">
+		<dir minversion="0.0.1">
+			<info compressed="false">http://raw.githubusercontent.com/Crazyaddon/AddOnRepo/master/Update/addons.xml</info>
+			<checksum>http://raw.githubusercontent.com/Crazyaddon/AddOnRepo/master/Update/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.githubusercontent.com/Crazyaddon/AddOnRepo/master/Update/repo/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from Addon_Recommend repository</summary>
+		<description>Recommend addons.[CR][CR]</description>
+		<disclaimer>All rights reserved [CR]</disclaimer>
+		<platform>all</platform>
+		<website></website>
+	</extension>   
+</addon>

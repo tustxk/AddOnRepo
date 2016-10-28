@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon id="plugin.video.plus72" name="Plus7 - 2" version="0.0.11" provider-name="boggob">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata" library="default.py">
+    <summary>Plus7 -2</summary>
+    <description>Video streaming of full length episodes as seen on Seven, 7TWO and other content partners</description>
+    <provides>video</provides>
+    <platform>all</platform>
+  </extension>
+</addon>

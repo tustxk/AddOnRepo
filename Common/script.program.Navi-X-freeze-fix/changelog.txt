@@ -1,0 +1,20 @@
+[B]Vresion 0.0.6[B]
+ - Fixed more white space errors in the three files and added a 
+ - shorter timeout for the server call in CFileLoader line 253
+[B}Version 0.0.5[B]
+ - Fixed white space errors in Navi-X that became apparent when the server went down
+[B]Version 0.0.4[B]
+ - Added Gotham addon.xml change to 2.1.0
+ - Rewrote the code a little to accomodate additons better.
+ 
+[B]Version 0.0.3[B]
+- Fixed the shutil.copy2 exception issue with andriod.
+- Some code cleanup also. 
+
+[B]Version 0.0.2[/B]
+- Thanks goes out to TheHighway for doing proof reading and debugging for Crzen.
+- Slight testing and repair work.
+- Proof read.  Ready for testing.
+
+[B]Version 0.0.1[/B]
+- initial build.

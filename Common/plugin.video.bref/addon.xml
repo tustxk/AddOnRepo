@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.bref"
+       name="bref."
+       version="0.2.3"
+       provider-name="TuxGasy">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Bref Plugin</summary>
+    <description>Ce plugin permet de regarder la série télévisée Bref diffusée sur le site de CanalPlus.</description>
+  </extension>
+</addon>

@@ -1,0 +1,65 @@
+[B]AnimeFATE - 0.1.0[/B]
+- Tons of regex string adjustments, and some replace commands.
+- The site seems to be functioning again.
+
+[B]AnimeFATE - 0.0.9[/B]
+- ...
+
+[B]AnimeFATE - 0.0.8[/B]
+- Archives by "/ Year /" and "/ Year / Month /".
+- Studdying the search method, but haven't setup anything for it yet.
+
+[B]AnimeFATE - 0.0.7[/B]
+- Fix to About
+
+[B]AnimeFATE - 0.0.6[/B]
+- Changes made to common.py for stand-a-lone version.
+### Added Checking system for Favorites.
+### 'Remove' now displayed in place of the Add ContextMenuItem where the favorite list already contains the item.
+- Favorites Names on Favorites Folders' ContextMenuItems
+- ...
+- Note: This patch is to the Stand-a-lone version of this addon only.
+- ContextMenuItems for Visited/Watched Status.
+- @ markings for Watched Status (Visited).
+- Visited/Watched Status varaibles and functions.
+
+[B]AnimeFATE - 0.0.5[/B]
+- Additional graphics by Marquerite.  Fanart, Mutants (genre), Animation (genre).
+- Added "Empty List" to context menu on favorites.
+- Fixed Last Show art when using Favorites.
+- Last Episode (Host Menu).
+- Last Show (Episode Menu).
+
+[B]AnimeFATE - 0.0.4[/B]
+- Attempting to setup slight handling for Movies.  Nothing major like metadata yet.
+- Change on the File naming: Show Title - s#e# ## - Episode Title.mp4.  The ## will be the Episode Number as shown on the site.
+- Added overall Episode Number as shown on the site, Season Number, and Season's Episode Number to the Plot Description.  Of course, it got some color.
+- Fixed Last Episode's Episode Number.
+- Episode MetaData should now work where available for Seasons 1 and 2.  Seasons 3 and greater May work as well, but will have to double check things when I find a series with enough seasons.
+- When certain things are not found when getting from the current season it will record the previous episode number and shift the season number up 1.
+- Episodes will for now on be displayed with season 1 episode 1 being displayed first.  This is for sake of episode metadata.
+- Note: A "TTT OOO NNN" of testing went into this version's improved setup for episode metadata.  This should help out my other addons too.
+- Nearly all text, other than Blue-colored text, got switched over to the new color scheme.
+- Text Coloring - Added new Text-coloring function, AFColoring().
+
+[B]AnimeFATE - 0.0.3[/B]
+- Currently noticed video hosts: vidcrazy.net, uploadcrazy.net, vidvalley.net, animeonair.com
+- Added missing coding from [I]TheBinaryHighway[/I].
+- addon name="A[COLOR firebrick][I]nime[/I][/COLOR] F[COLOR mediumpurple]ate[/COLOR]".  Adjusted colors and uncolored the F on Fate.
+- Graphic change(s) - icon.png altered version of the KissAnime icon.png with chibi's moved around and text changed, KA spins removed for AF icon.png.
+- Graphic Note: Most of the graphics are either by Marquerite or Originally by her and where made originally for use in my KissAnime addon.  Some graphics are being reused to save space of images in cached storage, while the main menu button image are being tweaked by myself.
+- Graphic Change(s) - most buttons @ the main menu.
+### purple #976dba
+### purple-white #e5d0f6
+
+[B]AnimeFATE - 0.0.2[/B]
+- Moved the Series Link above the Episode Link on Latest Episodes menu.
+- Fixed tiny size of thumbnail images for anime series, gotten from the site.
+- Trying out the graphics from my KissAnime Addon for the time being.
+- Adjusting settings.xml for addon settings on stand-a-lone version (full addon).
+
+[B]AnimeFATE - 0.0.1[/B]
+- Host plugins: TrollVid (new), UploadCrazy (updated)
+- Initial Sub-Addon for TheBinaryHighway
+
+

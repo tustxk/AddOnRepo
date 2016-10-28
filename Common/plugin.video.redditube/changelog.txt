@@ -1,0 +1,26 @@
+V1.2.5a
+Fixed Putlocker Blockage
+ 
+V1.2.0
+Added "NEXT PAGE" option
+
+V1.1.1
+Quick Fix
+
+V1.1.0
+Added deeper menus
+Added Search by Genre for Sockshare
+Added Vimeo Video support
+Cleaned code 
+Adjusted color scheme
+Increased addon Speed
+
+V1.0.5
+Halloween Update!!
+Added Search By Genres in Putlocker
+"Check out the Horror Section"
+
+Removed "Top Sockshare" link 
+
+V1.0.0
+Initial Release

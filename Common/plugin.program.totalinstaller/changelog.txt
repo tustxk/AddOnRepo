@@ -1,0 +1,25 @@
+v.1.0.7
+--Complete restructure, moved all addon related stuff into it's own section
+--Fixed issue with videos not playing
+--Added Community Builds
+--Added Log Viewer
+--Added Speed Test
+--Added IP Check
+--Added Backup
+--Added Restore
+--Added TotalXBMC Guides
+--Added Clean Start option
+--Added XBMC/Kodi version check
+--Added Make Addons Helix Compatible
+--Fixed Log Uploader to work with kodi (unable to fully test as xbmclogs.com is down atm)
+--Cleaned up the annoying popups that appeared in 1.0.6.1 randomly
+--Moved Any tools into a new tools section and any addon fixes into a new addon fix section
+--Added new artwork (Big thanks to Gandelf for the new artwork)
+
+v.1.0.6.1
+--Added Addon Fixes for OSS/OnTapp integration
+--Added popups to credit devs and tell users to support them on respective forums
+--Added upload log option
+
+v1.0.5
+--Changed the regex so it matches the new layout, now it doesn't matter if site is in development mode or not.

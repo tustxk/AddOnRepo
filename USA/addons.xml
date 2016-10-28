@@ -1,5 +1,112 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<!--suppress ALL -->
+<addon id="plugin.video.1channel" version="2.5.55" name="1Channel" provider-name="Bstrdsmkr, tuxen, tknorris">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.urlresolver" version="2.2.0"/>
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.metahandler" version="2.6.0" />
+        <import addon="script.module.myconnpy" version="1.1.6" />
+        <import addon="script.module.axel.downloader" version="0.2.0" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse 1channel.ch</summary>
+        <description>Play a wide selection of movies and TV shows from PrimeWire.ag.
+***This addon is supported at [COLOR blue]www.tvaddons.ag[/COLOR], [COLOR white][B]NOT[/B][/COLOR] [COLOR red]xbmc.org[/COLOR]. ***
+        </description>
+        <platform>all</platform>
+        <website>http://tvaddons.ag/</website>
+		<forum>http://forums.tvaddons.ag/forums/32-BSTRDSMKR-S-REPOSITORY</forum>
+    </extension>
+</addon>
+
+<addon id="plugin.video.4od"
+       name="4oD"
+       version="4.0.6"
+       provider-name="mossy">
+    <requires>
+        <import addon="script.module.socksipy" version="2.0.0"/>
+    	<import addon="script.module.beautifulsoup" version="3.2.0"/>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <language>en</language>
+        <platform>all</platform>
+        <summary>Channel 4 On Demand</summary>
+        <description>Channel 4 On Demand</description>
+        <disclaimer>May not work outside the UK and Ireland</disclaimer>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <forum>http://forum.xbmc.org/showthread.php?tid=191599</forum>
+        <website>http://code.google.com/p/mossy-xbmc-repo/</website>
+        <source>http://code.google.com/p/plugin-video-4od/source/browse/</source>
+        <email></email>
+    </extension>
+</addon>
+
+<addon id="plugin.video.5ivdo"
+    name="5ivdo(5ivdo)"
+    version="1.1.5"
+    provider-name="5ivdo">
+    <extension
+        point="xbmc.python.pluginsource"
+        library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">5ivdo video plugin</summary>
+        <summary lang="zh">我爱VDO</summary>
+        <description lang="en">online video from 5ivdo.com</description>
+        <description lang="zh">在线视频聚合，主站[http://www.5ivdo.com]。基于XBMC运行，能够支持优土，爱奇艺，腾讯，搜狐，乐视，新浪，风行等主要视频内容的在线播放，更多站点支持敬请期待。本站作为资源导航，只为个人服务，商业用途勿扰。你所体验的所有视频内容，版权归属相应网站，应对他们的工作心存感激。有任何意见或建议请加入QQ群[197687378]，或者关注官方微博[http://weibo.com/5ivdo]。让我们为创造更好的XBMC体验而努力！</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="plugin.video.allinone" version="7.2.1" name="Entertainment [COLOR dodgerblue][B]HUB[/B][/COLOR]" provider-name="@TheYid009">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.TheYid.common" version="0.1.1"/>
+        <import addon="script.module.urlresolver"  version="2.0.9"/>
+        <import addon="script.module.simplejson" version="3.3.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>All in one [COLOR lime]SUPER ADDON[/COLOR] for all you movies tv shows sports and music lovers free on demand streaming 720p 1080p HD SD MP4 MKV AVI AND NOW with 1000s 0f live streams</summary>
+        <description>Play a wide selection of scene release movies and Tv shows from OneClickWatch Viooz MyVideoLinks and loads more in this [COLOR lime]SUPER ADDON[/COLOR] 1000's and 1000's of movies and tv shows all free.... best hosts are vidlocker hugefiles vidto billionuploads vidbull 180upload movreel vidxden vidbux and many many more...NOW WITH RADIO STREAMING</description>
+        <platform>all</platform>
+	 <website>http://www.tvaddons.ag/</website>
+        <forum>http://www.tvaddons.ag/forums/forums/146-THEYID-REPO</forum>
+	 <email>Twitter @TheYid009</email>
+        <disclaimer lang="en">[COLOR red][B][I] @TheYid009 [/B][/I][/COLOR] [COLOR dodgerblue][B]xbmchub.com[/B][/COLOR]</disclaimer>
+    </extension>
+</addon>
+
+	<addon id="plugin.video.beeg.com" name="beeg.com  (Adult) - Powered by XBMCHUB.COM" version="1.0.5" provider-name="MisterX">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="Default.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">beeg.com (Adult)</summary>
+			<description lang="en">beeg.com (Adult) - Powered by XBMCHUB.COM</description>
+			<license>GPL 3.0</license>
+			<platform>all</platform>
+		</extension>
+	</addon>
+
 <addon id="repository.USA" name="USA" version="1.0.0" provider-name="netxeon-country">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/tustxk/AddOnRepo/master/USA/addons.xml</info>

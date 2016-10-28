@@ -1,0 +1,18 @@
+<settings>
+	<category label="URL Settings">
+        <setting id="custurl" type="labelenum" label="Domain"
+                 values="http://movies.myvideolinks.eu/|http://movies.myvideolinks.xyz/|http://myvideolinks.xyz/"
+                 default="http://movies.myvideolinks.eu/"/>
+      </category>
+
+	<category label="30000">
+		<setting label="Resolver Settings" type="action" action="Addon.OpenSettings(script.module.urlresolver)" enable="System.HasAddon(script.module.urlresolver)"/>
+	</category>
+
+   <category label="Auto-View">
+   	<setting id="auto-view" type="bool" label="Enable Automatic View" default="true"/>
+   	<setting id="tvshows-view" type="number" label="Movie View" default="500" enable="!eq(-2,false)"/>
+   	<setting id="default-view" type="number" label="Default View" default="50" enable="!eq(-3,false)"/>
+   	<setting id="radio-view" type="number" label="Radio View" default="150" enable="!eq(-2,false)"/>
+   </category>
+</settings>

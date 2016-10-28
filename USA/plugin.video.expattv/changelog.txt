@@ -1,0 +1,57 @@
+v3.1.9
+:)
+
+v3.1
+Fixed Expat For Tv Guide Plugin
+
+v2.3
+Added More Channels
+
+v2.2
+Changed icon
+
+v2.1
+Quick Fix
+
+v2.0
+Fixed Stream Issues
+
+v1.9c
+Hopefully Fixed Kicking Out After 5 Minutes
+
+v1.9b
+Fixed Script Error
+
+v1.9a
+Added Sort Order
+
+v1.9
+Added Enable/Disable Channels In Settings
+
+v1.8
+Better Progress For Streams
+
+v1.7
+Saves The rtmp Stream Once Found
+
+v1.6
+TRying To Fix Guys
+
+v1.5
+Added Film 4
+
+v1.4
+Added More Channels
+Enable Hd in Settings
+
+v1.3
+Added More Channels
+
+v1.2
+Added More Channels
+
+v1.1
+Added More Channels
+
+v1.0
+Initial Release

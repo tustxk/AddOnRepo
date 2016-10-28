@@ -613,7 +613,7 @@ Currently implemented:
 
 <addon
   id="plugin.video.mediathek.subs"
-  version="0.5.4-p1"
+  version="0.5.4"
   name="Mediathek with subs"
   provider-name="Raptor 2101 [raptor2101@gmx.de]">
   <requires>

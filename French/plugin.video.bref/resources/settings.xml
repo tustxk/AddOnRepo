@@ -1,0 +1,4 @@
+<settings>
+   <setting id="type_flux" type="select" lvalues="30000|30001|30002" label="Type de flux" default=""/>
+</settings>
+

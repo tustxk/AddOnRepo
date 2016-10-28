@@ -1,0 +1,25 @@
+1.0.7
+ - Removed xbmc.python requirement
+ - Removed Cast Info label
+
+1.0.6
+ - Changed streaming protocol, now using RTSP (thanks to bfrigon - tou-tv-xmbc)
+
+1.0.5
+ - version by infologique.net
+
+1.0.4
+ - fixed: possible error to parse myfavorites is episode outdated
+
+1.0.3
+ - fixed: possible error to parse myfavorites is tvshow outdated
+
+1.0.2
+ - fixed: bad import modules, under ATV and/or OSX
+
+1.0.1
+ - added fanart toutv in root
+ - fixed: typo, ajouer to ajouter
+
+1.0.0
+ - Initial version

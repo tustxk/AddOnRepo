@@ -1,0 +1,75 @@
+if param=='empty':
+        URL=dom.getElementsByTagName('URL')
+        for nodeURL in URL:
+            VIDEO=nodeURL.getElementsByTagName('video:video') 
+            for nodeVIDEO in VIDEO:
+                CATEGORY=nodeVIDEO.getElementsByTagName('video:category')
+                for nodeCATEGORY in CATEGORY:
+                    category=nodeCATEGORY.firstChild.data
+                    if category not in  d:
+                        shows.append( [category, category,'','folder'] )
+                        d[category]=category 
+    else:
+        URL=dom.getElementsByTagName('URL')
+        for nodeURL in URL:
+            VIDEO=nodeURL.getElementsByTagName('video:video') 
+            for nodeVIDEO in VIDEO:
+                CATEGORY=nodeVIDEO.getElementsByTagName('video:category')
+                for nodeCATEGORY in CATEGORY:
+                    category=nodeCATEGORY.firstChild.data
+                TITLE=nodeVIDEO.getElementsByTagName('video:title')
+                for nodeTITLE in TITLE:
+                    title=nodeTITLE.firstChild.data
+                    if (title not in  d) and category==param:
+                        shows.append( [title, title,'','shows'] )
+                        d[title]=title                    
+              
+    return shows
+          
+def list_videos(show_title):
+    videos=[]    
+    
+    VIDEO=dom.getElementsByTagName('VIDEO')
+    
+    URL=dom.getElementsByTagName('URL')
+    for nodeURL in URL:       
+        video_url=''
+        name=''
+        image_url=''
+        date=''
+        duration=''
+        views=''
+        desc=''
+        rating=''
+        
+        VIDEO=nodeURL.getElementsByTagName('video:video') 
+        for nodeVIDEO in VIDEO:
+            VIDEOURL=nodeVIDEO.getElementsByTagName('video:player_loc')
+            for nodeVIDEOURL in VIDEOURL:
+                video_url=nodeVIDEOURL.firstChild.data
+                IMG_URL=nodeVIDEO.getElementsByTagName('video:thumbnail_loc')
+            TITLE=nodeVIDEO.getElementsByTagName('video:title')
+            for nodeTITLE in TITLE:
+                title=nodeTITLE.firstChild.data
+            for nodeIMG_URL in IMG_URL:
+                image_url=nodeIMG_URL.firstChild.data
+                DESCRIPTION=nodeVIDEO.getElementsByTagName('video:description')
+                for nodeDESCRIPTION in DESCRIPTION:
+                    name=nodeDESCRIPTION.firstChild.data
+                    desc=name
+                    xmlRATING=nodeVIDEO.getElementsByTagName('video:rating')
+                    for nodexmlRATING in xmlRATING:
+                        rating=nodexmlRATING.firstChild.data
+                        xmlVIEW=nodeVIDEO.getElementsByTagName('video:view_count')
+                        for nodexmlVIEW in xmlVIEW:
+                            views=nodexmlVIEW.firstChild.data
+                            xmlPUB_DATE=nodeVIDEO.getElementsByTagName('video:publication_date')
+                            for nodexmlPUB_DATE in xmlPUB_DATE:
+                                date=nodexmlPUB_DATE.firstChild.data
+                                xmlDURATION=nodeVIDEO.getElementsByTagName('video:duration')
+                                for nodexmlDURATION in xmlDURATION:
+                                    duration=nodexmlDURATION.firstChild.data
+            
+            if title==show_title:
+                videos.append( [video_url, name, image_url, date, duration, views, rating, desc] )
+    return videos

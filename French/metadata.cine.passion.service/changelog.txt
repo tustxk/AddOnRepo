@@ -1,0 +1,22 @@
+1.0.6
+- sync with metadata.cine.passion-xbmc.org 1.1.7
+- changed Api User.GetQuota for User.GetInfos
+
+1.0.5
+- fixed: UnicodeDecodeError on toogle auto-country
+
+1.0.4
+- fixed: User id for get avatar
+
+1.0.3
+- fixed: avatar url with "action=dlattach"
+- added: option to delete cache cookies
+
+1.0.2
+- added: check settings scraper compatibility with service and change settings is ok
+
+1.0.1
+- fixed: default credits in settings.xml '33006' lol
+
+1.0.0
+- initial version

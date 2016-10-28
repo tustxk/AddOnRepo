@@ -1,0 +1,8 @@
+0.0.4
+Correction d'un problème avec Vrak.tv
+
+0.0.3
+Correction pour le support d'un nouveau format de vidéos ASTRAL (Bell Media)
+
+---
+Version BETA initiale

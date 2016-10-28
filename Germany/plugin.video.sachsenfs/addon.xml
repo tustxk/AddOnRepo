@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.sachsenfs" name="Sachsen Fernsehen" version="0.2" provider-name="membrane">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="de">Sachsen Fernsehen</summary>
+        <description lang="de">Sachsen Fernsehen</description>
+    </extension>
+</addon>

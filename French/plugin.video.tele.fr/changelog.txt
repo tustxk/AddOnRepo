@@ -1,0 +1,160 @@
+[B]3.0.7[/B]
+. Add F4M proxy 2.1.4 depedencies.
+
+[B]3.0.6[/B]
+. Small display string corrections. 
+. Update informations concerning this add-on. 
+
+[B]3.0.5[/B]
+. Improve decay channels support. 
+
+[B]3.0.4[/B]
+. Remove colors into sources list.
+. Add full english translation support.
+. Clean code.
+
+[B]3.0.3[/B]
+. Add source format information.
+. Fix english translation.
+
+[B]3.0.2[/B]
+. Add channel name and logo display support during play.
+
+[B]3.0.1[/B]
+. Add numbers of channel per category.
+. Fix fanart display for categories.
+
+[B]3.0.0[/B]
+. Rebuild code source from cratch.
+. Remove restricted access.
+
+[B]2.0.0[/B]
+. Add login/pass restricted access to server.
+. Rearrange settings display.
+. Change add-on icon.
+. Change add-on fanart.
+
+[B]1.13.12[/B]
+. Ungeoblock myfrtv sources support.
+
+[B]1.13.11[/B]
+. Fix busy dialog bug.
+. Fix myfrtv sources support (but geobloqued).
+
+[B]1.13.10[/B]
+. Fix myfrtv sources busy dialog.
+
+[B]1.13.9[/B]
+. Add dailymotion multi-sources support.
+
+[B]1.13.8[3B]
+. Fix myfrtv sources support.
+
+[B]1.13.7[/B]
+. Add direct2watch sources support.
+. Add earlier busy dialog box for external sources support.
+. Fix playtvfr sources support.
+
+[B]1.13.6[3B]
+. Fix telvza sources support.
+
+[B]1.13.5[/B]
+. Code cleaning
+
+[B]1.13.4[/B]
+. Fix files corruption read access error.
+
+[B]1.13.3[/B]
+. Add TV5 monde support.
+
+[B]1.13.2[/B]
+. Improve WAT support.
+. Clean code.
+
+[B]1.13.1[/B]
+. Bring back partial WAT support.
+. Fix channel and image update.
+
+[B]1.13.0[/B]
+. Improve display speed.
+. Modify telvza sources support (but XBMC bug!???).
+. Clean code.
+
+[B]1.12.6[/B]
+. Add biz.tv F4M support.
+
+[B]1.12.5[/B]
+. Fix forced image cache update.
+
+[B]1.12.4[/B]
+. Add remove WAT support.
+
+[B]1.12.3[/B]
+. Add partial WAT support.
+
+[B]1.12.2[/B]
+. Increase server playlist protection.
+
+[B]1.12.1[/B]
+. Fix F4M proxy 2.1.3 depedencies.
+
+[B]1.12.0[/B]
+. Add telvza sources support.
+
+[B]1.11.2[/B]
+. May fix problem for Apple mobile devices.
+
+[B]1.11.1[/B]
+. Fix display by categories.
+
+[B]1.11.0[/B]
+. Display random channel fanarts for categories.
+. Display number of channel for categories.
+. Display categories description.
+. Add time-shifted sources filter.
+. Add download statictics support.
+
+[B]1.10.8[/B]
+. May fix filmon sources support.
+
+[B]1.10.7[/B]
+. Increase server scripts protections.
+
+[B]1.10.6[/B]
+. Add filmon sources support.
+
+[B]1.10.5[/B]
+. Improve livetv.tn sources support.
+
+[B]1.10.4[/B]
+. Add livetv.tn sources support.
+
+[B]1.10.3[/B]
+. Fix adult channel filter display.
+
+[B]1.10.2[/B]
+. Fix F4M url recognition.
+
+[B]1.10.1[/B]
+. Fix small F4M url encoding bug.
+
+[B]1.10.0[/B]
+. Add F4M support.
+
+[B]1.9.4[/B]
+. Remove Justin.tv support.
+ 
+[B]1.9.3[/B]
+. Fix channel list update.
+. Fix english settings display.
+
+[B]1.9.2[/B]
+. Fix iphone-tv sources support.
+
+[B]1.9.1[/B]
+. Increase server scripts protections.
+
+[B]1.9.0[/B]
+. New addon name (for future Kody release).
+. New icon.
+. Add server script protections.

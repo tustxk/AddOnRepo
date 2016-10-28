@@ -1,0 +1,23 @@
+<settings>
+    <category label="Meta Data">
+       <setting id="use-meta" type="bool" label="30600" default="true"/>
+       <setting id="meta-path" type="action" label="30601" option="close" enable="!eq(-1,false)" action="RunScript(special://home/addons/plugin.video.frmovie/default.py,url=nothing,mode=58,name=Metahanlder+Settings)"/>
+       <setting id="movie-covers" type="bool" label="30602" default="true" enable="!eq(-2,false)"/>
+       <setting id="tv-banners" type="bool" label="30603" default="true" enable="!eq(-3,false)"/>
+       <setting id="tv-posters" type="bool" label="30604" default="false" enable="!eq(-1,false) + !eq(-4,false)"/>	  
+       <setting id="movie-fanart" type="bool" label="30605" default="false" enable="!eq(-5,false)"/>
+       <setting id="tv-fanart" type="bool" label="30606" default="false" enable="!eq(-6,false)"/>
+    </category>
+    <category label="Auto-View">
+        <setting id="auto-view" type="bool" label="30400" default="false"/>
+        <setting id="movie-view" type="number" label="30401" default="503" enable="!eq(-1,false)"/>
+        <setting id="tvshow-view" type="number" label="30402" default="503" enable="!eq(-2,false)"/>
+        <setting id="season-view" type="number" label="30403" default="504" enable="!eq(-3,false)"/>	
+        <setting id="episode-view" type="number" label="30404" default="504" enable="!eq(-4,false)"/>
+        <setting id="default-view" type="number" label="30405" default="50"/>
+	<setting id="view_mode" type="enum" label="Set View Mode For Channels(Confluence only)" values="Default|List|Big List|Thumbnail|Poster Wrap|Fanart|Media Info|Media Info 2" default="0" />
+    </category>
+</settings>
+
+
+

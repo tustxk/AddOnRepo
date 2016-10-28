@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.gamekult"
+       name="Gamekult"
+       version="1.1.0"
+       provider-name="sebcbi1">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="fr">Gamekult</summary>
+    <summary lang="en">Gamekult</summary>
+    <description lang="fr">Gamekult.com : toute l'actualité du jeu vidéo PC, consoles, mobiles. Les 20 dernières vidéos de chaque catégorie.</description>
+    <description lang="en">Gamekult.com : French video games news. Latest 20 vids in each categories</description>
+  </extension>
+</addon>

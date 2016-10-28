@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.zdf_new" name="ZDF new" version="0.0.4" provider-name="membrane">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+	<broken>Experimental</broken>
+        <platform>all</platform>
+        <summary lang="en">ZDF new</summary>
+        <description lang="en">ZDF new</description>
+    </extension>
+</addon>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30001">Display</string>
+    <string id="30002">Home page</string>
+    <string id="30003">channels</string>
+    <string id="30004">Contents</string>
+    <string id="30005">Countries</string>
+    <string id="30006">All channels</string>
+    <string id="30007">Choose a source</string>
+    <string id="30008">Adult channels</string>
+    <string id="30009">Broken channels</string>
+    <string id="30010">Broken sources</string>
+    <string id="30011">Empty contents/countries</string>
+    <string id="30012">Administration</string>
+    <string id="30013">EPG infos</string>
+    <string id="30014">Number of programs</string>
+    <string id="30015">Geo-blocked sources</string>
+    <string id="30016">Shifted sources</string>
+    <string id="30017"></string>
+    <string id="30018"></string>
+    <string id="30019">only</string>
+    <string id="30020">hours</string>
+    <string id="30021">external player</string>
+    <string id="30022">not available</string>
+    <string id="30023">empty</string>
+    <string id="30024">days</string>
+</strings>

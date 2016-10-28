@@ -1,0 +1,47 @@
+V2.1.4
+ - Gotham Version
+
+V2.1.3
+ - fixed : accented characters in user name or path
+
+V2.1.2
+ - fixed : movieset setting not handled properly
+
+V2.1.1
+ - new logo
+
+v2.1.0
+ - scraper plugged to the Media Passion DK database
+ - logo changed
+
+v2.0.9
+ - fixed : moviesets tags not handle properly
+ 
+v2.0.8
+ - scraper plugged to the old database Cine-Passion
+
+v2.0.7
+ - fixed : add aspect=poster to thumb
+
+v2.0.6
+ - fixed : change tagline by outline for resume info
+
+v2.0.5
+ - Remove Cine-Passion scraper as Media-Passion is in production
+ - added : option in metadata tab to import or not movieset tags
+
+v2.0.4
+ - fixed : media-passion URL NFO file (e.g.: http://www.media-passion.org/movie/60637/ice-age-a-mammoth-christmas-2011 )
+ - new icon.png
+
+v2.0.3
+ - fixed : add media not found to library on auto-scan.
+
+v2.0.2
+ - actived scraper errors
+ - added : setting for media not found to add library. by default true
+ - changed : default scraper to Media-Passion
+ - fixed : id_imdb
+
+v2.0.0 - v2.0.1
+ - Version next gen of cine-passion

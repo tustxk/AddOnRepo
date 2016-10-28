@@ -1448,7 +1448,7 @@ Raadpleeg de lokale wetgeving voordat u deze plugin installeert.</disclaimer>
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary>mindmade.org addon tools</summary>
+    <summary>mindmade.org addon  tools</summary>
     <description>
         tool library for xbmc addons.
     </description>

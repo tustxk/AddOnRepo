@@ -11,6 +11,10 @@
       id="repository.Vietnamese"
       version="1.0.0"
       path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Vietnamese/repository.Vietnamese/repository.Vietnamese-1.0.0.zip"/>
+<repo name="Netxeon"
+      id="repository.Netxeon"
+      version="1.0.0"
+      path="https://raw.githubusercontent.com/tustxk/AddOnRepo/master/Netxeon/repository.Netxeon/repository.Netxeon-1.0.0.zip"/>
 <repo name="Thai"
       id="repository.Thai"
       version="1.0.0"

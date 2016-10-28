@@ -15,6 +15,20 @@ def getVideoHostingInfo():
     video_hosting_info.set_video_hosting_name(VIDEO_HOSTING_NAME)
     return video_hosting_info
 
+def returnVideoInfo(video_id):
+    video_info = VideoInfo()
+    video_info.set_video_hosting_info(getVideoHostingInfo())
+    video_info.set_video_id(video_id)
+    try:
+        video_link = 'http://www.mediaplaybox'+video_id
+        video_info.set_video_stopped(False)
+        video_info.set_video_name("Media PlayBox Video")
+        video_info.add_video_link(VIDEO_QUAL_SD, video_link, addUserAgent=False)
+    except Exception,e:
+        video_info.set_video_stopped(True)
+        raise e
+    return video_info
+
 def retrieveVideoInfo(video_id):
     video_info = VideoInfo()
     video_info.set_video_hosting_info(getVideoHostingInfo())

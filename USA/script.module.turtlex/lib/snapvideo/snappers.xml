@@ -281,6 +281,10 @@
     <snapper function="retrieveVideoInfo" enabled="true" module="snapvideo.MediaPlayBox">
     	<video-id regex="mediaplaybox.com/video/(.+?)&"/>
     </snapper>
+    
+    <snapper function="returnVideoInfo" enabled="true" module="snapvideo.MediaPlayBox">
+    	<video-id regex="mediaplaybox.com(.+?).mp4"/>
+    </snapper>
 
 	<!-- The following snapper should be at the end of all srcappers -->
 	<snapper module="snapvideo.UrlResolverDelegator" function="retrieveVideoInfo"

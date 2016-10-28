@@ -2992,7 +2992,7 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
   </extension>
 </addon>
 
-<addon id="script.module.turtlex" name="Turtle X" version="1.8.1"
+<addon id="script.module.turtlex" name="Turtle X" version="1.8.2"
 	provider-name="AJ">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
